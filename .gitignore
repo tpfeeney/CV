@@ -1,0 +1,9 @@
+*.Rhistory
+*.aux
+*.bcf
+*.fdb_latexmk
+*.out
+*.log
+*.run.xml
+*.synctex.gz
+*.fls

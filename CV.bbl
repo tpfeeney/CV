@@ -1,0 +1,1849 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{feeney_association_2019-1}{article}{}
+      \name{author}{8}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=365836b7bbd560905327ca8fae53588e}{%
+           family={Cassidy},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5b1669b58223ee720e0531f29999d70}{%
+           family={Tripodis},
+           familyi={T\bibinitperiod},
+           given={Yorghos},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e0963b9e7ca0e86aee5a8172d55aafa}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2fd9ef2ffb35b22defaff70ab02e5854}{%
+           family={Kavanah},
+           familyi={K\bibinitperiod},
+           given={Maureen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3f652534c15c344204ee786dc8a7820e}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Teviah},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fbdc63e543c05a691649fad7a4d30937}{%
+           family={Tseng},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8d07baa24ea7333c6083f28e87f4a066}
+      \strng{fullhash}{58d968468140ef732d9a40776d40e9a1}
+      \strng{bibnamehash}{58d968468140ef732d9a40776d40e9a1}
+      \strng{authorbibnamehash}{58d968468140ef732d9a40776d40e9a1}
+      \strng{authornamehash}{8d07baa24ea7333c6083f28e87f4a066}
+      \strng{authorfullhash}{58d968468140ef732d9a40776d40e9a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1068-9265, 1534-4681}
+      \field{journaltitle}{Annals of Surgical Oncology}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shorttitle}{Association of {{Primary Language}} with {{Outcomes After Operations Typically Performed}} to {{Treat Cancer}}}
+      \field{title}{Association of {{Primary Language}} with {{Outcomes After Operations Typically Performed}} to {{Treat Cancer}}: {{Analysis}} of a {{Statewide Database}}}
+      \field{volume}{26}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{2684\bibrangedash 2693}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1245/s10434-019-07484-8
+      \endverb
+    \endentry
+    \entry{feeney_association_2019}{article}{}
+      \name{author}{8}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=bf953a226aff45abc1a38d72711d66ce}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Sabrina\bibnamedelima Elena},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5b1669b58223ee720e0531f29999d70}{%
+           family={Tripodis},
+           familyi={T\bibinitperiod},
+           given={Yorghos},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3820ba84ef5c0a7af5e8e65b63b464c}{%
+           family={Brahmbhatt},
+           familyi={B\bibinitperiod},
+           given={Tejal\bibnamedelima Sudhirkumar},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a9ddde99d00041988bd9fb98bdc352bf}{%
+           family={Schulze},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=235914f0720d264853d32e8e015d1d7b}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73b9a904f5bf7a346030f02c040252ee}{%
+           family={Dechert},
+           familyi={D\bibinitperiod},
+           given={Tracey},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e4cd3db4a46a062a5fd51c2010614a5c}
+      \strng{fullhash}{344e60fa208856cf0f6b7ee759b732e6}
+      \strng{bibnamehash}{344e60fa208856cf0f6b7ee759b732e6}
+      \strng{authorbibnamehash}{344e60fa208856cf0f6b7ee759b732e6}
+      \strng{authornamehash}{e4cd3db4a46a062a5fd51c2010614a5c}
+      \strng{authorfullhash}{344e60fa208856cf0f6b7ee759b732e6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00224804}
+      \field{journaltitle}{Journal of Surgical Research}
+      \field{month}{12}
+      \field{note}{ZSCC: 0000000}
+      \field{title}{The {{Association}} of {{Primary Language With Emergency General Surgery Outcomes Using}} a {{Statewide Database}}}
+      \field{volume}{244}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{484\bibrangedash 491}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jss.2019.06.082
+      \endverb
+    \endentry
+    \entry{feeney_evaluation_2019}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=a19249763285f40fc59e9c95bb66601a}{%
+           family={Talutis},
+           familyi={T\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=628c7d225704ba0e7f9a6c2f21b63e3c}{%
+           family={Janeway},
+           familyi={J\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d301c907a7266a2e607956b72282642}{%
+           family={Sridhar},
+           familyi={S\bibinitperiod},
+           given={Praveen},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a1255b16e273e6e023fd17a5d275bd4e}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Avneesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7c30f13b25999db1a7e52cf5d6a4741}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc9fc7b5f6247757df60e7c14b8ec7c5}{%
+           family={Moses},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e0963b9e7ca0e86aee5a8172d55aafa}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0e20fc878dfe49fd109b09eaab3fadd8}
+      \strng{fullhash}{c2f88f5be5a11836b73c70c59e4de6a1}
+      \strng{bibnamehash}{c2f88f5be5a11836b73c70c59e4de6a1}
+      \strng{authorbibnamehash}{c2f88f5be5a11836b73c70c59e4de6a1}
+      \strng{authornamehash}{0e20fc878dfe49fd109b09eaab3fadd8}
+      \strng{authorfullhash}{c2f88f5be5a11836b73c70c59e4de6a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00396060}
+      \field{journaltitle}{Surgery}
+      \field{month}{10}
+      \field{title}{Evaluation of Incidental Adrenal Masses at a Tertiary Referral and Trauma Center}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.surg.2019.07.034
+      \endverb
+    \endentry
+    \entry{feeney_independent_2018-2}{article}{}
+      \name{author}{7}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=1c8773adf83562fc06bc274da8be7410}{%
+           family={{Castillo-Angeles}},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=23c6b1c1ea4cbc18f822fa20ce4ceb95}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2e90b92c86f1f678b131402ed250b6a9}{%
+           family={Nitzschke},
+           familyi={N\bibinitperiod},
+           given={Stephanie\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9cc2eb60ffa424706d0716323c1d5290}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=79ca3a98a394b2210233f8ee2adb3243}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={Adil\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53b9d11b1bd3a861ba06bdb1b4c45b63}{%
+           family={Havens},
+           familyi={H\bibinitperiod},
+           given={Joaquim\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4dd11f6036e719614d5074fa3b4c277c}
+      \strng{fullhash}{302c45eb69f5f9caa9badd46b7fcf57b}
+      \strng{bibnamehash}{302c45eb69f5f9caa9badd46b7fcf57b}
+      \strng{authorbibnamehash}{302c45eb69f5f9caa9badd46b7fcf57b}
+      \strng{authornamehash}{4dd11f6036e719614d5074fa3b4c277c}
+      \strng{authorfullhash}{302c45eb69f5f9caa9badd46b7fcf57b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Emergency general surgery (EGS) is an independent risk factor for morbidity and mortality, and seven procedures account for 80\% of the National burden of operative EGS. We aimed to characterize the excess morbidity and mortality attributable to these procedures based on the level of procedural risk. Methods: Retrospective analysis of the ACS National Surgical Quality Improvement Project (ACS-NSQIP) database. (2005e2014). Seven EGS procedures were stratified as high risk and low risk. Primary outcomes were overall mortality, overall morbidity, major morbidity. Multivariable logistic regression was performed. Results: There were 619,174 patients identified. Comparing EGS to non-EGS in high-risk cases the OR for overall mortality was 1.39(1.33,1.45), overall morbidity 1.07 (0.98, 1.16), and major morbidity 1.15(1.03,1,27). In low-risk cases the OR for overall mortality was 1.03 (0.89, 1.19) overall morbidity 1.35 (1.23, 1.48), and major morbidity 2.18(1.90, 2.50). Conclusions: Using a Nationally representative clinical database we identified significant heterogeneity in the outcomes of EGS depending on procedural risk. Risk stratification and benchmarking strategies need to account for the inherent heterogeneity of EGS.}
+      \field{issn}{00029610}
+      \field{journaltitle}{The American Journal of Surgery}
+      \field{month}{11}
+      \field{note}{ZSCC: 0000006}
+      \field{number}{5}
+      \field{shorttitle}{The Independent Effect of Emergency General Surgery on Outcomes Varies Depending on Case Type}
+      \field{title}{The Independent Effect of Emergency General Surgery on Outcomes Varies Depending on Case Type: {{A NSQIP}} Outcomes Study}
+      \field{volume}{216}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{856\bibrangedash 862}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.amjsurg.2018.03.006
+      \endverb
+    \endentry
+    \entry{feeney_resident_2017-1}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=11a572fd023375773e5f26645feee03a}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Lori\bibnamedelima Lyn},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7c800fa2411c2e876347fc7aacb1107}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lilian},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c2f982f6504223e3b4ee2abbc75efc95}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b8dca5e8ed3ea92b584e7e90ee08a186}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6b9b1af211207df3af87f84b850cbca2}
+      \strng{fullhash}{4aea9602d6713ef4088d3c3b2ecd719f}
+      \strng{bibnamehash}{4aea9602d6713ef4088d3c3b2ecd719f}
+      \strng{authorbibnamehash}{4aea9602d6713ef4088d3c3b2ecd719f}
+      \strng{authornamehash}{6b9b1af211207df3af87f84b850cbca2}
+      \strng{authorfullhash}{4aea9602d6713ef4088d3c3b2ecd719f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: The effect of decreased overall hours of training in surgical specialties is still being examined. Of particular interest is the safety of patients undergoing surgeries with trainee surgeons. The aim of this study was to identify if there were significant differences in outcomes of patients undergoing commonly performed thyroid and parathyroid surgeries when trainees were involved. Materials and methods: Postoperative complication rates, length of stay (LOS), and total operation time (OT) data were gathered from the American College of Surgeons National Surgical Quality Improvement Project database. The cases were identified by CPT code and were divided based on the training level of the participating resident surgeon: Junior (postgraduate year [PGY] 1-2), senior (PGY 3-5), fellow (PGY {$>$}5), as well as an attending-only group where no resident was present. We compared the clinical outcomes, LOS, and OT in each trainee group to the attending-only group as the reference. Results: A total of 84,711 cases were identified of which 45.33\% involved trainee participation. Odds ratios (ORs) and 95\% confidence interval for overall, neurologic, and bleeding complications were calculated. No difference in the odds of overall patient complications or neurologic complications was observed. A decrease in the odds of bleedings complications when a junior or senior trainee was present was observed. Overall complications in operations including a junior trainee (PGY 1-2) had an OR of 1.04 (0.85, 1.29), a senior trainee (PGY 3-5) had an OR of 1.00 (0.89, 1.13), and a fellow had an OR of 0.98 (0.74, 1.31). Mean OT was found to be significantly different between attending only and junior and senior trainees. There was no significant difference in OT between fellows and attending only. LOS did not meaningfully differ across groups. Conclusions: In three commonly performed thyroid and parathyroid operations, there is not an increased overall or neurologic complication odds when a surgical trainee is involved; there are decreased odds of a bleeding complication.}
+      \field{issn}{00224804}
+      \field{journaltitle}{Journal of Surgical Research}
+      \field{month}{12}
+      \field{note}{ZSCC: 0000003}
+      \field{shorttitle}{Resident and Fellow Participation in {{Thyroid}} and {{Parathyroid}} Surgery}
+      \field{title}{Resident and Fellow Participation in {{Thyroid}} and {{Parathyroid}} Surgery: An {{ACS}}-{{NSQIP}} Clinical Outcomes Analysis}
+      \field{volume}{220}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{346\bibrangedash 352}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jss.2017.07.030
+      \endverb
+    \endentry
+  \enddatalist
+  \keyalias{feeney\_association\_2019-1}{feeney_association_2019-1}
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{castillo-angeles_transferred_2019}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=1c8773adf83562fc06bc274da8be7410}{%
+           family={{Castillo-Angeles}},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5170f4630572d5aec528ba88624ba399}{%
+           family={{Uribe-Leitz}},
+           familyi={U\bibinitperiod},
+           given={Tarsicio},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8acbb554d06919f913e2b8476e19a24b}{%
+           family={Jarman},
+           familyi={J\bibinitperiod},
+           given={Molly},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=141dcb3abdb6c0835949260c533dcdd4}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Ginger},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9cc2eb60ffa424706d0716323c1d5290}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53b9d11b1bd3a861ba06bdb1b4c45b63}{%
+           family={Havens},
+           familyi={H\bibinitperiod},
+           given={Joaquim\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0d8da2b35fca0a90386cc69260668adf}
+      \strng{fullhash}{dd632400fbbc2e0b42789750d3b3a56d}
+      \strng{bibnamehash}{dd632400fbbc2e0b42789750d3b3a56d}
+      \strng{authorbibnamehash}{dd632400fbbc2e0b42789750d3b3a56d}
+      \strng{authornamehash}{0d8da2b35fca0a90386cc69260668adf}
+      \strng{authorfullhash}{dd632400fbbc2e0b42789750d3b3a56d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{10727515}
+      \field{journaltitle}{Journal of the American College of Surgeons}
+      \field{month}{1}
+      \field{note}{ZSCC: 0000002}
+      \field{shorttitle}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}}
+      \field{title}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}: {{A NSQIP Propensity Score Matched Analysis}}}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.jamcollsurg.2019.01.014
+      \endverb
+    \endentry
+    \entry{nguyen_differential_2019}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=788f6f5717684aef2f197751cf239e62}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Minh-Thuy},
+           giveni={M\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=2b2edb8504bd8b79edddcea12345f39a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Chanmin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7e335f0585b6d8401dbc9e0cac519cbf}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={F.\bibnamedelimi Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82dd710b0c5ae1357fbaee8532d0634e}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Suzanne\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=998ce0e9f7fa35776b6ca7def28b6fbf}{%
+           family={Bednarczyk},
+           familyi={B\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37a41f1131619683e4fe1509fb54d109}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Sabrina\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8b246c6937a57983bca8b5dcc613cf9b}
+      \strng{fullhash}{435750901ff1b9400348417818a17a5b}
+      \strng{bibnamehash}{435750901ff1b9400348417818a17a5b}
+      \strng{authorbibnamehash}{435750901ff1b9400348417818a17a5b}
+      \strng{authornamehash}{8b246c6937a57983bca8b5dcc613cf9b}
+      \strng{authorfullhash}{435750901ff1b9400348417818a17a5b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is a paucity of data regarding the utilization of palliative care consultation (PCC) in surgical specialties. We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) who died within 6 months of admission to Boston Medical Center from 2012 to 2017. Patients were included for analysis if their length of stay was more than 48 hours and if, based on their diagnoses as determined by literature review and expert consensus, they would have benefited from PCC. Bayesian regression was used to estimate the odds ratio (OR) and 99\% credible intervals (CrI) of receiving PCC adjusted for age, sex, race, insurance status, median income, and comorbidity status. Among the 739 patients who fit the inclusion criteria, only 30\% (n = 222) received PCC even though 664 (90\%) and 75 (10\%) of these patients were identified as warranting PCC on medical and surgical services, respectively. Of the 222 patients who received PCC, 214 (96\%) were cared for by medical services and 8 (4\%) were cared for by surgical services. Patients cared for primarily by surgical were significantly less likely to receive PCC than primary patients of medical service providers (OR, 0.19, 99\% CrI, 0.056-0.48). At our institution, many surgical patients appropriate for PCC are unable to benefit from this service due to low consultation numbers. Further investigation is warranted to examine if this phenomenon is observed at other institutions, elucidate the reasons for this disparity, and develop interventions to increase the appropriate use of PCC throughout all medical specialties.}
+      \field{issn}{1049-9091, 1938-2715}
+      \field{journaltitle}{American Journal of Hospice and Palliative Medicine®{}}
+      \field{month}{8}
+      \field{note}{ZSCC: 0000000}
+      \field{title}{Differential {{Utilization}} of {{Palliative Care Consultation Between Medical}} and {{Surgical Services}}}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{104990911986790}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/1049909119867904
+      \endverb
+    \endentry
+    \entry{drake_laparoscopic_2018}{article}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b45e86456c0d854c98c22d4202ddaaf4}{%
+           family={Beninato},
+           familyi={B\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb71067776dd9ebdf0e7da454e0bc7aa}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Maggie\bibnamedelima X.},
+           giveni={M\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=57b6ff339aa8186a71269a324bbf69ac}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Nirav\bibnamedelima V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7e269085ba12c7162f040f7bf5acc2dd}{%
+           family={Kluijfhout},
+           familyi={K\bibinitperiod},
+           given={Wouter\bibnamedelima P.},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=f85f56cbc773857023e1811887fe32b7}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Insoo},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80aef2e9ec5c36adf8754e88bb0ba70f}{%
+           family={Gosnell},
+           familyi={G\bibinitperiod},
+           given={Jessica\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6699f83e9fd4b19238305be9cd066531}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Wen\bibnamedelima T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d4f2d14493f8473e89bb13f39c49b7f5}{%
+           family={Duh},
+           familyi={D\bibinitperiod},
+           given={Quan-Yang},
+           giveni={Q\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e0159ddcc5654d1220ed204743b67879}
+      \strng{fullhash}{cb9734f754215962d278348029c6963a}
+      \strng{bibnamehash}{cb9734f754215962d278348029c6963a}
+      \strng{authorbibnamehash}{cb9734f754215962d278348029c6963a}
+      \strng{authornamehash}{e0159ddcc5654d1220ed204743b67879}
+      \strng{authorfullhash}{cb9734f754215962d278348029c6963a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00396060}
+      \field{journaltitle}{Surgery}
+      \field{month}{12}
+      \field{note}{ZSCC: NoCitationData[s1]}
+      \field{shorttitle}{Laparoscopic Adrenalectomy for Metastatic Disease}
+      \field{title}{Laparoscopic Adrenalectomy for Metastatic Disease: {{Retrospective}} Cohort with Long-Term, Comprehensive Follow-Up}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.surg.2018.11.008
+      \endverb
+    \endentry
+    \entry{ghuman_prophylactic_2018-1}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=43dd83a4e72d5413489827a7399bcbcf}{%
+           family={Ghuman},
+           familyi={G\bibinitperiod},
+           given={Amandeep},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=414a6262dfb4ac596e05d07c9d6ffed8}{%
+           family={{de Jonge}},
+           familyi={d\bibinitperiod},
+           given={S.W.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e9dcd2dbfa27668f6f20cedf72d3b95}{%
+           family={Dryden},
+           familyi={D\bibinitperiod},
+           given={Simon\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=e4ae8adefe1821c602f1b29f8708f615}{%
+           family={Buitrago},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4a8c3d3d5c3201a3397753cd853147ed}{%
+           family={Phang},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi Terry},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1de29f68510e2207b77139b511afba0d}
+      \strng{fullhash}{eeba739116b6b30ef23cfe0aa890a147}
+      \strng{bibnamehash}{eeba739116b6b30ef23cfe0aa890a147}
+      \strng{authorbibnamehash}{eeba739116b6b30ef23cfe0aa890a147}
+      \strng{authornamehash}{1de29f68510e2207b77139b511afba0d}
+      \strng{authorfullhash}{eeba739116b6b30ef23cfe0aa890a147}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Alpha-1 adrenergic blockers used to treat postoperative urinary retention (POUR) may also have a preventative role. Here we assess the evidence behind their prophylactic use on POUR prevention. Study design: PRISMA guidelines were followed. All studies reviewed for eligibility, data extraction, and risk of bias assessment. Pooled risk ratios with 95\% confidence intervals calculated using a random effects model. Heterogeneity assessed using Forest plots, I2 statistic and Chi-squared Cochran's Q-statistic. Results: Fifteen RCTs (1732 patients) included. Prophylactic alpha-1 adrenergic blockers significantly reduced risk of POUR, 13.16\% vs 30.24\%, RR ¼{} 0.48 (95\%CI: 0.33; 0.70, p-value ¼{} .001), without a statistically significant increase in adverse events. Substantial heterogeneity found between included studies (I2 ¼{} 65.49\% [95\%CI:48.49; 95.01] \& Q-statistic 43.46 (p-value{$<$}.001)). Subgroup analysis revealed strong risk reduction and little heterogeneity in males (RR:0.33, 95\%CI:0.23; 0.47, p-value{$<$}.001, I2:10.58) and patients receiving spinal anesthesia (RR:0.26, 95\%CI:0.14; 0.46, p-value{$<$}.0001, I2 ¼{} 0\%). Conclusion: Prophylactic alpha-1 adrenergic blockers reduce risk of POUR in males and after spinal anesthesia.}
+      \field{issn}{00029610}
+      \field{journaltitle}{The American Journal of Surgery}
+      \field{month}{5}
+      \field{note}{ZSCC: 0000003}
+      \field{number}{5}
+      \field{shorttitle}{Prophylactic Use of Alpha-1 Adrenergic Blocking Agents for Prevention of Postoperative Urinary Retention}
+      \field{title}{Prophylactic Use of Alpha-1 Adrenergic Blocking Agents for Prevention of Postoperative Urinary Retention: {{A}} Review \& Meta-Analysis of Randomized Clinical Trials}
+      \field{volume}{215}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{973\bibrangedash 979}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.amjsurg.2018.01.015
+      \endverb
+    \endentry
+    \entry{jang_disease-causing_2018-1}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=2ccdbec5cf3b6d8d8007882930bf6363}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Yoon\bibnamedelima J.},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ad2fe4ae5b429eb8fccec0002b8db2cb}{%
+           family={LaBella},
+           familyi={L\bibinitperiod},
+           given={Abigail\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=887ae7d75a21b48bb2793c6de62221f4}{%
+           family={P.},
+           familyi={F\bibinitperiod},
+           given={\textbf{Feeney,\bibnamedelimb Timothy}},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7d33f654b9d5e37ae2042893ffb8fe40}{%
+           family={Braverman},
+           familyi={B\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7870453c2a95a6306058775615d5da24}{%
+           family={Tuchman},
+           familyi={T\bibinitperiod},
+           given={Mendel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dea1a252f75d0e962b3f1c8185715d1f}{%
+           family={Morizono},
+           familyi={M\bibinitperiod},
+           given={Hiroki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=602142afbc3c75232d295ea188f84da6}{%
+           family={Ah\bibnamedelima Mew},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4f7791450d44857f219f645001b020f3}{%
+           family={Caldovic},
+           familyi={C\bibinitperiod},
+           given={Ljubica},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{79aad8f2b2e14fba946aae81f1653dd5}
+      \strng{fullhash}{c5694991996c4215fc42445af729a8c7}
+      \strng{bibnamehash}{c5694991996c4215fc42445af729a8c7}
+      \strng{authorbibnamehash}{c5694991996c4215fc42445af729a8c7}
+      \strng{authornamehash}{79aad8f2b2e14fba946aae81f1653dd5}
+      \strng{authorfullhash}{c5694991996c4215fc42445af729a8c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ornithine transcarbamylase (OTC) gene is on the X chromosome and its product catalyzes the formation of citrulline from ornithine and carbamylphosphate in the urea cycle. About 10-15\% of patients, clinically diagnosed with OTC deficiency (OTCD), lack identifiable mutations in the coding region or splice junctions of the OTC gene on routine molecular testing. We collected DNA from such patients via retrospective review and by prospective enrollment. In nine of 38 subjects (24\%), we identified a sequence variant in the OTC regulatory regions. Eight subjects had unique sequence variants in the OTC promoter and one subject had a novel sequence variant in the OTC enhancer. All sequence variants affect positions that are highly conserved in mammalian OTC genes. Functional studies revealed reduced reporter gene expression with all sequence variants. Two sequence variants caused decreased binding of the HNF4 transcription factor to its mutated binding site. Bioinformatic analyses combined with functional assays can be used to identify and authenticate pathogenic sequence variants in regulatory regions of the OTC gene, in other urea cycle disorders or other inborn errors of metabolism.}
+      \field{issn}{10597794}
+      \field{journaltitle}{Human Mutation}
+      \field{month}{4}
+      \field{note}{ZSCC: 0000004}
+      \field{number}{4}
+      \field{title}{Disease-Causing Mutations in the Promoter and Enhancer of the Ornithine Transcarbamylase Gene}
+      \field{volume}{39}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{527\bibrangedash 536}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/humu.23394
+      \endverb
+    \endentry
+    \entry{laser_long-term_2016-1}{article}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=38a76a46decfaf20222e7b1e81f3204b}{%
+           family={Laser},
+           familyi={L\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e8b5025fb367c25e7463eb2944ec4ff1}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Brandon\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=17ad99b80118d43be16cd21aa9a3f1ff}{%
+           family={Kufera},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a48dda7549f2e4722e2fbbe0d4328b48}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=0419ee329a4590f8b36adea6101ec9aa}{%
+           family={Tesoriero},
+           familyi={T\bibinitperiod},
+           given={Ronald\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=11ed6d51fe6f54ff3f38a8fbe5761cb1}{%
+           family={Lauerman},
+           familyi={L\bibinitperiod},
+           given={Margaret\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=89166fbd21c77651cdd5dd56af7a3c99}{%
+           family={Sliker},
+           familyi={S\bibinitperiod},
+           given={Clint\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37f4ff334dcd739700776e9f8a272c60}{%
+           family={Scalea},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=850dd8209e6d2400cfc188d0d7f4bb31}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Deborah\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f7b2f1c699856c69d8baa9332346b051}
+      \strng{fullhash}{b7be7ad52e8bb53e28cda67412783848}
+      \strng{bibnamehash}{b7be7ad52e8bb53e28cda67412783848}
+      \strng{authorbibnamehash}{b7be7ad52e8bb53e28cda67412783848}
+      \strng{authornamehash}{f7b2f1c699856c69d8baa9332346b051}
+      \strng{authorfullhash}{b7be7ad52e8bb53e28cda67412783848}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND: The short-term natural history of blunt cerebrovascular injuries (BCVIs) has been previously described in the literature, but the purpose of this study was to analyze long-term serial follow-up and lesion progression of BCVI. METHODS: This is a single institution's retrospective review of a prospectively collected database over four years (2009–{}2013). All patients with a diagnosis of BCVI by computed tomographic (CT) scan were identified, and injuries were graded based on modified Denver scale. Management followed institutional algorithm: initial whole-body contrast-enhanced CT scan, followed by CT angiography at 24 to 72 hours, 5 to 7 days, 4 to 6 weeks, and 3 months after injury. All follow-up imaging, medication management, and clinical outcomes through 6 months following injury were recorded. RESULTS: There were 379 patients with 509 injuries identified. Three hundred eighty-one injuries were diagnosed as BCVI on first CT (Grade 1 injuries, 126; Grade 2 injuries, 116; Grade 3 injuries, 69; and Grade 4 injuries, 70); 100 ``indeterminate'' on whole-body CT; 28 injuries were found in patients reimaged only for lesions detected in other vessels. Sixty percent were male, mean (SD) age was 46.5 (19.9)years, 65\% were white, and 62\% were victims of a motor vehicle crash. Most frequently, Grade 1 injuries were resolved at all subsequent time points. Up to 30\% of Grade 2 injuries worsened, but nearly 50\% improved or resolved. Fortysix percent of injuries originally not detected were subsequently diagnosed as Grade 3 injuries. Greater than 70\% of all imaged Grade 3 and Grade 4 injuries remained unchanged at all subsequent time points. CONCLUSIONS:}
+      \field{issn}{2163-0755}
+      \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
+      \field{month}{12}
+      \field{note}{ZSCC: 0000012}
+      \field{number}{6}
+      \field{shorttitle}{Long-Term Follow-up of Blunt Cerebrovascular Injuries}
+      \field{title}{Long-Term Follow-up of Blunt Cerebrovascular Injuries: {{Does}} Time Heal All Wounds?}
+      \field{volume}{81}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{1063\bibrangedash 1069}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1097/TA.0000000000001223
+      \endverb
+    \endentry
+    \entry{lauerman_lethal_2015-1}{article}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=11ed6d51fe6f54ff3f38a8fbe5761cb1}{%
+           family={Lauerman},
+           familyi={L\bibinitperiod},
+           given={Margaret\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=89166fbd21c77651cdd5dd56af7a3c99}{%
+           family={Sliker},
+           familyi={S\bibinitperiod},
+           given={Clint\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ff407e465739d3964ea213ba88f08731}{%
+           family={Saksobhavivat},
+           familyi={S\bibinitperiod},
+           given={Nitima},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e8b5025fb367c25e7463eb2944ec4ff1}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Brandon\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=38a76a46decfaf20222e7b1e81f3204b}{%
+           family={Laser},
+           familyi={L\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=efe1821b97bc7907e04bda6cfaf874dd}{%
+           family={Tesoriero},
+           familyi={T\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=96bb21bdd04b73cab7b0fc9a23e2d6cf}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37f4ff334dcd739700776e9f8a272c60}{%
+           family={Scalea},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=850dd8209e6d2400cfc188d0d7f4bb31}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Deborah\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d3acf5bb3d462fcfe14a9ef0a799370e}
+      \strng{fullhash}{cd1ed1d0a7515159c915d320af08b816}
+      \strng{bibnamehash}{cd1ed1d0a7515159c915d320af08b816}
+      \strng{authorbibnamehash}{cd1ed1d0a7515159c915d320af08b816}
+      \strng{authornamehash}{d3acf5bb3d462fcfe14a9ef0a799370e}
+      \strng{authorfullhash}{cd1ed1d0a7515159c915d320af08b816}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND: Grade 4 blunt cerebrovascular injury (BCVI4) has a known, significant rate of stroke. However, little is known about the natural history of BCVI4 and the pathophysiology of subsequent stroke formation. METHODS: A 4-year review of patients with BCVI4 at the R Adams Cowley Shock Trauma Center was performed. Rates of BCVI4-related stroke, stroke-related mortality, and overall mortality were calculated. The relationship of change in vessel characteristics and BCVI4-related stroke was examined, as was the mechanism of stroke formation. RESULTS: There were 82 BCVI4s identified, with 13 carotid artery (ICA) and 69 vertebral artery BCVI4s. BCVI4-related stroke rate was 2.9\% in vertebral artery BCVI4 and 70\% in ICA BCVI4 patients surviving to reimaging. Stroke mechanisms included embolic strokes, thrombotic strokes, and combined embolic and thrombotic strokes. Peristroke vessel recanalization and an embolic stroke mechanism were seen in 100\% of ICA BCVI4-related strokes developing after admission. BCVI4-related stroke occurred within 10 hours of hospital admission in 67\% of the patients with strokes. Contraindications to anticoagulation were present in most patients with BCVI4-related stroke developing after admission. CONCLUSION:}
+      \field{issn}{2163-0755}
+      \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
+      \field{month}{6}
+      \field{note}{ZSCC: 0000013}
+      \field{number}{6}
+      \field{shorttitle}{Lethal Now or Lethal Later}
+      \field{title}{Lethal Now or Lethal Later: {{The}} Natural History of {{Grade}} 4 Blunt Cerebrovascular Injury}
+      \field{volume}{78}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{1071\bibrangedash 1075}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1097/TA.0000000000000654
+      \endverb
+    \endentry
+    \entry{pho_data_2015}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=0b9299b7dd43fac2834e20b4aaed64a7}{%
+           family={Pho},
+           familyi={P\bibinitperiod},
+           given={Nam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2a27d3d57f6ff5c4f9c890bd4d49eae7}{%
+           family={Magri},
+           familyi={M\bibinitperiod},
+           given={Dino\bibnamedelimb R\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3ecb7dd41b3063381f6abdbdcfa9ec91}{%
+           family={Redigolo},
+           familyi={R\bibinitperiod},
+           given={Fernando\bibnamedelima F},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=400c29ab750b6e3e10cac1c08ea254cb}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={CJ},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Austin, TX}%
+      }
+      \strng{namehash}{3c6c95485eb0420d611d7822feb09861}
+      \strng{fullhash}{3f5bb5eab263b95c574f1bfab1d1c1ce}
+      \strng{bibnamehash}{3f5bb5eab263b95c574f1bfab1d1c1ce}
+      \strng{authorbibnamehash}{3f5bb5eab263b95c574f1bfab1d1c1ce}
+      \strng{authornamehash}{3c6c95485eb0420d611d7822feb09861}
+      \strng{authorfullhash}{3f5bb5eab263b95c574f1bfab1d1c1ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As the difficulty and cost of generating data has decreased, there have been emerging problems of data movement between where it was collected to where it can most effectively be processed. The Science DMZ model is an established solution to help maximize the throughput from any given network infrastructure between sites but there still exists room for exploration and improvement, including the use of Software-Defined Networking (SDN). We aim to explore how the use of SDN-enabled flows in a Science DMZ may impact its main trait: performance. In this paper we have successfully demonstrated improvements in data transfer between certain sites and under certain conditions. Though we have also seen sites where there is no difference or even a performance penalty, all the results are consistent and reproducible over hundreds of test transfers suggesting there are unique properties of each site configuration leading to real and sustained performance increases to a Science DMZ.}
+      \field{booktitle}{Supercomputing '15: {{ESnet SDN Workshop}}}
+      \field{note}{ZSCC: 0000002}
+      \field{title}{Data {{Transfer}} in a {{Science DMZ}} Using {{SDN}} with {{Applications}} for {{Precision Medicine}} in {{Cloud}} and {{High}}-Performance {{Computing}}}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{4}
+      \range{pages}{1}
+    \endentry
+    \entry{labella_comprehensive_2011}{inproceedings}{}
+      \name{author}{5}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=6cb5d7e361b2a374602e6ad500a362f5}{%
+           family={LaBella},
+           familyi={L\bibinitperiod},
+           given={Abigail\bibnamedelima Leavitt},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=1,uniquepart=given,hash=e03b2645d507195f7bcd62b9f6805028}{%
+           family={Heibel},
+           familyi={H\bibinitperiod},
+           given={Sandra\bibnamedelima Kirsch},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=7870453c2a95a6306058775615d5da24}{%
+           family={Tuchman},
+           familyi={T\bibinitperiod},
+           given={Mendel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4f7791450d44857f219f645001b020f3}{%
+           family={Caldovic},
+           familyi={C\bibinitperiod},
+           given={Ljubica},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6570589714d45f840e249c4247d5867}
+      \strng{fullhash}{2ae053a6fa4c11ac5c82f4150c7a9d58}
+      \strng{bibnamehash}{2ae053a6fa4c11ac5c82f4150c7a9d58}
+      \strng{authorbibnamehash}{2ae053a6fa4c11ac5c82f4150c7a9d58}
+      \strng{authornamehash}{b6570589714d45f840e249c4247d5867}
+      \strng{authorfullhash}{2ae053a6fa4c11ac5c82f4150c7a9d58}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Molecular {{Genetics}} and {{Metabolism}}}
+      \field{note}{ZSCC: NoCitationData[s0]}
+      \field{title}{Comprehensive Bioinformatic Analysis of Urea Cycle Gene Transcription Regulation Using Cis-Element over Representation ({{CLOVER}}) Software and Patient Sequences to Identify Disease Causing Mutations}
+      \field{volume}{102}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{297\bibrangedash 297}
+      \range{pages}{1}
+    \endentry
+    \entry{labella_analysis_2011}{article}{}
+      \name{author}{5}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=6cb5d7e361b2a374602e6ad500a362f5}{%
+           family={LaBella},
+           familyi={L\bibinitperiod},
+           given={Abigail\bibnamedelima Leavitt},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=1,uniquepart=given,hash=88ad0dffc45c124c11c73bb0d2dbc64e}{%
+           family={Heibel},
+           familyi={H\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=7870453c2a95a6306058775615d5da24}{%
+           family={Tuchman},
+           familyi={T\bibinitperiod},
+           given={Mendel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4f7791450d44857f219f645001b020f3}{%
+           family={Caldovic},
+           familyi={C\bibinitperiod},
+           given={Ljubica},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5e56dd63c2989941ccb68569a2d804b}
+      \strng{fullhash}{b5d80d9880bc4ea2d9bf7db89d58fd31}
+      \strng{bibnamehash}{b5d80d9880bc4ea2d9bf7db89d58fd31}
+      \strng{authorbibnamehash}{b5d80d9880bc4ea2d9bf7db89d58fd31}
+      \strng{authornamehash}{a5e56dd63c2989941ccb68569a2d804b}
+      \strng{authorfullhash}{b5d80d9880bc4ea2d9bf7db89d58fd31}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Conversion of nitrogenous waste to urea via the urea cycle is regulated by factors that respond to nitrogen load to prevent toxic ammonia buildup. Six enzymes, N-acetylglutamate synthase, carbamylphosphate synthetase, ornithine transcarbamylase (OTC), argininosuccinate synthase, argininosuccinate lyase and arginase 1 (ARG1) are essential for ureagenesis. Most urea cycle disorders result from mutations in coding regions or splice sites, but regulatory region changes may also contribute. To analyze urea cycle transcriptional regulation we used Cis-Element Over Representation (CLOVER) software to find transcription factor binding motifs in conserved regions. Candidate binding sites for Estrogen Receptor and BRCA1 were found in the ARG1 promoter. Binding will be verified using an avidin-agarose pull down assay and western blotting. We also screened patients with OTC deficiency that lack typical mutations, for changes in OTC regulatory regions. We identified three single nucleotide substitutions as disease-causing candidates in the OTC promoter; two in a known HNF-4 binding site and one in a conserved region of unknown function. These changes were absent in 800 alleles from persons of Caucasian, Hispanic and African decent. Bioinformatic detection and molecular verification of regulatory factors is critical to understanding the urea cycle and for better diagnosis of disease.}
+      \field{journaltitle}{The FASEB Journal}
+      \field{note}{ZSCC: 0000000}
+      \field{number}{1\_supplement}
+      \field{title}{Analysis of {{Urea Cycle Gene Transcription Regulation}} Using {{Bioinformatic Software}} and {{Patient Sequences}}}
+      \field{volume}{25}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{564.8\bibrangedash 564.8}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1096/fasebj.25.1_supplement.564.8
+      \endverb
+    \endentry
+  \enddatalist
+  \keyalias{feeney\_association\_2019-1}{feeney_association_2019-1}
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{noauthor_simplified_2020}{misc}{}
+      \list{location}{1}{%
+        {Orlando, Florida}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction: Heterogeneity of risk associated with different surgeries limits the ability of researchers to adjust for multiple different surgical procedures in a single study. The challenge arises because each operation has a different total risk, and moreover the total risk of each operation is a combination of risk types, such as overall mortality risk, major morbidity risk, etc. Further, if enough case types are included, solely adjusting for CPT code will create unstable estimates through overfitting. We aimed to design a method to adjust for multiple different operations in one analysis. Methods: We used the ACS NSQIP calculator for the `average' patient to develop a mechanism to determine risk for each surgery type. Predicted probabilities for mortality, major morbidity, overall morbidity, readmission, and reoperations were extracted from the risk calculator as absolute values. The weighted summary score was produced using the following equation: weighted risk score=10*(mortality)+8*(major morbidity)+5*(overall morbidity) +4*(return to OR)+readmission. We then estimated the effect of adjusting for total risk using additive raw scores (i.e. unweighted) or using a summary risk score that is composed of additive weighted individual complications and compared it to adjusting for CPT code only. The effects were estimated in a simplified mock analysis of the effect of emergency surgery designation on mortality using NSQIP data and evaluating how the association of emergency surgery on mortality changed with different risk adjustment methods. Results: There were 702,278 observations and 14,130 deaths. Fifty-four operations of disparate baseline risk were included. Operations that are traditionally considered low risk, such as breast and thyroid operations, had low weighted summary risk scores. Conversely, operations that are typically considered high risk, such as pancreatectomy and hepatectomy, had high summary risk scores. Multiple adjustment methods were tested to determine if one was superior compared to adjusting solely for CPT score (Table 1). Adjustment for confounding was similar across weighting schemes. Including raw scores was most similar to including CPT codes alone, but required 54 dummy variables whereas the raw score only required addition of 5 variables and the weighted summary score only consisted of 1 variable. Conclusion: We have developed a method to account for variable case risk in regression analysis when multiple operations are included. This method is particularly advantageous when the number of operation types included is large while the event rate is relatively small. To our knowledge this is the first attempt at creating a score like this for use in regression analysis.}
+      \field{month}{2}
+      \field{title}{A Simplified Method to Account for Multiple Case Adjustment in Regression Modeling.}
+      \field{type}{15th {{Annual Academic Surgical Congress Podium Presentation}}}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_challenges_2019}{misc}{}
+      \list{location}{1}{%
+        {Houston TX}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{note}{Published: Surgery}
+      \field{title}{Challenges in the {{Management}} of {{Adrenal Incidentalomas}}: {{One Year}} at an {{Urban Level I Trauma Center}}}
+      \field{type}{14th {{Annual Academic Surgical Congress Oral Presentation}}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_effect_2019}{misc}{}
+      \list{location}{1}{%
+        {Houston, TX}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction: Emergency General Surgery (EGS) represents a diverse set of operations performed on acutely ill and injured patients. The EGS patient population is diverse and increasingly from less advantaged cohorts, who have a higher likelihood of not speaking English (ENG). However, the effect of primary language on EGS outcomes has not been studied. We aimed to evaluate the effect of non-English primary language on outcomes following EGS operations. Methods: The New Jersey Statewide Inpatient Database from 2009-2014 was used to evaluate cases identified as representing 80\% of the national EGS case volume. Cases were restricted to ages {$>$}18, resulted from emergency department admissions, were noted to be emergent or urgent, and were performed between 0-2 days after admission. We evaluated outcomes for Spanish speakers (SPA) speakers and non-English/non-Spanish (NENS) speakers compared to ENG speakers. Outcomes were in-hospital mortality, 7-day readmission, and hospital length of stay (LOS). Generalized linear mixed models were used to account for hierarchy in the data, and logistic and negative binomial regression were used to estimate odds ratios and incident rate ratios respectively. Sensitivity analysis was performed to assess whether missing confounding variables could ablate effect estimates. Results: 105,174 patients were included. A majority of ENG speakers were white and had private insurance; SPA speakers were younger and had fewer comorbidities. Where differences between SPA and NENS speakers existed, NENS speakers were more like the ENG speaking group. Readmission exhibited high between-hospital variability. Regression results are shown in the results table. After adjusting for operative risk, comorbid conditions, social determinants of health, and intra-hospital correlation, we found that non-English speakers had reduced LOS after appendectomy and lysis of adhesions. However, SPA speakers had an increased LOS following highest risk operations. There was no difference in mortality or short-term readmission in either language group compared to ENG. Sensitivity analysis indicated that the observed decreases in LOS were not robust to unmeasured confounding, while the increase in LOS among SPA speakers in the highest risk procedures was robust to additional confounding. Conclusion: These data suggest SPA speakers are younger and healthier than ENG speakers, and that NENS speakers are more like ENG speakers than SPA speakers. Primary language does not have an independent impact on readmission or inpatient mortality following EGS operations. The effect of primary language on LOS after EGS depends on the type of operation. Future studies should focus on long term outcomes and generalizability to other regions of the United States}
+      \field{month}{2}
+      \field{note}{Published: Journal of Surgical Research}
+      \field{title}{The {{Effect}} of {{Primary Language}} on {{Emergency General Surgery Outcomes}}: {{A Statewide Database Study}}.}
+      \field{type}{14th {{Annual Academic Surgical Congress Oral Presentation}}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_non-english_2018}{misc}{}
+      \list{location}{1}{%
+        {Worcester MA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{Non-{{English Language}} and {{Outcomes}} in {{Emergency General Surgery}}}
+      \field{type}{Oral {{Presentation}} at {{Massachusetts State American College}} of {{Surgeons Committee}} on {{Trauma}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_effect_2018}{misc}{}
+      \list{location}{1}{%
+        {Jacksonville FL}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{The {{Effect}} of {{Trainee Involvement}} on {{Patient Outcomes}} in {{General Surgery Cases Over Time}}.}
+      \field{type}{13th {{Annual Academic Surgical Congress Oral Presentation}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_resident_2016}{misc}{}
+      \list{location}{1}{%
+        {Boston MA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Published: Journal of Surgical Research}
+      \field{title}{Resident and {{Fellow Participation}} in {{Thyroid}} and {{Parathyroid Surgery}}: {{An American College}} of {{Surgeons NSQIP Clinical Outcomes Analysis}}}
+      \field{type}{63rd {{Annual New England Surgical Society Annual Meeting Oral Presentation}}}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_hemoperitoneum_2014}{misc}{}
+      \list{location}{1}{%
+        {New Haven, CT}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{Hemoperitoneum Due to {{Traumatic Avulsion}} of a {{Single Leiomyoma Following}} a {{Motor Vehicle Collision}}}
+      \field{type}{Oral {{Presentation}} at {{The Connecticut American College}} of {{Surgeons Annual Meeting}},}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_through_2014}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{Through the {{Looking Glass}}: {{Telemedicine}} as a {{Potential Cure}} for the {{Community Intensivist Shortage}}}
+      \field{type}{Paper Presented at {{University}} of {{Maryland School}} of {{Medicine Clinical Capstone Research Project Finalist Presentation Symposium}}, {{Baltimore MD}}}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_investigation_2009}{misc}{}
+      \list{location}{1}{%
+        {Baltimore, MD}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigation of {{miRNA}}-Directed {{Control}} of {{LDL Receptor Expression}}}
+      \field{type}{32nd {{Annual UMSOM Medical Student Research Day Oral Presentation}}}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_mutations_2008}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{note}{College Park MD}
+      \field{title}{Mutations in an {{Ornithine Transcarbamylase Regulatory Region}} as a {{Possible Cause}} for {{Reduced Expression}} in {{Patients}} with {{Ornithine Transcarbamylase Deficiency}}}
+      \field{type}{Honors {{Thesis Defense}}}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \keyalias{feeney\_association\_2019-1}{feeney_association_2019-1}
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{feeney_limited_2019}{misc}{}
+      \name{author}{8}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=6d18b2c7d3e7a46e30f832abacfbd044}{%
+           family={Vaughn},
+           familyi={V\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dd69ed1f2cd70950906c368f6f1d7e08}{%
+           family={Nudel},
+           familyi={N\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9ebd6364fafcdabea66ae9b96aba8e3}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Donald\bibnamedelima T},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=35108035433ae791ff830ab20f519031}{%
+           family={Carmine},
+           familyi={C\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37adb0a4cdc3d8dfd1906f02b1e8606d}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Cullen\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dc55380e69403261f0b8f362edca6304}{%
+           family={Pernar},
+           familyi={P\bibinitperiod},
+           given={Luise\bibnamedelima I},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \strng{namehash}{346dc4cb6147fde0aec302d43b4fe15f}
+      \strng{fullhash}{ef304e444d93a1cb2ee2e8003af5f7f7}
+      \strng{bibnamehash}{ef304e444d93a1cb2ee2e8003af5f7f7}
+      \strng{authorbibnamehash}{ef304e444d93a1cb2ee2e8003af5f7f7}
+      \strng{authornamehash}{346dc4cb6147fde0aec302d43b4fe15f}
+      \strng{authorfullhash}{ef304e444d93a1cb2ee2e8003af5f7f7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Previous research has shown conflicting results regarding the impact of English language proficiency on medical and surgical outcomes. The objective of this study was to evaluate whether primary language was associated with differences in outcomes after bariatric operations. Retrospective cohort study of New Jersey hospitals from 2009-14 evaluating adult patients with ICD-9 diagnoses of obesity who underwent laparoscopic sleeve gastrectomy, laparoscopic Roux-en-Y gastrectomy (lap RYGB), or open RYGB. NJ was selected because these data include patients' primary languages. Spanish speakers and non-English/non-Spanish (NENS) speakers were compared to English speakers. In-hospital mortality, 7-day readmission, and LOS were evaluated. 25,272 patients met inclusion criteria; 24,200 (96\%) spoke English, 780 (3\%) spoke Spanish, and 292 (1\%) were NENS speakers. There were 17,090 (67.6\%) sleeve gastrectomies, 7,492 (29.6\%) lap RYGBs, and 690 (2.7\%) open RYGBs. No difference was observed in the number of operation types among each language group. There was no difference in mortality and lower readmissions among non-English speakers, but the absolute number of deaths and 7-day readmissions was low (1[{$<$}0.1\%] and 6[{$<$}0.8\%] among non-English speakers, respectively). Adjusted analysis showed no change in LOS for Spanish speakers or NENS speakers versus English speakers (IRR 0.96, 95\%CI [0.91-1.02] and 0.95 [0.86-1.05], respectively). In this large cohort of bariatric surgery patients, there was no association between language and short-term post-operative outcomes. These results may indicate that the highly protocolized course following bariatric surgery mitigates risks that may arise from communication difficulties}
+      \field{month}{12}
+      \field{title}{Limited {{English}} Proficiency Is Not Associated with Worse Outcomes after Bariatric Surgery.}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{feeney_effect_2018-1}{misc}{}
+      \name{author}{7}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=4370b7d0ed9913b1c8ed241b61badf12}{%
+           family={Cassidy},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=996f614aba1ee8e4663345191398d64b}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a48cb7f57f38c637bea79a058e29f144}{%
+           family={Kavanah},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a171c09ccbc608e4f08a1f5bd7ab2f1c}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=938bed75fcedf4acf4ee3526813e6225}{%
+           family={Tseng},
+           familyi={T\bibinitperiod},
+           given={JF},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bd9fc4ade242d58ed4d44e11bfb57b17}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={FT},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3af474df8ce5ed85d8cd248cbe428fac}
+      \strng{fullhash}{069b4e74fdbe73b2d234bdaf48ae4cef}
+      \strng{bibnamehash}{069b4e74fdbe73b2d234bdaf48ae4cef}
+      \strng{authorbibnamehash}{069b4e74fdbe73b2d234bdaf48ae4cef}
+      \strng{authornamehash}{3af474df8ce5ed85d8cd248cbe428fac}
+      \strng{authorfullhash}{069b4e74fdbe73b2d234bdaf48ae4cef}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published: Paper presented at the 2018 Annual Meeting of the New England Surgical Society, Portland ME}
+      \field{title}{Effect of {{Limited English Proficienty}} on {{Outcomes Following Cancer Operations}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{feeney_effect_2018}{misc}{}
+      \name{author}{8}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=4370b7d0ed9913b1c8ed241b61badf12}{%
+           family={Cassidy},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3cac55368329a23ca65a1e5a6b33899a}{%
+           family={Tripodis},
+           familyi={T\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=996f614aba1ee8e4663345191398d64b}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a48cb7f57f38c637bea79a058e29f144}{%
+           family={Kavanah},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a171c09ccbc608e4f08a1f5bd7ab2f1c}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=938bed75fcedf4acf4ee3526813e6225}{%
+           family={Tseng},
+           familyi={T\bibinitperiod},
+           given={JF},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bd9fc4ade242d58ed4d44e11bfb57b17}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={FT},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{87be2b1cdb78cb1924c00ccde1dba964}
+      \strng{fullhash}{7fd7b03d3a1c8fc470005c34b2c77816}
+      \strng{bibnamehash}{7fd7b03d3a1c8fc470005c34b2c77816}
+      \strng{authorbibnamehash}{7fd7b03d3a1c8fc470005c34b2c77816}
+      \strng{authornamehash}{87be2b1cdb78cb1924c00ccde1dba964}
+      \strng{authorfullhash}{7fd7b03d3a1c8fc470005c34b2c77816}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published: Paper presented at the Massachusetts American College of Surgeons Annual Meeting, Boston MA}
+      \field{title}{The {{Effect}} of {{Primary Language}} on {{Outcomes Following Cancer Operations}} Using a {{Statewide Database}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{feeney_epidemiology_2018}{misc}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9416104f704ad9e7dc7d04767a5b15c5}{%
+           family={Talutis},
+           familyi={T\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a81efe4ae4281d8b19c0ddefa6da0bb1}{%
+           family={Janeway},
+           familyi={J\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df57fd2f0df99ec9cfcc0ceb87315eb7}{%
+           family={Sridhar},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=29941a55ce9570d3258751081c4834e7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0dc0f06a4b0128096fee13b560a5e67c}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a824e227fec806032592e07109e483b9}{%
+           family={Moses},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=996f614aba1ee8e4663345191398d64b}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bd9fc4ade242d58ed4d44e11bfb57b17}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={FT},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0a10d8cef4911fbf0ad5db77a4b2c63}
+      \strng{fullhash}{6af6cb8a896ff7f3167eed9b0f7f1f3a}
+      \strng{bibnamehash}{6af6cb8a896ff7f3167eed9b0f7f1f3a}
+      \strng{authorbibnamehash}{6af6cb8a896ff7f3167eed9b0f7f1f3a}
+      \strng{authornamehash}{b0a10d8cef4911fbf0ad5db77a4b2c63}
+      \strng{authorfullhash}{6af6cb8a896ff7f3167eed9b0f7f1f3a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published: Paper presented at the Massachusetts American College of Surgeons Annual Meeting, Boston MA}
+      \field{title}{Epidemiology of {{Incidental Adrenal Masses}} at an {{Urban Tertiary Referral}} and {{Trauma Center}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{feeney_morbidity_2017}{misc}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=52d638eab77b79d0aa13b6a0bf34932c}{%
+           family={Angeles},
+           familyi={A\bibinitperiod},
+           given={M\bibnamedelima Castillo},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a350dd62169b82473a256ae94cf69294}{%
+           family={Nitzschke},
+           familyi={N\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85e02feaf577ae41d012f20f32e4e4fd}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c9ce32d20261cd92c9c747dfaaa734ec}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8df83067562e7724b330e885eceaa256}{%
+           family={Havens},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8538fc67618a1a2340cd55d4aac8c26a}
+      \strng{fullhash}{451d240d2ffe2d2255bcf8415fb40392}
+      \strng{bibnamehash}{451d240d2ffe2d2255bcf8415fb40392}
+      \strng{authorbibnamehash}{451d240d2ffe2d2255bcf8415fb40392}
+      \strng{authornamehash}{8538fc67618a1a2340cd55d4aac8c26a}
+      \strng{authorfullhash}{451d240d2ffe2d2255bcf8415fb40392}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published: Paper presented at 2017 Annual Meeting of the New England Surgical Society, Bretton Woods NH}
+      \field{title}{Morbidity and {{Mortality}} of {{Emergency General Surgery Based}} on {{National Burden}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{feeney_genetic_2009}{misc}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=17f5b48bfa9fa55536e06a1b5f33b864}{%
+           family={Morizono},
+           familyi={M\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b3fc7eff0714c273f9dfdd67366ea52c}{%
+           family={Caldovic},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \strng{fullhash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \strng{bibnamehash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \strng{authorbibnamehash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \strng{authornamehash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \strng{authorfullhash}{cd1c74a4e6eb4922271f90cb3e5b7255}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published: Paper presented at the Howard Hughes Medical Institute Research Fellowship Program 9th Annual Research Symposium, College Park MD}
+      \field{title}{Genetic {{Regulation}} of {{OTC}} in the {{Urea Cycle}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \keyalias{feeney\_association\_2019-1}{feeney_association_2019-1}
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{min-thuy_nguyen_race_2020}{misc}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c7cfc4ea8865a82a86c992d9bb24a24}{%
+           family={{Min-Thuy Nguyen}},
+           familyi={M\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=028e723bc6f8e8866db2212dd4f72a2b}{%
+           family={{Chanmin Kim}},
+           familyi={C\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=cc132ab281df219f4bbd651b581c551b}{%
+           family={{Frederick Thurston Drake}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=3adf77ef7b9df8f2d2368c7be8dff4ac}{%
+           family={{S.E Mitchell}},
+           familyi={S\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=bf1732b4746272378a297832a30987ea}{%
+           family={{M Bednarczyk}},
+           familyi={M\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=eec21f67969e431c2140e85e38fd32aa}{%
+           family={{Sabrina E. Sanchez}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Orlando, Florida}%
+      }
+      \strng{namehash}{4fa286841c698e1c235d9e89aa8bebcc}
+      \strng{fullhash}{e3e13e8144f399095ea5f63bbe11ae0f}
+      \strng{bibnamehash}{e3e13e8144f399095ea5f63bbe11ae0f}
+      \strng{authorbibnamehash}{e3e13e8144f399095ea5f63bbe11ae0f}
+      \strng{authornamehash}{4fa286841c698e1c235d9e89aa8bebcc}
+      \strng{authorfullhash}{e3e13e8144f399095ea5f63bbe11ae0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction: There is a gap in the literature with regards to the influence of patient-level factors affecting palliative and hospice care. We hypothesized that, while there is some sparse data specifically pointing to racial disparities in the appropriate receipt of hospice and palliative care, given our status as a safety-net urban hospital, this would not be evident at our institution. Methods: We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their demographic information was complete, their length of stay was more than 48 hours and if based on their diagnoses as determined by literature review and expert consensus, they would have benefited from palliative care consultation (PCC) either during their inpatient hospitalization or as outpatients. Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race. Knowing that PCC is differentially used at our institution between medical and surgical services, we analyzed this data stratified by the patient's primary management service. Results: Among the 730 patients who fit our inclusion criteria, 44.9\% (n=328) were White, 40.8\% (n=298) were Black, 10.1\% (n=74) were Hispanic, and 4.1\% (30) identified as belonging to a different races. Overall, 24.7\% (n=81) of Whites, 35.9\% (n=107) of Blacks, 32.4\% (n=24) of Hispanics, and 30.0\% (n=9) of other races received PCC. Knowing that patients primarily managed by surgical services at our institution have significantly lower odds of receiving PCC at our institution than patients managed by medical services, we found no statistically significant racial disparities on PCC utilization when we stratified the data by whether the patient was managed primarily by surgical vs. medical services. However, among Black patients referral to PCC tends to be higher while among Hispanic patients that PCC tends to be lower with larger uncertainty (Table). Conclusion: At our institution, we found no evidence of racial disparities affecting PCC. This is in contrast to previous reports in the literature highlighting the differential use of palliative care and hospice in racial minorities. Further investigation is warranted to examine whether the type (safety-net vs. not) and location (urban vs. rural) of a hospital, along with other systems, patients, and provider-level factors, influences this non-discriminatory utilization of palliative care and hospice services.}
+      \field{month}{2}
+      \field{title}{Race as a {{Determinant}} of {{Palliative Care Consultation}} at a {{Safety}}-{{Net Urban Hospital}}}
+      \field{type}{Podium {{Presentation}}}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{frederick_godley_association_2019}{misc}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=8ec93add818b272ea969619486f2d466}{%
+           family={{Frederick Godley}},
+           familyi={F\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=cc2901f9aba51a5d209a4fdad495f72e}{%
+           family={{Christine Park}},
+           familyi={C\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=66748418291e6645a6dca4d2c4a2c36e}{%
+           family={{Michael Cassidy}},
+           familyi={M\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=544ca6fa2f58c5b30a7a53f2559f88c1}{%
+           family={{Teviah E Sachs}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=40bfc0e145536d840be7621138956839}{%
+           family={{David McAneny}},
+           familyi={D\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=e73eee57224352622156fad31013cc7e}{%
+           family={{Jennifer F Tseng}},
+           familyi={J\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=cc132ab281df219f4bbd651b581c551b}{%
+           family={{Frederick Thurston Drake}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montral QC Canada}%
+      }
+      \strng{namehash}{fff197ccfd45812e496393861482bc16}
+      \strng{fullhash}{6dc5609f0ed4a6d1c9b6f647f39aa82a}
+      \strng{bibnamehash}{6dc5609f0ed4a6d1c9b6f647f39aa82a}
+      \strng{authorbibnamehash}{6dc5609f0ed4a6d1c9b6f647f39aa82a}
+      \strng{authornamehash}{fff197ccfd45812e496393861482bc16}
+      \strng{authorfullhash}{6dc5609f0ed4a6d1c9b6f647f39aa82a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: To determine whether a difference in outcomes exists for non-English-speaking patients compared to English-speaking patients after operations commonly performed to treat cancer. We hypothesized that language discordance between providers and patients was an independent risk factor for worse outcomes. Design: Retrospective cohort study (January 2012 to December 2017). Operations were identified based on current procedural terminology code. Logistic and negative binomial regression were used to adjust for baseline comorbidities, case risk, and socioeconomic factors. Cox proportional hazard modeling was used to evaluate mortality. Setting: Urban, tertiary referral and safety-net hospital. Patients (or Other Participants): Adult patients were stratified as English-speaking (ENG), Spanish/Creole-speaking (SpCr), or Non-English, Non-Spanish/Creole speaking (NENS). Interventions (if any): N/a Main Outcome Measure(s): 30-day readmission, length of stay (LOS), and all-cause mortality Results: 2470 patients were included. Most operations were low risk (87.2\%) and there was no difference in case risk between language groups. Patients in non-English groups were more likely to be uninsured/self-pay and lived in neighborhoods with lower median income. After adjustment we found no difference in the odds of readmission for SpCr vs ENG (Odds Ratio 1.00, 95\%CI [0.65-1.52] ) or NENS vs ENG (1.36 [0.85-2.12]). There was no difference in LOS. Among patients who died, there was no difference in the hazard of mortality: SpCr vs ENG (HR (2.07 [0.91-4.72]), NENS vs ENG (1.29 [0.51-3.29]). Conclusions: We found no association between language and outcomes after cancer operations. This lack of difference may reflect system-level efficacy at treating non-English speaking patients. It may also suggest that communication barriers do not have an independent impact on the outcomes measured here. Other outcomes, e.g., patient satisfaction, might show different results.}
+      \field{month}{9}
+      \field{title}{The Association of Primary Language with Outcomes after Cancer Operations at a Single Tertiary Referral Center and Safety Net Hospital.}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{linda_salazar_improving_2019}{misc}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=4a065f046edce42ac596209ce2422890}{%
+           family={{Linda Salazar}},
+           familyi={L\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=c48285095b6124e441c00e91d95cd139}{%
+           family={{Chelsea Vigna}},
+           familyi={C\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=338e91ae1bb9f2b3215305496f3d1f0e}{%
+           family={{Avneesh Gupta}},
+           familyi={A\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=6b6df38e4b25e4ce26c10123a336d61f}{%
+           family={{Philip Knapp}},
+           familyi={P\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9993cf58aa25ccf402852a76707445af}{%
+           family={{F. Thurson Drake}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston Medical Center}%
+      }
+      \strng{namehash}{7fd62a767ff1df8c23c1b3651e5f6ae9}
+      \strng{fullhash}{b44f85e2684b413fbda57d1c23ae19ce}
+      \strng{bibnamehash}{b44f85e2684b413fbda57d1c23ae19ce}
+      \strng{authorbibnamehash}{b44f85e2684b413fbda57d1c23ae19ce}
+      \strng{authornamehash}{7fd62a767ff1df8c23c1b3651e5f6ae9}
+      \strng{authorfullhash}{b44f85e2684b413fbda57d1c23ae19ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Improving {{Communication}} and {{Evaluation}} of {{Incidental Adrenal Findings}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{susanna_w_de_geus_surgical_2019}{misc}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=37cb12f7d45499da31218fb4951569ef}{%
+           family={{Susanna W de Geus}},
+           familyi={S\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=63ffcb46f1424d42b01d643f8aa114a6}{%
+           family={{Kurt S. Shultz}},
+           familyi={K\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=37c9fd828841d5aa95d3e504995a1434}{%
+           family={{Sing Chau Ng}},
+           familyi={S\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=40bfc0e145536d840be7621138956839}{%
+           family={{David McAneny}},
+           familyi={D\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=e73eee57224352622156fad31013cc7e}{%
+           family={{Jennifer F Tseng}},
+           familyi={J\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=544ca6fa2f58c5b30a7a53f2559f88c1}{%
+           family={{Teviah E. Sachs}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montral QC Canada}%
+      }
+      \strng{namehash}{127cea2a592e02b53db2c59eb1086919}
+      \strng{fullhash}{3b654858382269fcfaf10d89f8adc190}
+      \strng{bibnamehash}{3b654858382269fcfaf10d89f8adc190}
+      \strng{authorbibnamehash}{3b654858382269fcfaf10d89f8adc190}
+      \strng{authornamehash}{127cea2a592e02b53db2c59eb1086919}
+      \strng{authorfullhash}{3b654858382269fcfaf10d89f8adc190}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Published studies promoting minimally invasive pancreatectomy have been criticized for high-volume and/or single center bias. We sought to compare surgical and oncologic outcomes of patients with pancreatic cancer who underwent laparoscopic distal pancreatectomy (LDP) versus open distal pancreatectomy (ODP) in lower-volume hospitals. Design: Retrospective cohort study Setting: Low-volume hospitals ({$\leq$} 5 distal pancreatectomies per year). Patients: Patients {$\geq$} 18 years old with any pancreatic cancer who underwent distal pancreatectomy at a low-volume center between 2010 and 2014 were identified from the National Cancer Database (NCDB). Propensity scores were created for the odds of undergoing LDP. Patients were matched 1:1 based on propensity score. Interventions: LDP vs. ODP. Main outcome measures: 30-day mortality, 90-day mortality, median hospital length of stay (LOS), unplanned 30-day readmission, surgical margins, number of lymph nodes harvested, and survival. Results: Of the 2,842 eligible patients, 902 (31.7\%) underwent LDP and 1,940 (68.3\%) underwent ODP. Overall, 203 (22.5\%) laparoscopic cases were converted to open. After matching, LDP was predictive of decreased 90-day mortality (3.6\% vs. 5.9\%; p=0.0196), shorter LOS (6 vs. 7 days; p{$<$}0.0001), and fewer positive resection margins (12.5\% vs. 18.5\%; p=0.0004). There were no differences with respect to 30-day mortality (1.7\% vs. 2.9\%; p=0.0823), readmission (9.6\% vs. 7.4\%; p=0.0920), and number of lymph nodes harvested (7 vs. 8 nodes; p=0.2113). For pancreatic adenocarcinoma patients demonstrated similar median overall survival for patients who underwent LDP versus ODP (23.4 vs. 22.3 months; log-rank p=0.2460) after propensity-score matching. Conclusions: The results of this study suggest that, even in low-volume settings, LDP is associated with reduced 90-day mortality, shorter length of hospital stay, and lower rates of positive resection margins in well-selected patients.}
+      \field{month}{9}
+      \field{title}{Surgical and {{Oncologic Outcomes}} of {{Open Versus Laparoscopic Distal Pancreatectomy}} in a {{Low}}-Volume {{Setting}}}
+      \field{type}{Poster {{Presentation}}}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{emily_palmquist_medical_2018}{misc}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=5ff1168e5e22406ea587e3530b4823d3}{%
+           family={{Emily Palmquist}},
+           familyi={E\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=f047b6330eb7560cfade1e305af5627c}{%
+           family={{Abhishek Chatterjee}},
+           familyi={A\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9b2993b0a3a17f79cc7e469e024dcc71}{%
+           family={{D. Nepomnayshy}},
+           familyi={D\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=5fe98f5bc06befbc4861dca2eed30b5e}{%
+           family={{Lilian Chen}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Houston TX}%
+      }
+      \strng{namehash}{707de56b6428e9425cfdbc79042a75a1}
+      \strng{fullhash}{4d907f7eeacbb9a9659d552f66b02cb2}
+      \strng{bibnamehash}{4d907f7eeacbb9a9659d552f66b02cb2}
+      \strng{authorbibnamehash}{4d907f7eeacbb9a9659d552f66b02cb2}
+      \strng{authornamehash}{707de56b6428e9425cfdbc79042a75a1}
+      \strng{authorfullhash}{4d907f7eeacbb9a9659d552f66b02cb2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction: There have been many changes to surgical education over the last few decades. With increased attention to patient safety, there is a push to better prepare our medical students prior to starting a surgical residency. We present our results from a pilot study of creating a senior medical student surgical boot camp including analysis of the learner's perspectives of boot camps. Methods: Graduating senior medical students entering a surgical residency underwent a voluntary three-day surgical boot camp. Pre-and post-surveys were used to evaluate confidence levels of common patient management issues as well as technical skills. Qualitative analysis of a focus group using a general inductive approach was used to develop themes surrounding students' perceptions of boot camps. Results: Ten medical students completed the boot camp. We found that most students were somewhat confident (3 on a 5-point Likert scale) in their abilities to manage common intern problems with increased variation among students for technical skills prior to the boot camp. Students all had improvements in confidence scores post boot camp for all measured tasks. From our qualitative analysis we found that students prefer a voluntary, surgery specific boot camp at the end of medical school as oppose to the start of their residency. Being given the choice to partake in the intervention provided the participating students with more motivation during the boot camp, supporting adult learning theory. Some of the students' major concerns include being the first point of contact for patient issues as well as being the first responder to patient emergencies. Students worry about their ability to multi-task and manage a large amount of information which differed from their experience as a medical student. In addition, students are realistic about their expectations from a preparatory boot camp and value it as an experience to help ``jump start'' their transition to residency. Conclusion: Our pilot study suggests that surgical boot camps may successfully improve students' confidence in patient management and technical skills prior to the start of their intern year. In addition, we found major themes surrounding students' perceptions of boot camp which may assist with future development of these programs. Students prefer a voluntary boot camp and value the experience at a medical school level. In addition, they are realistic in that a preparatory course will not teach them all they need to know prior to residency but more as a tool to help their transition.}
+      \field{month}{2}
+      \field{title}{Medical {{Student Perceptions Following Participation}} in a {{Surgical Boot Camp}} –{} {{A Qualitative Analysis}}.}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{manuel_castillo-angeles_transferred_2018}{misc}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=840e166a8a601148f9a4673de4c71576}{%
+           family={{Manuel Castillo-Angeles}},
+           familyi={M\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=ffd68287d7c53ed455038e0e69628ab5}{%
+           family={{Tarsicio Uribe-Leitz}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=91ab6147cb99548d7efaf322dbe35128}{%
+           family={{Molly Jarman}},
+           familyi={M\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
+           family={{\textbf{Timothy Feeney}}},
+           familyi={T\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=1c9023ab580e38c5f529745c894b2a4a}{%
+           family={{Ali Salim}},
+           familyi={A\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=39d698c01e451f938e1e7d6b1b780336}{%
+           family={{Joaquim M Havens}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Portland, Maine}%
+      }
+      \strng{namehash}{00d23f6b22b1037b84e059f6abaa6fd2}
+      \strng{fullhash}{593d99e4d2ee0c7360874c7dabeafa6d}
+      \strng{bibnamehash}{593d99e4d2ee0c7360874c7dabeafa6d}
+      \strng{authorbibnamehash}{593d99e4d2ee0c7360874c7dabeafa6d}
+      \strng{authornamehash}{00d23f6b22b1037b84e059f6abaa6fd2}
+      \strng{authorfullhash}{593d99e4d2ee0c7360874c7dabeafa6d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Emergency General Surgery (EGS) encompasses high risk patients undergoing high risk procedures. Admission source, particularly interhospital transfers, is rarely accounted for clinical performance benchmarking. Our goal was to assess the impact of transferred patients on outcomes following EGS. Design: Retrospective analysis of the American College of Surgeons National Surgical Quality Improvement Project (ACS-NSQIP) database (2005-2014). Setting: High-quality surgical outcomes data from more than 80 US hospitals participating in ACS NSQIP. Patients: All inpatients that underwent one of 7 EGS procedures shown to represent 80\% of EGS volume, complications, and mortality nationally. Interventions: Admission source was classified as directly admitted versus transferred from an outside emergency room or an acute care facility. Main Outcome Measures: The primary outcomes were overall mortality, overall morbidity and major morbidity. Results: A total of 619,174 EGS admissions were identified, of which 31,173 (5\%) were transfers. Mean age was 55.8 years and 52\% were female. Overall mortality was 2.8\% for the entire cohort and 10.1\% within the transfer group. After risk adjustment for 33 clinical and demographic variables, transferred patients had higher rates of overall mortality (Odds Ratio [OR] 1.12, 95\% Confidence Interval [CI] 1.05 - 1.21), higher overall morbidity (OR 1.28, 95\% CI 1.22 - 1.34) and major morbidity (OR 1.29, 95\% CI 1.21 - 1.37) when compared with directly admitted patients. Conclusions: After rigorous risk adjustment, interhospital transfer status is an independent risk factor for mortality and morbidity in the EGS population. This increased burden on accepting institutions may have an impact on quality metrics and should be considered for benchmarking of clinical performance.}
+      \field{month}{9}
+      \field{title}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}}
+      \field{type}{Podium {{Presentation}}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+  \enddatalist
+  \keyalias{feeney\_association\_2019-1}{feeney_association_2019-1}
+\endrefsection
+\endinput
+

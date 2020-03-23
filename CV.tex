@@ -1,0 +1,476 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\usepackage{fancyhdr} 
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,
+  urlcolor=blue,
+}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{longtable}
+
+\usepackage{color}
+\usepackage{graphicx}
+
+\usepackage[
+  backend=biber,
+  maxbibnames=10,
+  %style=chem-acs,
+  %style=nature,
+  %style=science,
+  %style=verbose,
+  style=authortitle,
+  %style=ieee,
+  %style=chicago-authordate,
+  %style=mla,
+  %style=apa,
+  %style=numeric-comp,
+  natbib=true,
+  sorting=ydnt,
+  url=false,
+  doi=true,
+  eprint=false,
+  defernumbers=true,
+  ]{biblatex}
+\AtEveryBibitem{\ifentrytype{article}{\clearfield{issn}}{}}
+\setlength\bibitemsep{0.5\baselineskip}
+\addbibresource{First_Authors.bib}
+\addbibresource{Coauthors.bib}
+\addbibresource{oral.bib}
+\addbibresource{poster.bib}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Timothy Feeney} % Your name
+ % Your phone number and email
+
+ % Your address
+
+\address{Brookline, Massachusetts, United States}
+
+\begin{document}
+
+\begin{center}
+ \href{https://thefeeney.netlify.com}{thefeeney.netlify.com}
+  \hspace*{0.3in}  
+ \href{https://twitter.com/TFeend}{@TFeend}
+  \hspace*{0.3in}  
+   \href{mailto:tpfeeney@gmail.com}{tpfeeney@gmail.com}
+  \hspace*{0.3in}  
+  \href{mailto:timothy.feeney@bmc.org}{timothy.feeney@bmc.org}
+  \hspace*{0.3in}  
+  \href{mailto:tfeeney@bmj.com}{tfeeney@bmj.com}
+  \end{center}
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Brief Personal Statement}
+
+
+{I am a Post Doctoral Fellow in the Department of Surgery at Boston University/Boston Medical Center. I have an MD and clinical training in general surgery, a masters in clinical biochemistry, and an MPH with focus on epidemiology and bio-statistics. My clinical interests are Acute Care/Trauma surgery and Critical Care. My research interests are in clinical epidemiology and the application of advanced epidemiological methods to observational studies to better understand bias an obtain causal inferences. I am currently investigating the impact of language on post-operative outcomes, differences in palliative care utilization, and how to improve follow up of incidentally identified lesions of the adrenal gland.
+
+My interests outside of science and math involve my family (wife and daughter), visiting museums, reading and finding great bargains on used books, and SCUBA diving on deep wrecks and inside caves. I have also spent a large chunk of my life as a firefighter and an EMT, which will always hold a place in my heart.}
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	current position
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Current Position(s)}
+
+{\bf Post Doctoral Research Fellow} \hfill {11/2017-Present}
+\\ 
+Dept. of Surgery--Boston University/Boston Medical Center, Boston MA. 
+\\
+Clinical Epidemiology and Bio-statistics Researcher, Project Supervisor
+\\
+Designed, implemented, and analyzed longitudinal prospective quality improvement initiative\\
+Performed multiple large observational database studies using both Frequentist and Bayesian methods\\
+Study design and analysis consulting
+
+{\bf Associate Research Editor } \hfill {04/2019-Present}
+\\ 
+The BMJ. 
+\\
+Editorial work involving decisions regarding publication in The BMJ. 
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Master of Public Health} \hfill {May 2017}
+\\ 
+Harvard University T.H Chan School of Public Health, Boston MA. 
+\\
+Quantitative Methods; focus on Epidemiology and Biostatistics  
+
+{\bf Doctor of Medicine} \hfill {May 2014}
+\\ 
+University of Maryland School of Medicine, Baltimore MD.
+
+{\bf Master of Science} \hfill {May 2012}
+\\ 
+University of Maryland School of Medicine, Baltimore MD.
+\\
+Medical Biochemistry
+
+{\bf Bachelor of Science/Bachelor of Arts} \hfill {May 2008}
+\\ 
+University of Maryland, College Park, College Park MD.
+\\
+BS: Molecular Biology; \textit{cum laude}\\
+BA: Government and Politics; \textit{magna cum laude}\\
+\textit{High Honors in Chemistry and Biochemistry}\\
+\textit{Valedictorian Speaker for College of Chemical and Life Sciences Commencement}
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+% clinical training
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Clinical training}
+
+{\bf Tufts Medical Center}{, Boston, MA} \hfill {7/2015-6/2016}
+\\ 
+Residency, PGY2, General Surgery
+
+{\bf Stamford Hospital}{, Stamford, CT} \hfill {7/2014-6/2015}
+\\ 
+Internship, General Surgery
+\end{rSection}
+\pagebreak
+
+%----------------------------------------------------------------------------------------
+%	Ref Sections
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+\printbibliography[]                  
+
+\begin{refsection}[First_Authors]
+   \nocite{*}   
+   \printbibliography[title={First Authored}]
+\end{refsection}
+
+\printbibliography[]  
+\begin{refsection}[Coauthors]
+   \nocite{*}   
+   \printbibliography[title={Co-Authored}]
+\end{refsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Presentation Section
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Presentations}
+\printbibliography[]                  
+
+\begin{refsection}[oral]
+   \nocite{*}   
+   \printbibliography[title={Podium}]
+\end{refsection}
+
+\printbibliography[]  
+\begin{refsection}[poster]
+   \nocite{*}   
+   \printbibliography[title={Poster}]
+\end{refsection}
+
+\printbibliography[]  
+\begin{refsection}[copresent]
+   \nocite{*}   
+   \printbibliography[title={Co-Authored}]
+\end{refsection}
+
+
+\end{rSection}
+
+\pagebreak
+
+
+%----------------------------------------------------------------------------------------
+% Invited Talks
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Invited Presentations}
+   2020 \enspace \textbf{Efforts to Increase Evidence Based Follow-up of Incidental Adrenal Masses at BMC and Beyond.
+   }\\
+   \hspace*{2mm}Presented at: The Boston Medical Center Surgery Research Conference\\
+   2019 \enspace \textbf{The association of limited English proficiency with outcomes after cancer operations; perspectives from a large database and single center study}\\
+   \hspace*{2mm}Presented at: The Boston Medical Center Annual Mozden Visiting Professorship Conference\\
+   2019 \enspace \textbf{Hierarchical/Multilevel Modeling: An Introduction}\\
+   \hspace*{2mm}Presented at: BU Surgery Resident Research Seminar\\
+   2019 \enspace \textbf{Conceptual Models for Regression Analysis in Observational Data: Confounding, Mediation, and Effect Modification}\\
+   \hspace*{2mm}Presented at: BU Surgery Resident Research Seminar  
+   
+   \end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% Activities
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Professional Activities}
+   
+   2019 \enspace MDEpiNet Executive Operations Committee\\
+   2019 \enspace Present: Society for Epidemiologic Research--Communications Committee
+   
+   \end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% Honors and Awards
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Honors and Awards}
+
+   2018 \hspace{27.5pt} Winner of the Annual MA ACS Committee on Trauma Resident/Fellow Paper Competition\\
+   2017 \hspace{27.5pt} UC Berkeley Social Sciences Research Transparency and Reproducibility (BITSS-RT2) Scholarship \\
+   2016 \hspace{27.5pt} Tufts Annual Resident Research Day Finalist\\
+   2014 \hspace{27.5pt} Medical School Capstone Research Project Finalist \\
+   2014 \hspace{27.5pt} Clinical Honors:Acute Care Surgery, Trauma Surgery, Anesthesia, and Community Medicine \\
+   2008 \hspace{27.5pt} Cell Bio and Molecular Genetics Program Distinguished Graduating Student\\
+   2008 \hspace{27.5pt} University of Maryland, College Park Senior Marshal \\
+   2005-2008 \enspace Distinguished Deans List \\
+   2007-2008 \enspace  College of Chemical and Life Sciences Outstanding Student
+   
+   \end{rSection}
+   
+
+%----------------------------------------------------------------------------------------
+% Student Mentorship
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Student Mentorship}
+   {\bf Christine Park-BU Medical Student}{, Boston MA} \hfill {2018-2019}\\ 
+   {Project:}\textit{Association of Language with Operative Outcomes at a Tertiary Safety Net Hopsital-A Single Center Study}
+   \\
+   {Ouptut:}~{Manuscript in preparation}
+   \\
+   {\bf Gus Godley-BU MD MBA Student}{, Boston MA} \hfill {2018-2019}
+   \\ 
+   {Project:}~\textit{The association of primary language with outcomes after cancer operations at a single tertiary referral center and safety net hospital.}
+   \\
+   {Output:}~\textit{Podium Presentation at the American College of Surgeons 2019 Annual Meeting}
+   \textit{Poster Presentation at the New England Surgical Society 2019 Annual Meeting}
+   \\
+   {\bf Minh-Thuy Nguyen - BU Medical Student}{, Boston MA} \hfill {2018-2019}
+   \\
+   { Project:}~\textit{Disparities in the utilization of palliative care consultations}
+   \\
+   {Output:}\textit{Differential Utilization of Palliative Care Consultation between Medical and Surgical Services--manuscript published}
+   \\
+   {Output:}~\textit{Patient-Level Factors Influencing Utilization of Palliative Care Consultation at a Safety-Net Urban Hospital--abstract submitted to 2020 Academic Surgical Congress}
+   \\
+   {\bf Andrea Alonso - BU Medical Student}{, Boston MA} \hfill {2019}
+   \\
+   {Project:}~\textit{Bariatric surgery and language outcomes}
+   \\{Project:} \textit{Systematic Review of Language Discordance and Outcomes in Inpatient, Emergency, and Surgery Settings}
+   \end{rSection}
+
+   %-----------------
+% Previous teaching experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Teaching Experience}
+   {\bf Resident Instructor}{, Boston MA} \hfill {2014-2016}
+   \\ 
+   \textit{Taught medical students about general surgery and critical care}
+   
+   {\bf Math and Science Tutor}{, Baltimore MD} \hfill {2008-2010}
+   \\ 
+   \textit{Tutoring high school students from disadvantaged Baltimore area schools}
+   
+   {\bf Course Instructor: Weill-Cornell Youth Scholars Program}{, New York NY} \hfill {2008}
+   \\ 
+   \textit{Summer program to mentor less advantage underrepresented minority high school students in STEM
+   } 
+   
+   {\bf Undergraduate Teaching Assistant}{, College Park, MD} \hfill {2006}
+   \\ 
+   \textit{Taught General Microbiology}
+   \end{rSection}
+   
+   %----------------------------------------------------------------------------------------
+   % research Experience
+   %----------------------------------------------------------------------------------------
+   
+   \begin{rSection}{Previous Research Experience}
+   
+   {\bf Brigham and Women’s Hospital}{, Boston, MA} \hfill {11/2016-11/2017}
+   \\ 
+   Post Graduate Researcher\\
+   Investigating surgical clinical outcomes using NSQIP database\\
+   Extensive use of SAS, R and Stata
+   
+   {\bf Tufts Medical Center}{, Boston, MA} \hfill {11/2015-05/2016}
+   \\ 
+   Resident Researcher\\
+   Investigating resident impact on surgical outcomes
+   
+   {\bf R.  Adams Cowley Shock Trauma Center}{, Baltimore, MD} \hfill {11/2013-5/2014}
+   \\ 
+   Student Clinical Researcher\\
+   Evaluated outcomes of patients with blunt cerebrovascular injury
+   
+   {\bf University of Maryland School of Medicine}{, Baltimore, MD} \hfill {2009-2010}
+   \\ 
+   Department of Biochemistry and Molecular Biology\\
+   Researched miR10 and its role in Pediatric Leukemias\\
+   Techniques used: PCR, Real-time PCR, RNA extraction/isolation,\\ Cell Culture, Western Blotting, Agarose Gel extraction and electrophoresis,\\ bacterial cloning.
+   
+   {\bf Children’s National Medical Center}{, Washington DC} \hfill {2006-2008}
+   \\ 
+   Undergraduate Research\\
+   Research on the Urea Cycle\\
+   Techniques used: PCR, PCR, Sanger Sequencing, Bioinformatics\\ (BLAST, CLUSTALW, alignment manipulation, Transfac database and\\ transcription factor binding site prediction modeling)
+   \end{rSection}
+   %-----------------
+   %Leadership
+   %----------------------------------------------------------------------------------------
+   
+   \begin{rSection}{Leadership}
+     
+
+   2009-2010 \enspace Vice-President, Medical Student Journal Club\\
+   2009-2010 \enspace Research Vice-President, Infectious Disease Interest Group\\
+   2009-2011 \enspace Student Council Representative, UMSOM MD/PhD Student Council\\
+   2008 \hspace{27.5pt} Site Manager andProgram Coordinator, Weill-Cornell Youth Scholars Program\\
+   2007-2008 \enspace Student representative, UMD CFLS Dean’s Advisory Board\\
+   2003-2004 \enspace Apparatus Engineer, Community Volunteer Fire Co. No. 1
+   
+   \end{rSection}
+   
+%-----------------
+% Selected Activities
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Previous Selected Activities}
+
+   2004-2007 \enspace Firefighter/EMT , Bladensburg Volunteer Fire Department, PGFD\\
+   2002-2005 \enspace Firefighter, Community Volunteer Fire Company No. 1\\
+   2003-2005 \enspace Emergency Medical Technician, West Milford First Aid Squad	\\
+   2010-2012 \enspace MSTP Advisory Board Student Representative \\
+   2009-2011 \enspace MSTP Curriculum Design Committee	\\
+   2009-2012 \enspace Science Editor, Dual Decree MD/PhD Program Newsletter         \\
+   2008-2010 \enspace Webmaster, UMD AMA Student Section
+
+   
+   \end{rSection}
+   
+   
+   %-----------------
+   %ad hoc review expereince
+   %----------------------------------------------------------------------------------------
+   
+   \begin{rSection}{Ad Hoc Peer Review}
+ 
+   JAMA Surgery, SURGERY, Society for Epidemiologic Research, Journal of Surgical Research, American Journal of Surgery, World Journal of Surgery
+  
+   
+   \end{rSection}
+   
+   \pagebreak
+   %-----------------
+   % Previous grant experience
+   %----------------------------------------------------------------------------------------
+   
+   \begin{rSection}{Previous Grant Experience}
+  
+   2007 \enspace Howard Hughes Medical Institute Undergraduate Research Fellowship 
+   
+   
+   \end{rSection}
+   
+   %-----------------
+   % Certs
+   %----------------------------------------------------------------------------------------
+   
+   \begin{rSection}{Certifications}
+  
+   2015 \enspace Advanced Trauma Life Support (ATLS)\\
+   2014 \enspace Fundamentals of Critical Care Support (FCCS) \\
+   \\
+   Firefighter I, Firefighter II, Vehicle Rescue Technician, Ice Rescue Technician, 
+   Incident Management 100, 200, and 700, Federal Wildland Firefighter, AHA CPR,
+   GUE Technical Trimix Diver, GUE Full Cave Diver, International Conflict Management
+   
+   
+   \end{rSection}
+   
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS and
+INTERESTS}
+
+\textbf{Skills:}
+\vspace{0.25pt}
+
+\space \textbf{R Statistical Software}: intermediate to advanced skill with data visualization,
+descriptive statistics, multivariable regression, and simulation\\
+\space\textbf{SAS statistical software} :intermediate skill with data visualization, descriptive statistics,
+multivariable regression\\
+\space \textbf{STATA statistical software}: intermediate to advanced skill with data visualization, descriptive statistics, multivariable regression\\
+\space \textbf{Python}: basic skill\\
+\space \textbf{\LaTeX}: basic skill\\ 
+\space \textbf{Microsoft Office Suite}: Advanced\\
+
+\textbf{Interests:} \\
+Surgery (Trauma and Acute Care), Critical Care, Causal Inference, Bayesian Methods, Biochemistry, Mathematical Biology, and Molecular Biology 
+
+\end{rSection}
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%\begin{rSection}{Extra-Cirrucular Activities} \itemsep -1pt {}   
+%\item STTP on "Life Long Research" in SVNIT,Surat \hfill February 2016
+%\item Design War Cad, SRCOE, Rajkot, Secured 2rd rank in a state level %competition\hfill January-2016
+%\item  Design War Cad, B.H Gardi, Rajkot, Secured 2rd rank in a
+%state level competition. \hfill January-2014 
+%\item Participated in National Level Technical Symposium Festival Edge %and Above, SVIT, Vasad. \hfill February-2013
+%\item Participated in National Level Technical Symposium Festival Home %Basix, SVIT, Vasad.
+% \hfill  February-2013 
+%\item Participated in National Level Technical Symposium Rise of %Machine, SVIT, Vasad,  \hfill March-2014 
+% 
+%
+%\end{rSection}
+
+
+
+
+\end{document}

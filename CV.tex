@@ -34,6 +34,8 @@
 \usepackage{enumitem}
 \usepackage{wrapfig}
 \usepackage{longtable}
+\usepackage{lipsum}
+\usepackage{eso-pic}
 
 \usepackage{color}
 \usepackage{graphicx}
@@ -75,6 +77,13 @@
 \address{Brookline, Massachusetts, United States}
 
 \begin{document}
+
+\AddToShipoutPictureBG*{%
+  \AtPageUpperLeft{%
+    \hspace{\paperwidth}%
+    \raisebox{-\baselineskip}{%
+      \makebox[0pt][r]{Updated: March 23, 2020~~}
+}}}%
 
 \begin{center}
  \href{https://thefeeney.netlify.com}{thefeeney.netlify.com}
@@ -273,31 +282,28 @@ Internship, General Surgery
 
 \begin{rSection}{Student Mentorship}
    {\bf Christine Park-BU Medical Student}{, Boston MA} \hfill {2018-2019}\\ 
-   {Project:}\textit{Association of Language with Operative Outcomes at a Tertiary Safety Net Hopsital-A Single Center Study}
-   \\
-   {Ouptut:}~{Manuscript in preparation}
-   \\
-   {\bf Gus Godley-BU MD MBA Student}{, Boston MA} \hfill {2018-2019}
-   \\ 
-   {Project:}~\textit{The association of primary language with outcomes after cancer operations at a single tertiary referral center and safety net hospital.}
-   \\
+   {Project:}\textit{Association of Language with Operative Outcomes at a Tertiary Safety Net Hopsital-A Single Center Study}\\
+   {Ouptut:}~{Manuscript under review}
+   {Current Position:}~\textit{Internal Medicine Resident, Weill Cornell}
+   
+   {\bf Gus Godley-BU MD MBA Student}{, Boston MA} \hfill {2018-2020}\\ 
+   {Project:}~\textit{The association of primary language with outcomes after cancer operations at a single tertiary referral center and safety net hospital.}\\
    {Output:}~\textit{Podium Presentation at the American College of Surgeons 2019 Annual Meeting}
-   \textit{Poster Presentation at the New England Surgical Society 2019 Annual Meeting}
-   \\
-   {\bf Minh-Thuy Nguyen - BU Medical Student}{, Boston MA} \hfill {2018-2019}
-   \\
-   { Project:}~\textit{Disparities in the utilization of palliative care consultations}
-   \\
-   {Output:}\textit{Differential Utilization of Palliative Care Consultation between Medical and Surgical Services--manuscript published}
-   \\
+   \textit{Poster Presentation at the New England Surgical Society 2019 Annual Meeting}\\
+   {Current Position:}~\textit{General Surgery Resident, Univ of Chicago}
+   
+   {\bf Minh-Thuy Nguyen - BU Medical Student}{, Boston MA} \hfill {2018-2020}\\
+   { Project:}~\textit{Disparities in the utilization of palliative care consultations}\\
+   {Output:}\textit{Differential Utilization of Palliative Care Consultation between Medical and Surgical Services--manuscript published}\\
    {Output:}~\textit{Patient-Level Factors Influencing Utilization of Palliative Care Consultation at a Safety-Net Urban Hospital--abstract submitted to 2020 Academic Surgical Congress}
-   \\
-   {\bf Andrea Alonso - BU Medical Student}{, Boston MA} \hfill {2019}
-   \\
-   {Project:}~\textit{Bariatric surgery and language outcomes}
-   \\{Project:} \textit{Systematic Review of Language Discordance and Outcomes in Inpatient, Emergency, and Surgery Settings}
+   
+   {\bf Andrea Alonso - BU Medical Student}{, Boston MA} \hfill {2019-2020}\\
+   {Project:}~\textit{Bariatric surgery and language outcomes}\\
+   {Project:} \textit{Systematic Review of Language Discordance and Outcomes in Inpatient, Emergency, and Surgery Settings}\\
+   {Current Position:}~\textit{General Surgery Resident, Boston University}
    \end{rSection}
 
+   \pagebreak
    %-----------------
 % Previous teaching experience
 %----------------------------------------------------------------------------------------
@@ -400,7 +406,7 @@ Internship, General Surgery
    
    \end{rSection}
    
-   \pagebreak
+ 
    %-----------------
    % Previous grant experience
    %----------------------------------------------------------------------------------------

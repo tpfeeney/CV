@@ -326,7 +326,7 @@
       \verb 10.1016/j.surg.2019.07.034
       \endverb
     \endentry
-    \entry{feeney_independent_2018-2}{article}{}
+    \entry{feeney_independent_2018-1}{article}{}
       \name{author}{7}{ul=2}{%
         {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
            family={\textbf{Feeney,\bibnamedelimb Timothy}},
@@ -544,6 +544,149 @@
       \verb 10.1055/s-0040-1715892
       \endverb
     \endentry
+    \entry{crable_management_2020}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d137560475196c1c705fd0b8403cd7b4}{%
+           family={Crable},
+           familyi={C\bibinitperiod},
+           given={Erika\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=42794cd444423f7482800e8f0c24f653}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=613dfacb31107852ec07637d6fd64f8d}{%
+           family={Grim},
+           familyi={G\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fda6a4c0139f11c33ce2f6f966177cec}{%
+           family={Drainoni},
+           familyi={D\bibinitperiod},
+           given={Mari-Lynn},
+           giveni={M\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a6069641d3da730347b4305cab82bc}{%
+           family={Walkey},
+           familyi={W\bibinitperiod},
+           given={Allan\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a291875de5d1ae097f7d616fb90fbd16}{%
+           family={Steiling},
+           familyi={S\bibinitperiod},
+           given={Katrina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f8fcf8d8dd6a8a5f0878c74b4d02d101}
+      \strng{fullhash}{b9d08403913d98019dcaf6217f65e4e4}
+      \strng{bibnamehash}{b9d08403913d98019dcaf6217f65e4e4}
+      \strng{authorbibnamehash}{b9d08403913d98019dcaf6217f65e4e4}
+      \strng{authornamehash}{f8fcf8d8dd6a8a5f0878c74b4d02d101}
+      \strng{authorfullhash}{b9d08403913d98019dcaf6217f65e4e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{15461440}
+      \field{journaltitle}{Journal of the American College of Radiology}
+      \field{month}{12}
+      \field{shorttitle}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}}
+      \field{title}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}: {{A Scoping Review}}}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{S1546144020312254}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.jacr.2020.11.006
+      \endverb
+    \endentry
+    \entry{nguyen_patient-level_2020}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=788f6f5717684aef2f197751cf239e62}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Minh-Thuy},
+           giveni={M\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2b2edb8504bd8b79edddcea12345f39a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Chanmin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e335f0585b6d8401dbc9e0cac519cbf}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={F.\bibnamedelimi Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82dd710b0c5ae1357fbaee8532d0634e}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Suzanne\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=998ce0e9f7fa35776b6ca7def28b6fbf}{%
+           family={Bednarczyk},
+           familyi={B\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37a41f1131619683e4fe1509fb54d109}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Sabrina\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8b246c6937a57983bca8b5dcc613cf9b}
+      \strng{fullhash}{435750901ff1b9400348417818a17a5b}
+      \strng{bibnamehash}{435750901ff1b9400348417818a17a5b}
+      \strng{authorbibnamehash}{435750901ff1b9400348417818a17a5b}
+      \strng{authornamehash}{8b246c6937a57983bca8b5dcc613cf9b}
+      \strng{authorfullhash}{435750901ff1b9400348417818a17a5b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The influence of patient-level factors on palliative and hospice care is unclear. We conducted a retrospective review of 2321 patients aged {$\geq$}18 that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their chart was complete, their length of stay was {$\geq$}48 hours, and if based on their diagnoses, they would have benefited from palliative care consultation (PCC). Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race/ethnicity, education, language, insurance status, and income. 730 patients fit our inclusion criteria and 30\% (n = 211) received PCC. The OR of receiving PCC was 1.26 (99\% CrI, 0.73-2.12) for Blacks, 0.81 (99\% CrI, 0.31-1.86) for Hispanics, and 0.69 (99\% CrI, 0.19-2.46) for other minorities. Less than high school education was associated with greater odds of PCC (OR 2.28, 99\% CrI, 1.09-4.93) compared to no schooling. Compared to English speakers, non-English speakers had higher odds of receiving PCC when cared for by medical services (OR 3.01 [99\% CrI, 1.44-5.32]) but lower odds of PCC when cared for by surgical services (0.22 [99\% CrI, {$<$}0.01-3.42]). Insurance status and income were not associated with differences in PCC. At our institution, we found no evidence of racial/ethnic, insurance, or income status affecting PCC while primary language spoken and educational status did. Further investigation is warranted to examine the system and provider-level factors influencing PCC's low utilization by medical and surgical specialties.}
+      \field{issn}{1049-9091, 1938-2715}
+      \field{journaltitle}{American Journal of Hospice and Palliative Medicine®}
+      \field{month}{12}
+      \field{title}{Patient-{{Level Factors Influencing Palliative Care Consultation}} at a {{Safety}}-{{Net Urban Hospital}}}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{104990912098176}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/1049909120981764
+      \endverb
+    \endentry
     \entry{castillo-angeles_transferred_2019}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=1c8773adf83562fc06bc274da8be7410}{%
@@ -662,6 +805,7 @@
       \strng{authorbibnamehash}{435750901ff1b9400348417818a17a5b}
       \strng{authornamehash}{8b246c6937a57983bca8b5dcc613cf9b}
       \strng{authorfullhash}{435750901ff1b9400348417818a17a5b}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}

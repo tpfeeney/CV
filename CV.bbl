@@ -77,7 +77,7 @@
       \strng{authornamehash}{d50f0ef4532680b28042360fda815b9e}
       \strng{authorfullhash}{5732989d132d1cfd74dd8f2cdadd9bfb}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{0364-2313, 1432-2323}
@@ -153,7 +153,7 @@
       \strng{authornamehash}{8d07baa24ea7333c6083f28e87f4a066}
       \strng{authorfullhash}{58d968468140ef732d9a40776d40e9a1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background. Few studies have evaluated the effect of primary language on surgical outcomes, and no studies have addressed operations typically performed for cancer diagnoses. This study aimed to determine the effect of primary languages other than English on outcomes after surgical oncology operations. Methods. This study retrospectively analyzed adults undergoing operations typically performed to treat cancer using the NJ Healthcare Cost and Utilization Project State Inpatient Database during the interval of 2009–2014. Language was grouped according to English-, Spanish-, and non-English/non- Spanish (NENS)-speaking groups. The study evaluated inhospital mortality, 7-day readmission, and hospital length of stay (LOS). Logistic and negative binomial regression methods were applied, and generalized linear mixed models were used to account for nesting within a hospital. Results. This study analyzed 37,531 cases. Non-English speakers were of lower economic status, more likely to be admitted on the weekend, and more likely to undergo higher-risk operations. The likelihood of death in the riskadjusted multi-level models did not differ between Spanish speakers (odds ratio [OR], 0.67; 95\% confidence interval [CI], 0.41–1.10) and NENS speakers (OR, 1.16; 95\% CI, 0.77–1.75). Readmission rates exhibited high inter-hospital variability (intra-class correlation, 53\%). The odds of readmission among Spanish speakers in the non-hierarchical model was increased (OR, 1.50; 95\% CI, 1.11–2.02), but this was ameliorated in the multilevel modeling that accounted for variability between hospitals (OR, 1.29; 95\% CI, 0.93–1.80). No changes in LOS were observed. Conclusions. No independent association was observed between primary language and outcomes after operations typically performed to treat cancer in the study population. The higher proportion of weekend admissions may suggest more acute or advanced presentations for non-English speakers. Long-term outcomes may be necessary to discern an impact.}
@@ -230,7 +230,7 @@
       \strng{authornamehash}{e4cd3db4a46a062a5fd51c2010614a5c}
       \strng{authorfullhash}{344e60fa208856cf0f6b7ee759b732e6}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Emergency general surgery (EGS) represents a diverse set of operations performed on acutely ill patients. Those undergoing EGS are at higher likelihood of complications, readmission, and death, but the effect of primary language on EGS outcomes has not been evaluated. We aimed to evaluate the association of non-English primary language on outcomes after EGS operations. Methods: The New Jersey Statewide Inpatient Database from 2009 to 2014 was used to evaluate cases representing 80\% of the national burden of EGS. Cases were restricted to ages 18 y, emergency department admissions, noted to be emergent or urgent, and performed between 0 and 2 d after admission. We evaluated Spanish speakers and non- English, non-Spanish (NENS) speakers compared with English. Outcomes included inhospital mortality, 7-d readmission, and hospital length of stay (LOS). Logistic and negative binomial regression was used, and generalized linear mixed models were used to account for hierarchy in the data. Results: There were 105,171 patients included. English speakers were majority white and with private insurance; Spanish speakers were younger and with fewer comorbidities. Where differences between Spanish and NENS speakers existed, NENS were more like the English-speaking group. Adjusted results indicate that Spanish speakers had reduced LOS after appendectomy (IRR: 0.92 [0.89-0.95]) and lysis of adhesion [0.93 (0.88-0.97)]. Spanish speakers had an increased LOS after higher risk operations (IRR: 1.14 [1.10-1.20]). NENS speakers had a reduced LOS after adhesiolysis (IRR: 0.94 [0.89-0.99]). There was no difference in mortality or short-term readmission}
@@ -312,7 +312,7 @@
       \strng{authornamehash}{0e20fc878dfe49fd109b09eaab3fadd8}
       \strng{authorfullhash}{c2f88f5be5a11836b73c70c59e4de6a1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Incidental adrenal masses are those that are found on imaging performed for any nonadrenal evaluation. Published guidelines define accepted follow-up criteria for incidental adrenal masses; however, adherence to these guidelines and barriers to appropriate follow-up are not well understood. We aimed to describe practice patterns for the discovery, evaluation, and follow-up of incidental adrenal masses. Methods: Medical records of patients with an incidental adrenal mass underwent retrospective review at a tertiary referral and level-1 trauma center, as well as regional ambulatory care locations. Individuals 18 years of age with an incidental adrenal mass identified during 2016 were included. Patterns of evaluation, follow-up, and associated adrenal diagnoses were determined. Results: From a total of 19,171 cross-sectional imaging procedures (computed tomography and magnetic resonance imaging), 244 patients with new incidental adrenal masses were identified. A majority (52\%) were discovered as part of an evaluation in the emergency department. Of 153 patients with an identifiable primary care provider, approximately 75\% had an in-network primary care provider, and 12 (7.8\%) had both follow-up imaging and biochemical evaluation. Twenty-three percent of patients with an innetwork primary care provider underwent an appropriate cross-sectional imaging procedure in follow-up compared to 29\% for a non-network primary care provider (P {$\frac{1}{4}$} .54). Patients with a mass described with benign terminology were less likely to undergo follow-up imaging compared to those with indeterminate terminology (5\% vs 37\%, P {$<$} .001). Patients with imaging ordered as an outpatient were more likely to receive follow-up with imaging (22.8\% outpatient vs 11.5\% inpatient, P {$\frac{1}{4}$}.042). There was no difference between any groups regarding biochemical evaluation, which inappropriately was performed in only 15\% of patients with an incidental adrenal mass. Conclusion: To optimize follow-up of incidental adrenal masses, efforts should be made to assure and prioritize inpatient/emergency department incidental findings and to communicate to the appropriate primary care provider the necessary next steps for evaluation. Further, efforts to increase biochemical testing should be pursued.}
@@ -378,7 +378,7 @@
       \strng{authornamehash}{4dd11f6036e719614d5074fa3b4c277c}
       \strng{authorfullhash}{302c45eb69f5f9caa9badd46b7fcf57b}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: Emergency general surgery (EGS) is an independent risk factor for morbidity and mortality, and seven procedures account for 80\% of the National burden of operative EGS. We aimed to characterize the excess morbidity and mortality attributable to these procedures based on the level of procedural risk. Methods: Retrospective analysis of the ACS National Surgical Quality Improvement Project (ACS-NSQIP) database. (2005e2014). Seven EGS procedures were stratified as high risk and low risk. Primary outcomes were overall mortality, overall morbidity, major morbidity. Multivariable logistic regression was performed. Results: There were 619,174 patients identified. Comparing EGS to non-EGS in high-risk cases the OR for overall mortality was 1.39(1.33,1.45), overall morbidity 1.07 (0.98, 1.16), and major morbidity 1.15(1.03,1,27). In low-risk cases the OR for overall mortality was 1.03 (0.89, 1.19) overall morbidity 1.35 (1.23, 1.48), and major morbidity 2.18(1.90, 2.50). Conclusions: Using a Nationally representative clinical database we identified significant heterogeneity in the outcomes of EGS depending on procedural risk. Risk stratification and benchmarking strategies need to account for the inherent heterogeneity of EGS.}
@@ -438,7 +438,7 @@
       \strng{authornamehash}{6b9b1af211207df3af87f84b850cbca2}
       \strng{authorfullhash}{4aea9602d6713ef4088d3c3b2ecd719f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: The effect of decreased overall hours of training in surgical specialties is still being examined. Of particular interest is the safety of patients undergoing surgeries with trainee surgeons. The aim of this study was to identify if there were significant differences in outcomes of patients undergoing commonly performed thyroid and parathyroid surgeries when trainees were involved. Materials and methods: Postoperative complication rates, length of stay (LOS), and total operation time (OT) data were gathered from the American College of Surgeons National Surgical Quality Improvement Project database. The cases were identified by CPT code and were divided based on the training level of the participating resident surgeon: Junior (postgraduate year [PGY] 1-2), senior (PGY 3-5), fellow (PGY {$>$}5), as well as an attending-only group where no resident was present. We compared the clinical outcomes, LOS, and OT in each trainee group to the attending-only group as the reference. Results: A total of 84,711 cases were identified of which 45.33\% involved trainee participation. Odds ratios (ORs) and 95\% confidence interval for overall, neurologic, and bleeding complications were calculated. No difference in the odds of overall patient complications or neurologic complications was observed. A decrease in the odds of bleedings complications when a junior or senior trainee was present was observed. Overall complications in operations including a junior trainee (PGY 1-2) had an OR of 1.04 (0.85, 1.29), a senior trainee (PGY 3-5) had an OR of 1.00 (0.89, 1.13), and a fellow had an OR of 0.98 (0.74, 1.31). Mean OT was found to be significantly different between attending only and junior and senior trainees. There was no significant difference in OT between fellows and attending only. LOS did not meaningfully differ across groups. Conclusions: In three commonly performed thyroid and parathyroid operations, there is not an increased overall or neurologic complication odds when a surgical trainee is involved; there are decreased odds of a bleeding complication.}
@@ -462,6 +462,89 @@
 
 \refsection{2}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{talutis_strategies_2021}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=36b3856ed5653f3d00e954d540afddb2}{%
+           family={Talutis},
+           familyi={T\bibinitperiod},
+           given={Stephanie\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c15f270181492e47d00fabcdf79e2021}{%
+           family={Childs},
+           familyi={C\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c19b1b26a02e904814d9bf14c6540b9}{%
+           family={Goldman},
+           familyi={G\bibinitperiod},
+           given={Anna\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c30f13b25999db1a7e52cf5d6a4741}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1255b16e273e6e023fd17a5d275bd4e}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Avneesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ff951606dd840fe6011e43f3ec798c4}{%
+           family={Ferrao},
+           familyi={F\bibinitperiod},
+           given={Cleopatra},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c62038adb366c82d5530372679bdc0b1}{%
+           family={Feeney},
+           familyi={F\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e0963b9e7ca0e86aee5a8172d55aafa}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9088b5de3665708d032ac09e45aac92b}{%
+           family={Thurston\bibnamedelima Drake},
+           familyi={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7a3e4aba9c53337096a20728083c47a1}
+      \strng{fullhash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \strng{bibnamehash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \strng{authorbibnamehash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \strng{authornamehash}{7a3e4aba9c53337096a20728083c47a1}
+      \strng{authorfullhash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00029610}
+      \field{journaltitle}{The American Journal of Surgery}
+      \field{month}{3}
+      \field{shorttitle}{Strategies to Optimize Management of Incidental Radiographic Findings in the Primary Care Setting}
+      \field{title}{Strategies to Optimize Management of Incidental Radiographic Findings in the Primary Care Setting: {{A}} Mixed Methods Study}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{S0002961021001732}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.amjsurg.2021.03.038
+      \endverb
+    \endentry
     \entry{bala_web_2020}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=9b5acf58b7a72da86176518374f1a416}{%
@@ -526,7 +609,7 @@
       \strng{authornamehash}{c48644513d15985ab88eae9c98b788d3}
       \strng{authorfullhash}{33afeb98cc5433f718bf68260ff4f1df}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract Background\hspace{1em}Incidental radiographic findings, such as adrenal nodules, are commonly identified in imaging studies and documented in radiology reports. However, patients with such findings frequently do not receive appropriate follow-up, partially due to the lack of tools for the management of such findings and the time required to maintain up-to-date lists. Natural language processing (NLP) is capable of extracting information from free-text clinical documents and could provide the basis for software solutions that do not require changes to clinical workflows. Objectives\hspace{1em}In this manuscript we present (1) a machine learning algorithm we trained to identify radiology reports documenting the presence of a newly discovered adrenal incidentaloma, and (2) the web application and results database we developed to manage these clinical findings. Methods\hspace{1em}We manually annotated a training corpus of 4,090 radiology reports from across our institution with a binary label indicating whether or not a report contains a newly discovered adrenal incidentaloma. We trained a convolutional neural network to perform this text classification task. Over the NLP backbone we built a web application that allows users to coordinate clinical management of adrenal incidentalomas in real time. Results\hspace{1em}The annotated dataset included 404 positive (9.9\%) and 3,686 (90.1\%) negative reports. Our model achieved a sensitivity of 92.9\% (95\% confidence interval: 80.9–97.5\%), a positive predictive value of 83.0\% (69.9–91.1)\%, a specificity of 97.8\% (95.8–98.9)\%, and an F1 score of 87.6\%. We developed a front-end web application based on the model's output. Conclusion\hspace{1em}Developing an NLP-enabled custom web application for tracking and management of high-risk adrenal incidentalomas is feasible in a resource constrained, safety net hospital. Such applications can be used by an institution's quality department or its primary care providers and can easily be generalized to other types of clinical findings.}
@@ -602,7 +685,7 @@
       \strng{authornamehash}{f8fcf8d8dd6a8a5f0878c74b4d02d101}
       \strng{authorfullhash}{b9d08403913d98019dcaf6217f65e4e4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{15461440}
@@ -671,7 +754,7 @@
       \strng{authorfullhash}{435750901ff1b9400348417818a17a5b}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The influence of patient-level factors on palliative and hospice care is unclear. We conducted a retrospective review of 2321 patients aged {$\geq$}18 that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their chart was complete, their length of stay was {$\geq$}48 hours, and if based on their diagnoses, they would have benefited from palliative care consultation (PCC). Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race/ethnicity, education, language, insurance status, and income. 730 patients fit our inclusion criteria and 30\% (n = 211) received PCC. The OR of receiving PCC was 1.26 (99\% CrI, 0.73-2.12) for Blacks, 0.81 (99\% CrI, 0.31-1.86) for Hispanics, and 0.69 (99\% CrI, 0.19-2.46) for other minorities. Less than high school education was associated with greater odds of PCC (OR 2.28, 99\% CrI, 1.09-4.93) compared to no schooling. Compared to English speakers, non-English speakers had higher odds of receiving PCC when cared for by medical services (OR 3.01 [99\% CrI, 1.44-5.32]) but lower odds of PCC when cared for by surgical services (0.22 [99\% CrI, {$<$}0.01-3.42]). Insurance status and income were not associated with differences in PCC. At our institution, we found no evidence of racial/ethnic, insurance, or income status affecting PCC while primary language spoken and educational status did. Further investigation is warranted to examine the system and provider-level factors influencing PCC's low utilization by medical and surgical specialties.}
@@ -739,7 +822,7 @@
       \strng{authornamehash}{0d8da2b35fca0a90386cc69260668adf}
       \strng{authorfullhash}{dd632400fbbc2e0b42789750d3b3a56d}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{ZSCC: 0000002}
@@ -807,7 +890,7 @@
       \strng{authorfullhash}{435750901ff1b9400348417818a17a5b}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{There is a paucity of data regarding the utilization of palliative care consultation (PCC) in surgical specialties. We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) who died within 6 months of admission to Boston Medical Center from 2012 to 2017. Patients were included for analysis if their length of stay was more than 48 hours and if, based on their diagnoses as determined by literature review and expert consensus, they would have benefited from PCC. Bayesian regression was used to estimate the odds ratio (OR) and 99\% credible intervals (CrI) of receiving PCC adjusted for age, sex, race, insurance status, median income, and comorbidity status. Among the 739 patients who fit the inclusion criteria, only 30\% (n = 222) received PCC even though 664 (90\%) and 75 (10\%) of these patients were identified as warranting PCC on medical and surgical services, respectively. Of the 222 patients who received PCC, 214 (96\%) were cared for by medical services and 8 (4\%) were cared for by surgical services. Patients cared for primarily by surgical were significantly less likely to receive PCC than primary patients of medical service providers (OR, 0.19, 99\% CrI, 0.056-0.48). At our institution, many surgical patients appropriate for PCC are unable to benefit from this service due to low consultation numbers. Further investigation is warranted to examine if this phenomenon is observed at other institutions, elucidate the reasons for this disparity, and develop interventions to increase the appropriate use of PCC throughout all medical specialties.}
@@ -894,7 +977,7 @@
       \strng{authornamehash}{e0159ddcc5654d1220ed204743b67879}
       \strng{authorfullhash}{cb9734f754215962d278348029c6963a}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{ZSCC: NoCitationData[s1]}
@@ -955,7 +1038,7 @@
       \strng{authornamehash}{1de29f68510e2207b77139b511afba0d}
       \strng{authorfullhash}{eeba739116b6b30ef23cfe0aa890a147}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: Alpha-1 adrenergic blockers used to treat postoperative urinary retention (POUR) may also have a preventative role. Here we assess the evidence behind their prophylactic use on POUR prevention. Study design: PRISMA guidelines were followed. All studies reviewed for eligibility, data extraction, and risk of bias assessment. Pooled risk ratios with 95\% confidence intervals calculated using a random effects model. Heterogeneity assessed using Forest plots, I2 statistic and Chi-squared Cochran's Q-statistic. Results: Fifteen RCTs (1732 patients) included. Prophylactic alpha-1 adrenergic blockers significantly reduced risk of POUR, 13.16\% vs 30.24\%, RR {$\frac{1}{4}$} 0.48 (95\%CI: 0.33; 0.70, p-value {$\frac{1}{4}$} .001), without a statistically significant increase in adverse events. Substantial heterogeneity found between included studies (I2 {$\frac{1}{4}$} 65.49\% [95\%CI:48.49; 95.01] \& Q-statistic 43.46 (p-value{$<$}.001)). Subgroup analysis revealed strong risk reduction and little heterogeneity in males (RR:0.33, 95\%CI:0.23; 0.47, p-value{$<$}.001, I2:10.58) and patients receiving spinal anesthesia (RR:0.26, 95\%CI:0.14; 0.46, p-value{$<$}.0001, I2 {$\frac{1}{4}$} 0\%). Conclusion: Prophylactic alpha-1 adrenergic blockers reduce risk of POUR in males and after spinal anesthesia.}
@@ -1036,7 +1119,7 @@
       \strng{authornamehash}{79aad8f2b2e14fba946aae81f1653dd5}
       \strng{authorfullhash}{c5694991996c4215fc42445af729a8c7}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The ornithine transcarbamylase (OTC) gene is on the X chromosome and its product catalyzes the formation of citrulline from ornithine and carbamylphosphate in the urea cycle. About 10-15\% of patients, clinically diagnosed with OTC deficiency (OTCD), lack identifiable mutations in the coding region or splice junctions of the OTC gene on routine molecular testing. We collected DNA from such patients via retrospective review and by prospective enrollment. In nine of 38 subjects (24\%), we identified a sequence variant in the OTC regulatory regions. Eight subjects had unique sequence variants in the OTC promoter and one subject had a novel sequence variant in the OTC enhancer. All sequence variants affect positions that are highly conserved in mammalian OTC genes. Functional studies revealed reduced reporter gene expression with all sequence variants. Two sequence variants caused decreased binding of the HNF4 transcription factor to its mutated binding site. Bioinformatic analyses combined with functional assays can be used to identify and authenticate pathogenic sequence variants in regulatory regions of the OTC gene, in other urea cycle disorders or other inborn errors of metabolism.}
@@ -1125,7 +1208,7 @@
       \strng{authornamehash}{f7b2f1c699856c69d8baa9332346b051}
       \strng{authorfullhash}{b7be7ad52e8bb53e28cda67412783848}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND: The short-term natural history of blunt cerebrovascular injuries (BCVIs) has been previously described in the literature, but the purpose of this study was to analyze long-term serial follow-up and lesion progression of BCVI. METHODS: This is a single institution's retrospective review of a prospectively collected database over four years (2009–2013). All patients with a diagnosis of BCVI by computed tomographic (CT) scan were identified, and injuries were graded based on modified Denver scale. Management followed institutional algorithm: initial whole-body contrast-enhanced CT scan, followed by CT angiography at 24 to 72 hours, 5 to 7 days, 4 to 6 weeks, and 3 months after injury. All follow-up imaging, medication management, and clinical outcomes through 6 months following injury were recorded. RESULTS: There were 379 patients with 509 injuries identified. Three hundred eighty-one injuries were diagnosed as BCVI on first CT (Grade 1 injuries, 126; Grade 2 injuries, 116; Grade 3 injuries, 69; and Grade 4 injuries, 70); 100 ``indeterminate'' on whole-body CT; 28 injuries were found in patients reimaged only for lesions detected in other vessels. Sixty percent were male, mean (SD) age was 46.5 (19.9)years, 65\% were white, and 62\% were victims of a motor vehicle crash. Most frequently, Grade 1 injuries were resolved at all subsequent time points. Up to 30\% of Grade 2 injuries worsened, but nearly 50\% improved or resolved. Fortysix percent of injuries originally not detected were subsequently diagnosed as Grade 3 injuries. Greater than 70\% of all imaged Grade 3 and Grade 4 injuries remained unchanged at all subsequent time points. CONCLUSIONS:}
@@ -1215,7 +1298,7 @@
       \strng{authornamehash}{d3acf5bb3d462fcfe14a9ef0a799370e}
       \strng{authorfullhash}{cd1ed1d0a7515159c915d320af08b816}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND: Grade 4 blunt cerebrovascular injury (BCVI4) has a known, significant rate of stroke. However, little is known about the natural history of BCVI4 and the pathophysiology of subsequent stroke formation. METHODS: A 4-year review of patients with BCVI4 at the R Adams Cowley Shock Trauma Center was performed. Rates of BCVI4-related stroke, stroke-related mortality, and overall mortality were calculated. The relationship of change in vessel characteristics and BCVI4-related stroke was examined, as was the mechanism of stroke formation. RESULTS: There were 82 BCVI4s identified, with 13 carotid artery (ICA) and 69 vertebral artery BCVI4s. BCVI4-related stroke rate was 2.9\% in vertebral artery BCVI4 and 70\% in ICA BCVI4 patients surviving to reimaging. Stroke mechanisms included embolic strokes, thrombotic strokes, and combined embolic and thrombotic strokes. Peristroke vessel recanalization and an embolic stroke mechanism were seen in 100\% of ICA BCVI4-related strokes developing after admission. BCVI4-related stroke occurred within 10 hours of hospital admission in 67\% of the patients with strokes. Contraindications to anticoagulation were present in most patients with BCVI4-related stroke developing after admission. CONCLUSION:}
@@ -1278,7 +1361,7 @@
       \strng{authornamehash}{3c6c95485eb0420d611d7822feb09861}
       \strng{authorfullhash}{3f5bb5eab263b95c574f1bfab1d1c1ce}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{As the difficulty and cost of generating data has decreased, there have been emerging problems of data movement between where it was collected to where it can most effectively be processed. The Science DMZ model is an established solution to help maximize the throughput from any given network infrastructure between sites but there still exists room for exploration and improvement, including the use of Software-Defined Networking (SDN). We aim to explore how the use of SDN-enabled flows in a Science DMZ may impact its main trait: performance. In this paper we have successfully demonstrated improvements in data transfer between certain sites and under certain conditions. Though we have also seen sites where there is no difference or even a performance penalty, all the results are consistent and reproducible over hundreds of test transfers suggesting there are unique properties of each site configuration leading to real and sustained performance increases to a Science DMZ.}
@@ -1327,7 +1410,7 @@
       \strng{authornamehash}{a5e56dd63c2989941ccb68569a2d804b}
       \strng{authorfullhash}{b5d80d9880bc4ea2d9bf7db89d58fd31}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Conversion of nitrogenous waste to urea via the urea cycle is regulated by factors that respond to nitrogen load to prevent toxic ammonia buildup. Six enzymes, N-acetylglutamate synthase, carbamylphosphate synthetase, ornithine transcarbamylase (OTC), argininosuccinate synthase, argininosuccinate lyase and arginase 1 (ARG1) are essential for ureagenesis. Most urea cycle disorders result from mutations in coding regions or splice sites, but regulatory region changes may also contribute. To analyze urea cycle transcriptional regulation we used Cis-Element Over Representation (CLOVER) software to find transcription factor binding motifs in conserved regions. Candidate binding sites for Estrogen Receptor and BRCA1 were found in the ARG1 promoter. Binding will be verified using an avidin-agarose pull down assay and western blotting. We also screened patients with OTC deficiency that lack typical mutations, for changes in OTC regulatory regions. We identified three single nucleotide substitutions as disease-causing candidates in the OTC promoter; two in a known HNF-4 binding site and one in a conserved region of unknown function. These changes were absent in 800 alleles from persons of Caucasian, Hispanic and African decent. Bioinformatic detection and molecular verification of regulatory factors is critical to understanding the urea cycle and for better diagnosis of disease.}
@@ -1381,7 +1464,7 @@
       \strng{authornamehash}{b6570589714d45f840e249c4247d5867}
       \strng{authorfullhash}{2ae053a6fa4c11ac5c82f4150c7a9d58}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{ZSCC: NoCitationData[s0]}
@@ -1403,7 +1486,7 @@
         {Orlando, Florida}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: Heterogeneity of risk associated with different surgeries limits the ability of researchers to adjust for multiple different surgical procedures in a single study. The challenge arises because each operation has a different total risk, and moreover the total risk of each operation is a combination of risk types, such as overall mortality risk, major morbidity risk, etc. Further, if enough case types are included, solely adjusting for CPT code will create unstable estimates through overfitting. We aimed to design a method to adjust for multiple different operations in one analysis. Methods: We used the ACS NSQIP calculator for the `average' patient to develop a mechanism to determine risk for each surgery type. Predicted probabilities for mortality, major morbidity, overall morbidity, readmission, and reoperations were extracted from the risk calculator as absolute values. The weighted summary score was produced using the following equation: weighted risk score=10*(mortality)+8*(major morbidity)+5*(overall morbidity) +4*(return to OR)+readmission. We then estimated the effect of adjusting for total risk using additive raw scores (i.e. unweighted) or using a summary risk score that is composed of additive weighted individual complications and compared it to adjusting for CPT code only. The effects were estimated in a simplified mock analysis of the effect of emergency surgery designation on mortality using NSQIP data and evaluating how the association of emergency surgery on mortality changed with different risk adjustment methods. Results: There were 702,278 observations and 14,130 deaths. Fifty-four operations of disparate baseline risk were included. Operations that are traditionally considered low risk, such as breast and thyroid operations, had low weighted summary risk scores. Conversely, operations that are typically considered high risk, such as pancreatectomy and hepatectomy, had high summary risk scores. Multiple adjustment methods were tested to determine if one was superior compared to adjusting solely for CPT score (Table 1). Adjustment for confounding was similar across weighting schemes. Including raw scores was most similar to including CPT codes alone, but required 54 dummy variables whereas the raw score only required addition of 5 variables and the weighted summary score only consisted of 1 variable. Conclusion: We have developed a method to account for variable case risk in regression analysis when multiple operations are included. This method is particularly advantageous when the number of operation types included is large while the event rate is relatively small. To our knowledge this is the first attempt at creating a score like this for use in regression analysis.}
       \field{month}{2}
@@ -1417,7 +1500,7 @@
         {Houston TX}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Surgery}
       \field{month}{2}
@@ -1431,7 +1514,7 @@
         {Houston, TX}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: Emergency General Surgery (EGS) represents a diverse set of operations performed on acutely ill and injured patients. The EGS patient population is diverse and increasingly from less advantaged cohorts, who have a higher likelihood of not speaking English (ENG). However, the effect of primary language on EGS outcomes has not been studied. We aimed to evaluate the effect of non-English primary language on outcomes following EGS operations. Methods: The New Jersey Statewide Inpatient Database from 2009-2014 was used to evaluate cases identified as representing 80\% of the national EGS case volume. Cases were restricted to ages {$>$}18, resulted from emergency department admissions, were noted to be emergent or urgent, and were performed between 0-2 days after admission. We evaluated outcomes for Spanish speakers (SPA) speakers and non-English/non-Spanish (NENS) speakers compared to ENG speakers. Outcomes were in-hospital mortality, 7-day readmission, and hospital length of stay (LOS). Generalized linear mixed models were used to account for hierarchy in the data, and logistic and negative binomial regression were used to estimate odds ratios and incident rate ratios respectively. Sensitivity analysis was performed to assess whether missing confounding variables could ablate effect estimates. Results: 105,174 patients were included. A majority of ENG speakers were white and had private insurance; SPA speakers were younger and had fewer comorbidities. Where differences between SPA and NENS speakers existed, NENS speakers were more like the ENG speaking group. Readmission exhibited high between-hospital variability. Regression results are shown in the results table. After adjusting for operative risk, comorbid conditions, social determinants of health, and intra-hospital correlation, we found that non-English speakers had reduced LOS after appendectomy and lysis of adhesions. However, SPA speakers had an increased LOS following highest risk operations. There was no difference in mortality or short-term readmission in either language group compared to ENG. Sensitivity analysis indicated that the observed decreases in LOS were not robust to unmeasured confounding, while the increase in LOS among SPA speakers in the highest risk procedures was robust to additional confounding. Conclusion: These data suggest SPA speakers are younger and healthier than ENG speakers, and that NENS speakers are more like ENG speakers than SPA speakers. Primary language does not have an independent impact on readmission or inpatient mortality following EGS operations. The effect of primary language on LOS after EGS depends on the type of operation. Future studies should focus on long term outcomes and generalizability to other regions of the United States}
       \field{annotation}{Published: Journal of Surgical Research}
@@ -1446,7 +1529,7 @@
         {Worcester MA}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Non-{{English Language}} and {{Outcomes}} in {{Emergency General Surgery}}}
       \field{type}{Oral {{Presentation}} at {{Massachusetts State American College}} of {{Surgeons Committee}} on {{Trauma}}}
@@ -1458,7 +1541,7 @@
         {Jacksonville FL}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{month}{1}
       \field{title}{The {{Effect}} of {{Trainee Involvement}} on {{Patient Outcomes}} in {{General Surgery Cases Over Time}}.}
@@ -1471,7 +1554,7 @@
         {Boston MA}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Journal of Surgical Research}
       \field{month}{9}
@@ -1485,7 +1568,7 @@
         {New Haven, CT}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Hemoperitoneum Due to {{Traumatic Avulsion}} of a {{Single Leiomyoma Following}} a {{Motor Vehicle Collision}}}
       \field{type}{Oral {{Presentation}} at {{The Connecticut American College}} of {{Surgeons Annual Meeting}},}
@@ -1494,7 +1577,7 @@
     \endentry
     \entry{noauthor_through_2014}{misc}{}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Through the {{Looking Glass}}: {{Telemedicine}} as a {{Potential Cure}} for the {{Community Intensivist Shortage}}}
       \field{type}{Paper Presented at {{University}} of {{Maryland School}} of {{Medicine Clinical Capstone Research Project Finalist Presentation Symposium}}, {{Baltimore MD}}}
@@ -1506,7 +1589,7 @@
         {Baltimore, MD}%
       }
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Investigation of {{miRNA}}-Directed {{Control}} of {{LDL Receptor Expression}}}
       \field{type}{32nd {{Annual UMSOM Medical Student Research Day Oral Presentation}}}
@@ -1515,7 +1598,7 @@
     \endentry
     \entry{noauthor_mutations_2008}{misc}{}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{annotation}{College Park MD}
       \field{title}{Mutations in an {{Ornithine Transcarbamylase Regulatory Region}} as a {{Possible Cause}} for {{Reduced Expression}} in {{Patients}} with {{Ornithine Transcarbamylase Deficiency}}}
@@ -1586,7 +1669,7 @@
       \strng{authornamehash}{346dc4cb6147fde0aec302d43b4fe15f}
       \strng{authorfullhash}{ef304e444d93a1cb2ee2e8003af5f7f7}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Previous research has shown conflicting results regarding the impact of English language proficiency on medical and surgical outcomes. The objective of this study was to evaluate whether primary language was associated with differences in outcomes after bariatric operations. Retrospective cohort study of New Jersey hospitals from 2009-14 evaluating adult patients with ICD-9 diagnoses of obesity who underwent laparoscopic sleeve gastrectomy, laparoscopic Roux-en-Y gastrectomy (lap RYGB), or open RYGB. NJ was selected because these data include patients' primary languages. Spanish speakers and non-English/non-Spanish (NENS) speakers were compared to English speakers. In-hospital mortality, 7-day readmission, and LOS were evaluated. 25,272 patients met inclusion criteria; 24,200 (96\%) spoke English, 780 (3\%) spoke Spanish, and 292 (1\%) were NENS speakers. There were 17,090 (67.6\%) sleeve gastrectomies, 7,492 (29.6\%) lap RYGBs, and 690 (2.7\%) open RYGBs. No difference was observed in the number of operation types among each language group. There was no difference in mortality and lower readmissions among non-English speakers, but the absolute number of deaths and 7-day readmissions was low (1[{$<$}0.1\%] and 6[{$<$}0.8\%] among non-English speakers, respectively). Adjusted analysis showed no change in LOS for Spanish speakers or NENS speakers versus English speakers (IRR 0.96, 95\%CI [0.91-1.02] and 0.95 [0.86-1.05], respectively). In this large cohort of bariatric surgery patients, there was no association between language and short-term post-operative outcomes. These results may indicate that the highly protocolized course following bariatric surgery mitigates risks that may arise from communication difficulties}
@@ -1644,7 +1727,7 @@
       \strng{authornamehash}{3af474df8ce5ed85d8cd248cbe428fac}
       \strng{authorfullhash}{069b4e74fdbe73b2d234bdaf48ae4cef}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Paper presented at the 2018 Annual Meeting of the New England Surgical Society, Portland ME}
@@ -1708,7 +1791,7 @@
       \strng{authornamehash}{87be2b1cdb78cb1924c00ccde1dba964}
       \strng{authorfullhash}{7fd7b03d3a1c8fc470005c34b2c77816}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Paper presented at the Massachusetts American College of Surgeons Annual Meeting, Boston MA}
@@ -1778,7 +1861,7 @@
       \strng{authornamehash}{b0a10d8cef4911fbf0ad5db77a4b2c63}
       \strng{authorfullhash}{6af6cb8a896ff7f3167eed9b0f7f1f3a}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Paper presented at the Massachusetts American College of Surgeons Annual Meeting, Boston MA}
@@ -1830,7 +1913,7 @@
       \strng{authornamehash}{8538fc67618a1a2340cd55d4aac8c26a}
       \strng{authorfullhash}{451d240d2ffe2d2255bcf8415fb40392}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Paper presented at 2017 Annual Meeting of the New England Surgical Society, Bretton Woods NH}
@@ -1864,7 +1947,7 @@
       \strng{authornamehash}{cd1c74a4e6eb4922271f90cb3e5b7255}
       \strng{authorfullhash}{cd1c74a4e6eb4922271f90cb3e5b7255}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Published: Paper presented at the Howard Hughes Medical Institute Research Fellowship Program 9th Annual Research Symposium, College Park MD}
@@ -1912,7 +1995,7 @@
       \strng{authornamehash}{4fa286841c698e1c235d9e89aa8bebcc}
       \strng{authorfullhash}{e3e13e8144f399095ea5f63bbe11ae0f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: There is a gap in the literature with regards to the influence of patient-level factors affecting palliative and hospice care. We hypothesized that, while there is some sparse data specifically pointing to racial disparities in the appropriate receipt of hospice and palliative care, given our status as a safety-net urban hospital, this would not be evident at our institution. Methods: We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their demographic information was complete, their length of stay was more than 48 hours and if based on their diagnoses as determined by literature review and expert consensus, they would have benefited from palliative care consultation (PCC) either during their inpatient hospitalization or as outpatients. Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race. Knowing that PCC is differentially used at our institution between medical and surgical services, we analyzed this data stratified by the patient's primary management service. Results: Among the 730 patients who fit our inclusion criteria, 44.9\% (n=328) were White, 40.8\% (n=298) were Black, 10.1\% (n=74) were Hispanic, and 4.1\% (30) identified as belonging to a different races. Overall, 24.7\% (n=81) of Whites, 35.9\% (n=107) of Blacks, 32.4\% (n=24) of Hispanics, and 30.0\% (n=9) of other races received PCC. Knowing that patients primarily managed by surgical services at our institution have significantly lower odds of receiving PCC at our institution than patients managed by medical services, we found no statistically significant racial disparities on PCC utilization when we stratified the data by whether the patient was managed primarily by surgical vs. medical services. However, among Black patients referral to PCC tends to be higher while among Hispanic patients that PCC tends to be lower with larger uncertainty (Table). Conclusion: At our institution, we found no evidence of racial disparities affecting PCC. This is in contrast to previous reports in the literature highlighting the differential use of palliative care and hospice in racial minorities. Further investigation is warranted to examine whether the type (safety-net vs. not) and location (urban vs. rural) of a hospital, along with other systems, patients, and provider-level factors, influences this non-discriminatory utilization of palliative care and hospice services.}
@@ -1959,7 +2042,7 @@
       \strng{authornamehash}{fff197ccfd45812e496393861482bc16}
       \strng{authorfullhash}{6dc5609f0ed4a6d1c9b6f647f39aa82a}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: To determine whether a difference in outcomes exists for non-English-speaking patients compared to English-speaking patients after operations commonly performed to treat cancer. We hypothesized that language discordance between providers and patients was an independent risk factor for worse outcomes. Design: Retrospective cohort study (January 2012 to December 2017). Operations were identified based on current procedural terminology code. Logistic and negative binomial regression were used to adjust for baseline comorbidities, case risk, and socioeconomic factors. Cox proportional hazard modeling was used to evaluate mortality. Setting: Urban, tertiary referral and safety-net hospital. Patients (or Other Participants): Adult patients were stratified as English-speaking (ENG), Spanish/Creole-speaking (SpCr), or Non-English, Non-Spanish/Creole speaking (NENS). Interventions (if any): N/a Main Outcome Measure(s): 30-day readmission, length of stay (LOS), and all-cause mortality Results: 2470 patients were included. Most operations were low risk (87.2\%) and there was no difference in case risk between language groups. Patients in non-English groups were more likely to be uninsured/self-pay and lived in neighborhoods with lower median income. After adjustment we found no difference in the odds of readmission for SpCr vs ENG (Odds Ratio 1.00, 95\%CI [0.65-1.52] ) or NENS vs ENG (1.36 [0.85-2.12]). There was no difference in LOS. Among patients who died, there was no difference in the hazard of mortality: SpCr vs ENG (HR (2.07 [0.91-4.72]), NENS vs ENG (1.29 [0.51-3.29]). Conclusions: We found no association between language and outcomes after cancer operations. This lack of difference may reflect system-level efficacy at treating non-English speaking patients. It may also suggest that communication barriers do not have an independent impact on the outcomes measured here. Other outcomes, e.g., patient satisfaction, might show different results.}
@@ -2000,7 +2083,7 @@
       \strng{authornamehash}{7fd62a767ff1df8c23c1b3651e5f6ae9}
       \strng{authorfullhash}{b44f85e2684b413fbda57d1c23ae19ce}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -2049,7 +2132,7 @@
       \strng{authornamehash}{127cea2a592e02b53db2c59eb1086919}
       \strng{authorfullhash}{3b654858382269fcfaf10d89f8adc190}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Published studies promoting minimally invasive pancreatectomy have been criticized for high-volume and/or single center bias. We sought to compare surgical and oncologic outcomes of patients with pancreatic cancer who underwent laparoscopic distal pancreatectomy (LDP) versus open distal pancreatectomy (ODP) in lower-volume hospitals. Design: Retrospective cohort study Setting: Low-volume hospitals ({$\leq$} 5 distal pancreatectomies per year). Patients: Patients {$\geq$} 18 years old with any pancreatic cancer who underwent distal pancreatectomy at a low-volume center between 2010 and 2014 were identified from the National Cancer Database (NCDB). Propensity scores were created for the odds of undergoing LDP. Patients were matched 1:1 based on propensity score. Interventions: LDP vs. ODP. Main outcome measures: 30-day mortality, 90-day mortality, median hospital length of stay (LOS), unplanned 30-day readmission, surgical margins, number of lymph nodes harvested, and survival. Results: Of the 2,842 eligible patients, 902 (31.7\%) underwent LDP and 1,940 (68.3\%) underwent ODP. Overall, 203 (22.5\%) laparoscopic cases were converted to open. After matching, LDP was predictive of decreased 90-day mortality (3.6\% vs. 5.9\%; p=0.0196), shorter LOS (6 vs. 7 days; p{$<$}0.0001), and fewer positive resection margins (12.5\% vs. 18.5\%; p=0.0004). There were no differences with respect to 30-day mortality (1.7\% vs. 2.9\%; p=0.0823), readmission (9.6\% vs. 7.4\%; p=0.0920), and number of lymph nodes harvested (7 vs. 8 nodes; p=0.2113). For pancreatic adenocarcinoma patients demonstrated similar median overall survival for patients who underwent LDP versus ODP (23.4 vs. 22.3 months; log-rank p=0.2460) after propensity-score matching. Conclusions: The results of this study suggest that, even in low-volume settings, LDP is associated with reduced 90-day mortality, shorter length of hospital stay, and lower rates of positive resection margins in well-selected patients.}
@@ -2090,7 +2173,7 @@
       \strng{authornamehash}{707de56b6428e9425cfdbc79042a75a1}
       \strng{authorfullhash}{4d907f7eeacbb9a9659d552f66b02cb2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: There have been many changes to surgical education over the last few decades. With increased attention to patient safety, there is a push to better prepare our medical students prior to starting a surgical residency. We present our results from a pilot study of creating a senior medical student surgical boot camp including analysis of the learner's perspectives of boot camps. Methods: Graduating senior medical students entering a surgical residency underwent a voluntary three-day surgical boot camp. Pre-and post-surveys were used to evaluate confidence levels of common patient management issues as well as technical skills. Qualitative analysis of a focus group using a general inductive approach was used to develop themes surrounding students' perceptions of boot camps. Results: Ten medical students completed the boot camp. We found that most students were somewhat confident (3 on a 5-point Likert scale) in their abilities to manage common intern problems with increased variation among students for technical skills prior to the boot camp. Students all had improvements in confidence scores post boot camp for all measured tasks. From our qualitative analysis we found that students prefer a voluntary, surgery specific boot camp at the end of medical school as oppose to the start of their residency. Being given the choice to partake in the intervention provided the participating students with more motivation during the boot camp, supporting adult learning theory. Some of the students' major concerns include being the first point of contact for patient issues as well as being the first responder to patient emergencies. Students worry about their ability to multi-task and manage a large amount of information which differed from their experience as a medical student. In addition, students are realistic about their expectations from a preparatory boot camp and value it as an experience to help ``jump start'' their transition to residency. Conclusion: Our pilot study suggests that surgical boot camps may successfully improve students' confidence in patient management and technical skills prior to the start of their intern year. In addition, we found major themes surrounding students' perceptions of boot camp which may assist with future development of these programs. Students prefer a voluntary boot camp and value the experience at a medical school level. In addition, they are realistic in that a preparatory course will not teach them all they need to know prior to residency but more as a tool to help their transition.}
@@ -2133,7 +2216,7 @@
       \strng{authornamehash}{00d23f6b22b1037b84e059f6abaa6fd2}
       \strng{authorfullhash}{593d99e4d2ee0c7360874c7dabeafa6d}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Emergency General Surgery (EGS) encompasses high risk patients undergoing high risk procedures. Admission source, particularly interhospital transfers, is rarely accounted for clinical performance benchmarking. Our goal was to assess the impact of transferred patients on outcomes following EGS. Design: Retrospective analysis of the American College of Surgeons National Surgical Quality Improvement Project (ACS-NSQIP) database (2005-2014). Setting: High-quality surgical outcomes data from more than 80 US hospitals participating in ACS NSQIP. Patients: All inpatients that underwent one of 7 EGS procedures shown to represent 80\% of EGS volume, complications, and mortality nationally. Interventions: Admission source was classified as directly admitted versus transferred from an outside emergency room or an acute care facility. Main Outcome Measures: The primary outcomes were overall mortality, overall morbidity and major morbidity. Results: A total of 619,174 EGS admissions were identified, of which 31,173 (5\%) were transfers. Mean age was 55.8 years and 52\% were female. Overall mortality was 2.8\% for the entire cohort and 10.1\% within the transfer group. After risk adjustment for 33 clinical and demographic variables, transferred patients had higher rates of overall mortality (Odds Ratio [OR] 1.12, 95\% Confidence Interval [CI] 1.05 - 1.21), higher overall morbidity (OR 1.28, 95\% CI 1.22 - 1.34) and major morbidity (OR 1.29, 95\% CI 1.21 - 1.37) when compared with directly admitted patients. Conclusions: After rigorous risk adjustment, interhospital transfer status is an independent risk factor for mortality and morbidity in the EGS population. This increased burden on accepting institutions may have an impact on quality metrics and should be considered for benchmarking of clinical performance.}

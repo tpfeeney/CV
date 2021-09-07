@@ -80,6 +80,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{annotation}{0 citations (Crossref) [2021-08-03]}
       \field{issn}{0364-2313, 1432-2323}
       \field{journaltitle}{World Journal of Surgery}
       \field{month}{10}
@@ -157,6 +158,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background. Few studies have evaluated the effect of primary language on surgical outcomes, and no studies have addressed operations typically performed for cancer diagnoses. This study aimed to determine the effect of primary languages other than English on outcomes after surgical oncology operations. Methods. This study retrospectively analyzed adults undergoing operations typically performed to treat cancer using the NJ Healthcare Cost and Utilization Project State Inpatient Database during the interval of 2009–2014. Language was grouped according to English-, Spanish-, and non-English/non- Spanish (NENS)-speaking groups. The study evaluated inhospital mortality, 7-day readmission, and hospital length of stay (LOS). Logistic and negative binomial regression methods were applied, and generalized linear mixed models were used to account for nesting within a hospital. Results. This study analyzed 37,531 cases. Non-English speakers were of lower economic status, more likely to be admitted on the weekend, and more likely to undergo higher-risk operations. The likelihood of death in the riskadjusted multi-level models did not differ between Spanish speakers (odds ratio [OR], 0.67; 95\% confidence interval [CI], 0.41–1.10) and NENS speakers (OR, 1.16; 95\% CI, 0.77–1.75). Readmission rates exhibited high inter-hospital variability (intra-class correlation, 53\%). The odds of readmission among Spanish speakers in the non-hierarchical model was increased (OR, 1.50; 95\% CI, 1.11–2.02), but this was ameliorated in the multilevel modeling that accounted for variability between hospitals (OR, 1.29; 95\% CI, 0.93–1.80). No changes in LOS were observed. Conclusions. No independent association was observed between primary language and outcomes after operations typically performed to treat cancer in the study population. The higher proportion of weekend admissions may suggest more acute or advanced presentations for non-English speakers. Long-term outcomes may be necessary to discern an impact.}
+      \field{annotation}{2 citations (Crossref) [2021-08-03]}
       \field{issn}{1068-9265, 1534-4681}
       \field{journaltitle}{Annals of Surgical Oncology}
       \field{month}{9}
@@ -234,7 +236,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Emergency general surgery (EGS) represents a diverse set of operations performed on acutely ill patients. Those undergoing EGS are at higher likelihood of complications, readmission, and death, but the effect of primary language on EGS outcomes has not been evaluated. We aimed to evaluate the association of non-English primary language on outcomes after EGS operations. Methods: The New Jersey Statewide Inpatient Database from 2009 to 2014 was used to evaluate cases representing 80\% of the national burden of EGS. Cases were restricted to ages 18 y, emergency department admissions, noted to be emergent or urgent, and performed between 0 and 2 d after admission. We evaluated Spanish speakers and non- English, non-Spanish (NENS) speakers compared with English. Outcomes included inhospital mortality, 7-d readmission, and hospital length of stay (LOS). Logistic and negative binomial regression was used, and generalized linear mixed models were used to account for hierarchy in the data. Results: There were 105,171 patients included. English speakers were majority white and with private insurance; Spanish speakers were younger and with fewer comorbidities. Where differences between Spanish and NENS speakers existed, NENS were more like the English-speaking group. Adjusted results indicate that Spanish speakers had reduced LOS after appendectomy (IRR: 0.92 [0.89-0.95]) and lysis of adhesion [0.93 (0.88-0.97)]. Spanish speakers had an increased LOS after higher risk operations (IRR: 1.14 [1.10-1.20]). NENS speakers had a reduced LOS after adhesiolysis (IRR: 0.94 [0.89-0.99]). There was no difference in mortality or short-term readmission}
-      \field{annotation}{ZSCC: 0000000}
+      \field{annotation}{2 citations (Crossref) [2021-08-03] ZSCC: 0000000}
       \field{issn}{00224804}
       \field{journaltitle}{Journal of Surgical Research}
       \field{month}{12}
@@ -316,6 +318,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Incidental adrenal masses are those that are found on imaging performed for any nonadrenal evaluation. Published guidelines define accepted follow-up criteria for incidental adrenal masses; however, adherence to these guidelines and barriers to appropriate follow-up are not well understood. We aimed to describe practice patterns for the discovery, evaluation, and follow-up of incidental adrenal masses. Methods: Medical records of patients with an incidental adrenal mass underwent retrospective review at a tertiary referral and level-1 trauma center, as well as regional ambulatory care locations. Individuals 18 years of age with an incidental adrenal mass identified during 2016 were included. Patterns of evaluation, follow-up, and associated adrenal diagnoses were determined. Results: From a total of 19,171 cross-sectional imaging procedures (computed tomography and magnetic resonance imaging), 244 patients with new incidental adrenal masses were identified. A majority (52\%) were discovered as part of an evaluation in the emergency department. Of 153 patients with an identifiable primary care provider, approximately 75\% had an in-network primary care provider, and 12 (7.8\%) had both follow-up imaging and biochemical evaluation. Twenty-three percent of patients with an innetwork primary care provider underwent an appropriate cross-sectional imaging procedure in follow-up compared to 29\% for a non-network primary care provider (P {$\frac{1}{4}$} .54). Patients with a mass described with benign terminology were less likely to undergo follow-up imaging compared to those with indeterminate terminology (5\% vs 37\%, P {$<$} .001). Patients with imaging ordered as an outpatient were more likely to receive follow-up with imaging (22.8\% outpatient vs 11.5\% inpatient, P {$\frac{1}{4}$}.042). There was no difference between any groups regarding biochemical evaluation, which inappropriately was performed in only 15\% of patients with an incidental adrenal mass. Conclusion: To optimize follow-up of incidental adrenal masses, efforts should be made to assure and prioritize inpatient/emergency department incidental findings and to communicate to the appropriate primary care provider the necessary next steps for evaluation. Further, efforts to increase biochemical testing should be pursued.}
+      \field{annotation}{3 citations (Crossref) [2021-08-03]}
       \field{issn}{00396060}
       \field{journaltitle}{Surgery}
       \field{month}{10}
@@ -382,7 +385,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: Emergency general surgery (EGS) is an independent risk factor for morbidity and mortality, and seven procedures account for 80\% of the National burden of operative EGS. We aimed to characterize the excess morbidity and mortality attributable to these procedures based on the level of procedural risk. Methods: Retrospective analysis of the ACS National Surgical Quality Improvement Project (ACS-NSQIP) database. (2005e2014). Seven EGS procedures were stratified as high risk and low risk. Primary outcomes were overall mortality, overall morbidity, major morbidity. Multivariable logistic regression was performed. Results: There were 619,174 patients identified. Comparing EGS to non-EGS in high-risk cases the OR for overall mortality was 1.39(1.33,1.45), overall morbidity 1.07 (0.98, 1.16), and major morbidity 1.15(1.03,1,27). In low-risk cases the OR for overall mortality was 1.03 (0.89, 1.19) overall morbidity 1.35 (1.23, 1.48), and major morbidity 2.18(1.90, 2.50). Conclusions: Using a Nationally representative clinical database we identified significant heterogeneity in the outcomes of EGS depending on procedural risk. Risk stratification and benchmarking strategies need to account for the inherent heterogeneity of EGS.}
-      \field{annotation}{ZSCC: 0000006}
+      \field{annotation}{19 citations (Crossref) [2021-08-03] ZSCC: 0000006}
       \field{issn}{00029610}
       \field{journaltitle}{The American Journal of Surgery}
       \field{month}{11}
@@ -442,7 +445,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: The effect of decreased overall hours of training in surgical specialties is still being examined. Of particular interest is the safety of patients undergoing surgeries with trainee surgeons. The aim of this study was to identify if there were significant differences in outcomes of patients undergoing commonly performed thyroid and parathyroid surgeries when trainees were involved. Materials and methods: Postoperative complication rates, length of stay (LOS), and total operation time (OT) data were gathered from the American College of Surgeons National Surgical Quality Improvement Project database. The cases were identified by CPT code and were divided based on the training level of the participating resident surgeon: Junior (postgraduate year [PGY] 1-2), senior (PGY 3-5), fellow (PGY {$>$}5), as well as an attending-only group where no resident was present. We compared the clinical outcomes, LOS, and OT in each trainee group to the attending-only group as the reference. Results: A total of 84,711 cases were identified of which 45.33\% involved trainee participation. Odds ratios (ORs) and 95\% confidence interval for overall, neurologic, and bleeding complications were calculated. No difference in the odds of overall patient complications or neurologic complications was observed. A decrease in the odds of bleedings complications when a junior or senior trainee was present was observed. Overall complications in operations including a junior trainee (PGY 1-2) had an OR of 1.04 (0.85, 1.29), a senior trainee (PGY 3-5) had an OR of 1.00 (0.89, 1.13), and a fellow had an OR of 0.98 (0.74, 1.31). Mean OT was found to be significantly different between attending only and junior and senior trainees. There was no significant difference in OT between fellows and attending only. LOS did not meaningfully differ across groups. Conclusions: In three commonly performed thyroid and parathyroid operations, there is not an increased overall or neurologic complication odds when a surgical trainee is involved; there are decreased odds of a bleeding complication.}
-      \field{annotation}{ZSCC: 0000003}
+      \field{annotation}{12 citations (Crossref) [2021-08-03] ZSCC: 0000003}
       \field{issn}{00224804}
       \field{journaltitle}{Journal of Surgical Research}
       \field{month}{12}
@@ -532,6 +535,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{annotation}{0 citations (Crossref) [2021-08-03]}
       \field{issn}{00029610}
       \field{journaltitle}{The American Journal of Surgery}
       \field{month}{3}
@@ -613,6 +617,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract Background\hspace{1em}Incidental radiographic findings, such as adrenal nodules, are commonly identified in imaging studies and documented in radiology reports. However, patients with such findings frequently do not receive appropriate follow-up, partially due to the lack of tools for the management of such findings and the time required to maintain up-to-date lists. Natural language processing (NLP) is capable of extracting information from free-text clinical documents and could provide the basis for software solutions that do not require changes to clinical workflows. Objectives\hspace{1em}In this manuscript we present (1) a machine learning algorithm we trained to identify radiology reports documenting the presence of a newly discovered adrenal incidentaloma, and (2) the web application and results database we developed to manage these clinical findings. Methods\hspace{1em}We manually annotated a training corpus of 4,090 radiology reports from across our institution with a binary label indicating whether or not a report contains a newly discovered adrenal incidentaloma. We trained a convolutional neural network to perform this text classification task. Over the NLP backbone we built a web application that allows users to coordinate clinical management of adrenal incidentalomas in real time. Results\hspace{1em}The annotated dataset included 404 positive (9.9\%) and 3,686 (90.1\%) negative reports. Our model achieved a sensitivity of 92.9\% (95\% confidence interval: 80.9–97.5\%), a positive predictive value of 83.0\% (69.9–91.1)\%, a specificity of 97.8\% (95.8–98.9)\%, and an F1 score of 87.6\%. We developed a front-end web application based on the model's output. Conclusion\hspace{1em}Developing an NLP-enabled custom web application for tracking and management of high-risk adrenal incidentalomas is feasible in a resource constrained, safety net hospital. Such applications can be used by an institution's quality department or its primary care providers and can easily be generalized to other types of clinical findings.}
+      \field{annotation}{1 citations (Crossref) [2021-08-03]}
       \field{issn}{1869-0327}
       \field{journaltitle}{Applied Clinical Informatics}
       \field{month}{8}
@@ -688,15 +693,18 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{annotation}{4 citations (Crossref) [2021-08-03]}
       \field{issn}{15461440}
       \field{journaltitle}{Journal of the American College of Radiology}
       \field{month}{12}
+      \field{number}{4}
       \field{shorttitle}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}}
       \field{title}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}: {{A Scoping Review}}}
+      \field{volume}{18}
       \field{year}{2020}
       \true{nocite}
-      \field{pages}{S1546144020312254}
-      \range{pages}{-1}
+      \field{pages}{566\bibrangedash 579}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1016/j.jacr.2020.11.006
       \endverb
@@ -758,6 +766,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The influence of patient-level factors on palliative and hospice care is unclear. We conducted a retrospective review of 2321 patients aged {$\geq$}18 that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their chart was complete, their length of stay was {$\geq$}48 hours, and if based on their diagnoses, they would have benefited from palliative care consultation (PCC). Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race/ethnicity, education, language, insurance status, and income. 730 patients fit our inclusion criteria and 30\% (n = 211) received PCC. The OR of receiving PCC was 1.26 (99\% CrI, 0.73-2.12) for Blacks, 0.81 (99\% CrI, 0.31-1.86) for Hispanics, and 0.69 (99\% CrI, 0.19-2.46) for other minorities. Less than high school education was associated with greater odds of PCC (OR 2.28, 99\% CrI, 1.09-4.93) compared to no schooling. Compared to English speakers, non-English speakers had higher odds of receiving PCC when cared for by medical services (OR 3.01 [99\% CrI, 1.44-5.32]) but lower odds of PCC when cared for by surgical services (0.22 [99\% CrI, {$<$}0.01-3.42]). Insurance status and income were not associated with differences in PCC. At our institution, we found no evidence of racial/ethnic, insurance, or income status affecting PCC while primary language spoken and educational status did. Further investigation is warranted to examine the system and provider-level factors influencing PCC's low utilization by medical and surgical specialties.}
+      \field{annotation}{0 citations (Crossref) [2021-08-03]}
       \field{issn}{1049-9091, 1938-2715}
       \field{journaltitle}{American Journal of Hospice and Palliative Medicine®}
       \field{month}{12}
@@ -825,7 +834,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{annotation}{ZSCC: 0000002}
+      \field{annotation}{9 citations (Crossref) [2021-08-03] ZSCC: 0000002}
       \field{issn}{10727515}
       \field{journaltitle}{Journal of the American College of Surgeons}
       \field{month}{1}
@@ -894,7 +903,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{There is a paucity of data regarding the utilization of palliative care consultation (PCC) in surgical specialties. We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) who died within 6 months of admission to Boston Medical Center from 2012 to 2017. Patients were included for analysis if their length of stay was more than 48 hours and if, based on their diagnoses as determined by literature review and expert consensus, they would have benefited from PCC. Bayesian regression was used to estimate the odds ratio (OR) and 99\% credible intervals (CrI) of receiving PCC adjusted for age, sex, race, insurance status, median income, and comorbidity status. Among the 739 patients who fit the inclusion criteria, only 30\% (n = 222) received PCC even though 664 (90\%) and 75 (10\%) of these patients were identified as warranting PCC on medical and surgical services, respectively. Of the 222 patients who received PCC, 214 (96\%) were cared for by medical services and 8 (4\%) were cared for by surgical services. Patients cared for primarily by surgical were significantly less likely to receive PCC than primary patients of medical service providers (OR, 0.19, 99\% CrI, 0.056-0.48). At our institution, many surgical patients appropriate for PCC are unable to benefit from this service due to low consultation numbers. Further investigation is warranted to examine if this phenomenon is observed at other institutions, elucidate the reasons for this disparity, and develop interventions to increase the appropriate use of PCC throughout all medical specialties.}
-      \field{annotation}{ZSCC: 0000000}
+      \field{annotation}{3 citations (Crossref) [2021-08-03] ZSCC: 0000000}
       \field{issn}{1049-9091, 1938-2715}
       \field{journaltitle}{American Journal of Hospice and Palliative Medicine®}
       \field{month}{8}
@@ -980,7 +989,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{annotation}{ZSCC: NoCitationData[s1]}
+      \field{annotation}{4 citations (Crossref) [2021-08-03] ZSCC: NoCitationData[s1]}
       \field{issn}{00396060}
       \field{journaltitle}{Surgery}
       \field{month}{12}
@@ -1042,7 +1051,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: Alpha-1 adrenergic blockers used to treat postoperative urinary retention (POUR) may also have a preventative role. Here we assess the evidence behind their prophylactic use on POUR prevention. Study design: PRISMA guidelines were followed. All studies reviewed for eligibility, data extraction, and risk of bias assessment. Pooled risk ratios with 95\% confidence intervals calculated using a random effects model. Heterogeneity assessed using Forest plots, I2 statistic and Chi-squared Cochran's Q-statistic. Results: Fifteen RCTs (1732 patients) included. Prophylactic alpha-1 adrenergic blockers significantly reduced risk of POUR, 13.16\% vs 30.24\%, RR {$\frac{1}{4}$} 0.48 (95\%CI: 0.33; 0.70, p-value {$\frac{1}{4}$} .001), without a statistically significant increase in adverse events. Substantial heterogeneity found between included studies (I2 {$\frac{1}{4}$} 65.49\% [95\%CI:48.49; 95.01] \& Q-statistic 43.46 (p-value{$<$}.001)). Subgroup analysis revealed strong risk reduction and little heterogeneity in males (RR:0.33, 95\%CI:0.23; 0.47, p-value{$<$}.001, I2:10.58) and patients receiving spinal anesthesia (RR:0.26, 95\%CI:0.14; 0.46, p-value{$<$}.0001, I2 {$\frac{1}{4}$} 0\%). Conclusion: Prophylactic alpha-1 adrenergic blockers reduce risk of POUR in males and after spinal anesthesia.}
-      \field{annotation}{ZSCC: 0000003}
+      \field{annotation}{9 citations (Crossref) [2021-08-03] ZSCC: 0000003}
       \field{issn}{00029610}
       \field{journaltitle}{The American Journal of Surgery}
       \field{month}{5}
@@ -1123,7 +1132,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The ornithine transcarbamylase (OTC) gene is on the X chromosome and its product catalyzes the formation of citrulline from ornithine and carbamylphosphate in the urea cycle. About 10-15\% of patients, clinically diagnosed with OTC deficiency (OTCD), lack identifiable mutations in the coding region or splice junctions of the OTC gene on routine molecular testing. We collected DNA from such patients via retrospective review and by prospective enrollment. In nine of 38 subjects (24\%), we identified a sequence variant in the OTC regulatory regions. Eight subjects had unique sequence variants in the OTC promoter and one subject had a novel sequence variant in the OTC enhancer. All sequence variants affect positions that are highly conserved in mammalian OTC genes. Functional studies revealed reduced reporter gene expression with all sequence variants. Two sequence variants caused decreased binding of the HNF4 transcription factor to its mutated binding site. Bioinformatic analyses combined with functional assays can be used to identify and authenticate pathogenic sequence variants in regulatory regions of the OTC gene, in other urea cycle disorders or other inborn errors of metabolism.}
-      \field{annotation}{ZSCC: 0000004}
+      \field{annotation}{13 citations (Crossref) [2021-08-03] ZSCC: 0000004}
       \field{issn}{10597794}
       \field{journaltitle}{Human Mutation}
       \field{month}{4}
@@ -1212,7 +1221,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND: The short-term natural history of blunt cerebrovascular injuries (BCVIs) has been previously described in the literature, but the purpose of this study was to analyze long-term serial follow-up and lesion progression of BCVI. METHODS: This is a single institution's retrospective review of a prospectively collected database over four years (2009–2013). All patients with a diagnosis of BCVI by computed tomographic (CT) scan were identified, and injuries were graded based on modified Denver scale. Management followed institutional algorithm: initial whole-body contrast-enhanced CT scan, followed by CT angiography at 24 to 72 hours, 5 to 7 days, 4 to 6 weeks, and 3 months after injury. All follow-up imaging, medication management, and clinical outcomes through 6 months following injury were recorded. RESULTS: There were 379 patients with 509 injuries identified. Three hundred eighty-one injuries were diagnosed as BCVI on first CT (Grade 1 injuries, 126; Grade 2 injuries, 116; Grade 3 injuries, 69; and Grade 4 injuries, 70); 100 ``indeterminate'' on whole-body CT; 28 injuries were found in patients reimaged only for lesions detected in other vessels. Sixty percent were male, mean (SD) age was 46.5 (19.9)years, 65\% were white, and 62\% were victims of a motor vehicle crash. Most frequently, Grade 1 injuries were resolved at all subsequent time points. Up to 30\% of Grade 2 injuries worsened, but nearly 50\% improved or resolved. Fortysix percent of injuries originally not detected were subsequently diagnosed as Grade 3 injuries. Greater than 70\% of all imaged Grade 3 and Grade 4 injuries remained unchanged at all subsequent time points. CONCLUSIONS:}
-      \field{annotation}{ZSCC: 0000012}
+      \field{annotation}{14 citations (Crossref) [2021-08-03] ZSCC: 0000012}
       \field{issn}{2163-0755}
       \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
       \field{month}{12}
@@ -1302,7 +1311,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{BACKGROUND: Grade 4 blunt cerebrovascular injury (BCVI4) has a known, significant rate of stroke. However, little is known about the natural history of BCVI4 and the pathophysiology of subsequent stroke formation. METHODS: A 4-year review of patients with BCVI4 at the R Adams Cowley Shock Trauma Center was performed. Rates of BCVI4-related stroke, stroke-related mortality, and overall mortality were calculated. The relationship of change in vessel characteristics and BCVI4-related stroke was examined, as was the mechanism of stroke formation. RESULTS: There were 82 BCVI4s identified, with 13 carotid artery (ICA) and 69 vertebral artery BCVI4s. BCVI4-related stroke rate was 2.9\% in vertebral artery BCVI4 and 70\% in ICA BCVI4 patients surviving to reimaging. Stroke mechanisms included embolic strokes, thrombotic strokes, and combined embolic and thrombotic strokes. Peristroke vessel recanalization and an embolic stroke mechanism were seen in 100\% of ICA BCVI4-related strokes developing after admission. BCVI4-related stroke occurred within 10 hours of hospital admission in 67\% of the patients with strokes. Contraindications to anticoagulation were present in most patients with BCVI4-related stroke developing after admission. CONCLUSION:}
-      \field{annotation}{ZSCC: 0000013}
+      \field{annotation}{13 citations (Crossref) [2021-08-03] ZSCC: 0000013}
       \field{issn}{2163-0755}
       \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
       \field{month}{6}

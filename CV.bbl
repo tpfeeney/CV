@@ -19,33 +19,48 @@
 
 \refsection{1}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{timothy_feeney_incidental_2022}{article}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=9246ddedccc40d4d652566a94d37033e}{%
-           family={{\textbf{Timothy Feeney}}},
-           familyi={T\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=55991b9822d57f34a5dfee60ef5cebc5}{%
-           family={{Andrea Madiedo}},
-           familyi={A\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=2c68a4cbebaae5a7295d208a8e7e1ba8}{%
-           family={{Philip E. Knapp}},
-           familyi={P\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=338e91ae1bb9f2b3215305496f3d1f0e}{%
-           family={{Avneesh Gupta}},
-           familyi={A\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=40bfc0e145536d840be7621138956839}{%
-           family={{David McAneny}},
-           familyi={D\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=cc132ab281df219f4bbd651b581c551b}{%
-           family={{Frederick Thurston Drake}},
-           familyi={F\bibinitperiod}}}%
+    \entry{feeney_incidental_2022}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=05705232bb3b4dd46505808586f5f12f}{%
+           family={Madiedo},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c30f13b25999db1a7e52cf5d6a4741}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1255b16e273e6e023fd17a5d275bd4e}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Avneesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e0963b9e7ca0e86aee5a8172d55aafa}{%
+           family={McAneny},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{dc46faf2f289ed82337603af4ecceb11}
-      \strng{fullhash}{307cd1e147b42272dd262a1b8dc4d8d6}
-      \strng{bibnamehash}{307cd1e147b42272dd262a1b8dc4d8d6}
-      \strng{authorbibnamehash}{307cd1e147b42272dd262a1b8dc4d8d6}
-      \strng{authornamehash}{dc46faf2f289ed82337603af4ecceb11}
-      \strng{authorfullhash}{307cd1e147b42272dd262a1b8dc4d8d6}
+      \strng{namehash}{2a3c42e7a351c6f88fbc9feb48ea1816}
+      \strng{fullhash}{1fcf1fd9cd4afa3054fa6e534d9f01ec}
+      \strng{bibnamehash}{1fcf1fd9cd4afa3054fa6e534d9f01ec}
+      \strng{authorbibnamehash}{1fcf1fd9cd4afa3054fa6e534d9f01ec}
+      \strng{authornamehash}{2a3c42e7a351c6f88fbc9feb48ea1816}
+      \strng{authorfullhash}{1fcf1fd9cd4afa3054fa6e534d9f01ec}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -54,13 +69,16 @@
       \field{journaltitle}{Journal of Surgical Research}
       \field{langid}{english}
       \field{month}{1}
-      \field{title}{Incidental {{Adrenal Masses}}: {{Adherence}} to {{Guidelines}} and {{Methods}} to {{Improve Initial Follow}}-{{Up}}, {{A Systematic Review}}}
+      \field{title}{Incidental {{Adrenal Masses}}: {{Adherence}} to {{Guidelines}} and {{Methods}} to {{Improve Initial Follow-Up}}, {{A Systematic Review}}}
       \field{volume}{269}
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
       \field{pages}{18\bibrangedash 27}
       \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jss.2021.07.041
+      \endverb
     \endentry
     \entry{feeney_providerpatient_2020}{article}{}
       \name{author}{8}{ul=2}{%
@@ -540,7 +558,7 @@
       \field{langid}{english}
       \field{month}{12}
       \field{shorttitle}{Resident and Fellow Participation in {{Thyroid}} and {{Parathyroid}} Surgery}
-      \field{title}{Resident and Fellow Participation in {{Thyroid}} and {{Parathyroid}} Surgery: An {{ACS}}-{{NSQIP}} Clinical Outcomes Analysis}
+      \field{title}{Resident and Fellow Participation in {{Thyroid}} and {{Parathyroid}} Surgery: An {{ACS-NSQIP}} Clinical Outcomes Analysis}
       \field{urlday}{11}
       \field{urlmonth}{11}
       \field{urlyear}{2018}
@@ -566,6 +584,165 @@
 
 \refsection{2}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{stolarski_impact_2022}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=89638e4c02a287b7cfe23b7eff469f79}{%
+           family={Stolarski},
+           familyi={S\bibinitperiod},
+           given={Allan\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a59ff218a9789a9ddbdac7114536718}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1e5192429b10ce564066f54cf9bc42b}{%
+           family={Aly},
+           familyi={A\bibinitperiod},
+           given={Sherif},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=23ce7877f7e5126bc292c7ec0f37dbcb}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Florencia},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbc0575e567e84d49e65a19a3a0c977f}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Cullen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9c3710f6d58e1d45b6dcc789819075a}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc55380e69403261f0b8f362edca6304}{%
+           family={Pernar},
+           familyi={P\bibinitperiod},
+           given={Luise\bibnamedelima I},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bc068bf40a22701cd6a365a66ee69b2}{%
+           family={Carmine},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ea65f604cba77afff58a483d64ca457}
+      \strng{fullhash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \strng{bibnamehash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \strng{authorbibnamehash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \strng{authornamehash}{2ea65f604cba77afff58a483d64ca457}
+      \strng{authorfullhash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Impact}} of {{English Proficiency}} on {{Outcomes After Bariatric Surgery-Under Review}}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{woods_limited_2022}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=8231e1c96118ee789fbf41a7d95f290e}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Alison\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a59ff218a9789a9ddbdac7114536718}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73337d336fa9a845412336a61f18cd82}{%
+           family={Duraiswamy},
+           familyi={D\bibinitperiod},
+           given={Swetha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=410c786e38cf713c9015f6979cab58a1}{%
+           family={Ceraolo},
+           familyi={C\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=1d76754de141aa1e206681c89716cd7d}{%
+           family={Gunn},
+           familyi={G\bibinitperiod},
+           given={Christine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e871d0e0c9def6b5da8fc9d3dcc982e1}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc659cf9f3006a4482e79cc9f598ae27}{%
+           family={Segev},
+           familyi={S\bibinitperiod},
+           given={Dorry\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e335f0585b6d8401dbc9e0cac519cbf}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={F.\bibnamedelimi Thurston},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eab5ce9db287c43a009fb868a572d5a7}
+      \strng{fullhash}{58c1fdc6e1443d54dd3fc29855e902ba}
+      \strng{bibnamehash}{58c1fdc6e1443d54dd3fc29855e902ba}
+      \strng{authorbibnamehash}{58c1fdc6e1443d54dd3fc29855e902ba}
+      \strng{authornamehash}{eab5ce9db287c43a009fb868a572d5a7}
+      \strng{authorfullhash}{58c1fdc6e1443d54dd3fc29855e902ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Limited English proficiency (LEP) is common among hospitalized patients and may impact care. We synthesized the literature comparing clinical outcomes after in-hospital care for English-proficient(EP) versus LEP patients.}
+      \field{day}{2}
+      \field{issn}{1525-1497}
+      \field{journaltitle}{Journal of General Internal Medicine}
+      \field{month}{2}
+      \field{shortjournal}{Journal of General Internal Medicine}
+      \field{title}{Limited {{English Proficiency}} and {{Clinical Outcomes After Hospital-Based Care}} in {{English-Speaking Countries}}: A {{Systematic Review}}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s11606-021-07348-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11606-021-07348-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11606-021-07348-6
+      \endverb
+    \endentry
     \entry{talutis_strategies_2021}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=36b3856ed5653f3d00e954d540afddb2}{%
@@ -623,9 +800,6 @@
            giveni={F\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{7a3e4aba9c53337096a20728083c47a1}
       \strng{fullhash}{f2f4cc67fe6d350b9a508887ee8daa79}
       \strng{bibnamehash}{f2f4cc67fe6d350b9a508887ee8daa79}
@@ -639,15 +813,28 @@
       \field{annotation}{0 citations (Crossref) [2021-08-03]}
       \field{issn}{00029610}
       \field{journaltitle}{The American Journal of Surgery}
+      \field{langid}{english}
       \field{month}{3}
+      \field{shortjournal}{The American Journal of Surgery}
       \field{shorttitle}{Strategies to Optimize Management of Incidental Radiographic Findings in the Primary Care Setting}
       \field{title}{Strategies to Optimize Management of Incidental Radiographic Findings in the Primary Care Setting: {{A}} Mixed Methods Study}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
       \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{S0002961021001732}
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1016/j.amjsurg.2021.03.038
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0002961021001732
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0002961021001732
       \endverb
     \endentry
     \entry{bala_web_2020}{article}{}
@@ -704,9 +891,6 @@
            giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{c48644513d15985ab88eae9c98b788d3}
       \strng{fullhash}{33afeb98cc5433f718bf68260ff4f1df}
       \strng{bibnamehash}{33afeb98cc5433f718bf68260ff4f1df}
@@ -717,20 +901,33 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Background\hspace{1em}Incidental radiographic findings, such as adrenal nodules, are commonly identified in imaging studies and documented in radiology reports. However, patients with such findings frequently do not receive appropriate follow-up, partially due to the lack of tools for the management of such findings and the time required to maintain up-to-date lists. Natural language processing (NLP) is capable of extracting information from free-text clinical documents and could provide the basis for software solutions that do not require changes to clinical workflows. Objectives\hspace{1em}In this manuscript we present (1) a machine learning algorithm we trained to identify radiology reports documenting the presence of a newly discovered adrenal incidentaloma, and (2) the web application and results database we developed to manage these clinical findings. Methods\hspace{1em}We manually annotated a training corpus of 4,090 radiology reports from across our institution with a binary label indicating whether or not a report contains a newly discovered adrenal incidentaloma. We trained a convolutional neural network to perform this text classification task. Over the NLP backbone we built a web application that allows users to coordinate clinical management of adrenal incidentalomas in real time. Results\hspace{1em}The annotated dataset included 404 positive (9.9\%) and 3,686 (90.1\%) negative reports. Our model achieved a sensitivity of 92.9\% (95\% confidence interval: 80.9–97.5\%), a positive predictive value of 83.0\% (69.9–91.1)\%, a specificity of 97.8\% (95.8–98.9)\%, and an F1 score of 87.6\%. We developed a front-end web application based on the model's output. Conclusion\hspace{1em}Developing an NLP-enabled custom web application for tracking and management of high-risk adrenal incidentalomas is feasible in a resource constrained, safety net hospital. Such applications can be used by an institution's quality department or its primary care providers and can easily be generalized to other types of clinical findings.}
+      \field{abstract}{Abstract Background{$\quad$}Incidental radiographic findings, such as adrenal nodules, are commonly identified in imaging studies and documented in radiology reports. However, patients with such findings frequently do not receive appropriate follow-up, partially due to the lack of tools for the management of such findings and the time required to maintain up-to-date lists. Natural language processing (NLP) is capable of extracting information from free-text clinical documents and could provide the basis for software solutions that do not require changes to clinical workflows. Objectives{$\quad$}In this manuscript we present (1) a machine learning algorithm we trained to identify radiology reports documenting the presence of a newly discovered adrenal incidentaloma, and (2) the web application and results database we developed to manage these clinical findings. Methods{$\quad$}We manually annotated a training corpus of 4,090 radiology reports from across our institution with a binary label indicating whether or not a report contains a newly discovered adrenal incidentaloma. We trained a convolutional neural network to perform this text classification task. Over the NLP backbone we built a web application that allows users to coordinate clinical management of adrenal incidentalomas in real time. Results{$\quad$}The annotated dataset included 404 positive (9.9\%) and 3,686 (90.1\%) negative reports. Our model achieved a sensitivity of 92.9\% (95\% confidence interval: 80.9–97.5\%), a positive predictive value of 83.0\% (69.9–91.1)\%, a specificity of 97.8\% (95.8–98.9)\%, and an F1 score of 87.6\%. We developed a front-end web application based on the model's output. Conclusion{$\quad$}Developing an NLP-enabled custom web application for tracking and management of high-risk adrenal incidentalomas is feasible in a resource constrained, safety net hospital. Such applications can be used by an institution's quality department or its primary care providers and can easily be generalized to other types of clinical findings.}
       \field{annotation}{1 citations (Crossref) [2021-08-03]}
       \field{issn}{1869-0327}
       \field{journaltitle}{Applied Clinical Informatics}
+      \field{langid}{english}
       \field{month}{8}
       \field{number}{04}
+      \field{shortjournal}{Appl Clin Inform}
       \field{title}{A {{Web Application}} for {{Adrenal Incidentaloma Identification}}, {{Tracking}}, and {{Management Using Machine Learning}}}
+      \field{urlday}{28}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
       \field{volume}{11}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{606\bibrangedash 616}
       \range{pages}{11}
       \verb{doi}
       \verb 10.1055/s-0040-1715892
+      \endverb
+      \verb{urlraw}
+      \verb http://www.thieme-connect.de/DOI/DOI?10.1055/s-0040-1715892
+      \endverb
+      \verb{url}
+      \verb http://www.thieme-connect.de/DOI/DOI?10.1055/s-0040-1715892
       \endverb
     \endentry
     \entry{crable_management_2020}{article}{}
@@ -781,9 +978,6 @@
            giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{f8fcf8d8dd6a8a5f0878c74b4d02d101}
       \strng{fullhash}{b9d08403913d98019dcaf6217f65e4e4}
       \strng{bibnamehash}{b9d08403913d98019dcaf6217f65e4e4}
@@ -797,17 +991,30 @@
       \field{annotation}{4 citations (Crossref) [2021-08-03]}
       \field{issn}{15461440}
       \field{journaltitle}{Journal of the American College of Radiology}
+      \field{langid}{english}
       \field{month}{12}
       \field{number}{4}
-      \field{shorttitle}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}}
-      \field{title}{Management {{Strategies}} to {{Promote Follow}}-{{Up Care}} for {{Incidental Findings}}: {{A Scoping Review}}}
+      \field{shortjournal}{Journal of the American College of Radiology}
+      \field{shorttitle}{Management {{Strategies}} to {{Promote Follow-Up Care}} for {{Incidental Findings}}}
+      \field{title}{Management {{Strategies}} to {{Promote Follow-Up Care}} for {{Incidental Findings}}: {{A Scoping Review}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
       \field{volume}{18}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{566\bibrangedash 579}
       \range{pages}{14}
       \verb{doi}
       \verb 10.1016/j.jacr.2020.11.006
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1546144020312254
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1546144020312254
       \endverb
     \endentry
     \entry{nguyen_patient-level_2020}{article}{}
@@ -852,9 +1059,6 @@
            giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{8b246c6937a57983bca8b5dcc613cf9b}
       \strng{fullhash}{435750901ff1b9400348417818a17a5b}
       \strng{bibnamehash}{435750901ff1b9400348417818a17a5b}
@@ -866,31 +1070,45 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The influence of patient-level factors on palliative and hospice care is unclear. We conducted a retrospective review of 2321 patients aged {$\geq$}18 that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their chart was complete, their length of stay was {$\geq$}48 hours, and if based on their diagnoses, they would have benefited from palliative care consultation (PCC). Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race/ethnicity, education, language, insurance status, and income. 730 patients fit our inclusion criteria and 30\% (n = 211) received PCC. The OR of receiving PCC was 1.26 (99\% CrI, 0.73-2.12) for Blacks, 0.81 (99\% CrI, 0.31-1.86) for Hispanics, and 0.69 (99\% CrI, 0.19-2.46) for other minorities. Less than high school education was associated with greater odds of PCC (OR 2.28, 99\% CrI, 1.09-4.93) compared to no schooling. Compared to English speakers, non-English speakers had higher odds of receiving PCC when cared for by medical services (OR 3.01 [99\% CrI, 1.44-5.32]) but lower odds of PCC when cared for by surgical services (0.22 [99\% CrI, {$<$}0.01-3.42]). Insurance status and income were not associated with differences in PCC. At our institution, we found no evidence of racial/ethnic, insurance, or income status affecting PCC while primary language spoken and educational status did. Further investigation is warranted to examine the system and provider-level factors influencing PCC's low utilization by medical and surgical specialties.}
+      \field{abstract}{The influence of patient-level factors on palliative and hospice care is unclear. We conducted a retrospective review of 2321 patients aged ≥18 that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their chart was complete, their length of stay was ≥48 hours, and if based on their diagnoses, they would have benefited from palliative care consultation (PCC). Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race/ethnicity, education, language, insurance status, and income. 730 patients fit our inclusion criteria and 30\% (n = 211) received PCC. The OR of receiving PCC was 1.26 (99\% CrI, 0.73-2.12) for Blacks, 0.81 (99\% CrI, 0.31-1.86) for Hispanics, and 0.69 (99\% CrI, 0.19-2.46) for other minorities. Less than high school education was associated with greater odds of PCC (OR 2.28, 99\% CrI, 1.09-4.93) compared to no schooling. Compared to English speakers, non-English speakers had higher odds of receiving PCC when cared for by medical services (OR 3.01 [99\% CrI, 1.44-5.32]) but lower odds of PCC when cared for by surgical services (0.22 [99\% CrI, {$<$}0.01-3.42]). Insurance status and income were not associated with differences in PCC. At our institution, we found no evidence of racial/ethnic, insurance, or income status affecting PCC while primary language spoken and educational status did. Further investigation is warranted to examine the system and provider-level factors influencing PCC’s low utilization by medical and surgical specialties.}
       \field{annotation}{0 citations (Crossref) [2021-08-03]}
+      \field{day}{16}
       \field{issn}{1049-9091, 1938-2715}
       \field{journaltitle}{American Journal of Hospice and Palliative Medicine®}
+      \field{langid}{english}
       \field{month}{12}
-      \field{title}{Patient-{{Level Factors Influencing Palliative Care Consultation}} at a {{Safety}}-{{Net Urban Hospital}}}
+      \field{shortjournal}{Am J Hosp Palliat Care}
+      \field{title}{Patient-{{Level Factors Influencing Palliative Care Consultation}} at a {{Safety-Net Urban Hospital}}}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
       \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{104990912098176}
       \range{pages}{1}
       \verb{doi}
       \verb 10.1177/1049909120981764
       \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/1049909120981764
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/1049909120981764
+      \endverb
     \endentry
     \entry{castillo-angeles_transferred_2019}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=1c8773adf83562fc06bc274da8be7410}{%
-           family={{Castillo-Angeles}},
-           familyi={C\bibinitperiod},
+           family={Castillo-Angeles},
+           familyi={C\bibinithyphendelim A\bibinitperiod},
            given={Manuel},
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=5170f4630572d5aec528ba88624ba399}{%
-           family={{Uribe-Leitz}},
-           familyi={U\bibinitperiod},
+           family={Uribe-Leitz},
+           familyi={U\bibinithyphendelim L\bibinitperiod},
            given={Tarsicio},
            giveni={T\bibinitperiod},
            givenun=0}}%
@@ -922,9 +1140,6 @@
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{0d8da2b35fca0a90386cc69260668adf}
       \strng{fullhash}{dd632400fbbc2e0b42789750d3b3a56d}
       \strng{bibnamehash}{dd632400fbbc2e0b42789750d3b3a56d}
@@ -938,13 +1153,25 @@
       \field{annotation}{9 citations (Crossref) [2021-08-03] ZSCC: 0000002}
       \field{issn}{10727515}
       \field{journaltitle}{Journal of the American College of Surgeons}
+      \field{langid}{english}
       \field{month}{1}
       \field{shorttitle}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}}
       \field{title}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}: {{A NSQIP Propensity Score Matched Analysis}}}
+      \field{urlday}{8}
+      \field{urlmonth}{2}
+      \field{urlyear}{2019}
       \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1016/j.jamcollsurg.2019.01.014
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1072751519300845
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1072751519300845
       \endverb
     \endentry
     \entry{nguyen_differential_2019}{article}{}
@@ -989,9 +1216,6 @@
            giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{8b246c6937a57983bca8b5dcc613cf9b}
       \strng{fullhash}{435750901ff1b9400348417818a17a5b}
       \strng{bibnamehash}{435750901ff1b9400348417818a17a5b}
@@ -1003,18 +1227,32 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{There is a paucity of data regarding the utilization of palliative care consultation (PCC) in surgical specialties. We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) who died within 6 months of admission to Boston Medical Center from 2012 to 2017. Patients were included for analysis if their length of stay was more than 48 hours and if, based on their diagnoses as determined by literature review and expert consensus, they would have benefited from PCC. Bayesian regression was used to estimate the odds ratio (OR) and 99\% credible intervals (CrI) of receiving PCC adjusted for age, sex, race, insurance status, median income, and comorbidity status. Among the 739 patients who fit the inclusion criteria, only 30\% (n = 222) received PCC even though 664 (90\%) and 75 (10\%) of these patients were identified as warranting PCC on medical and surgical services, respectively. Of the 222 patients who received PCC, 214 (96\%) were cared for by medical services and 8 (4\%) were cared for by surgical services. Patients cared for primarily by surgical were significantly less likely to receive PCC than primary patients of medical service providers (OR, 0.19, 99\% CrI, 0.056-0.48). At our institution, many surgical patients appropriate for PCC are unable to benefit from this service due to low consultation numbers. Further investigation is warranted to examine if this phenomenon is observed at other institutions, elucidate the reasons for this disparity, and develop interventions to increase the appropriate use of PCC throughout all medical specialties.}
+      \field{abstract}{There is a paucity of data regarding the utilization of palliative care consultation (PCC) in surgical specialties. We conducted a retrospective review of 2321 adult patients (age ≥18) who died within 6 months of admission to Boston Medical Center from 2012 to 2017. Patients were included for analysis if their length of stay was more than 48 hours and if, based on their diagnoses as determined by literature review and expert consensus, they would have benefited from PCC. Bayesian regression was used to estimate the odds ratio (OR) and 99\% credible intervals (CrI) of receiving PCC adjusted for age, sex, race, insurance status, median income, and comorbidity status. Among the 739 patients who fit the inclusion criteria, only 30\% (n = 222) received PCC even though 664 (90\%) and 75 (10\%) of these patients were identified as warranting PCC on medical and surgical services, respectively. Of the 222 patients who received PCC, 214 (96\%) were cared for by medical services and 8 (4\%) were cared for by surgical services. Patients cared for primarily by surgical were significantly less likely to receive PCC than primary patients of medical service providers (OR, 0.19, 99\% CrI, 0.056-0.48). At our institution, many surgical patients appropriate for PCC are unable to benefit from this service due to low consultation numbers. Further investigation is warranted to examine if this phenomenon is observed at other institutions, elucidate the reasons for this disparity, and develop interventions to increase the appropriate use of PCC throughout all medical specialties.}
       \field{annotation}{3 citations (Crossref) [2021-08-03] ZSCC: 0000000}
+      \field{day}{6}
       \field{issn}{1049-9091, 1938-2715}
       \field{journaltitle}{American Journal of Hospice and Palliative Medicine®}
+      \field{langid}{english}
       \field{month}{8}
+      \field{shortjournal}{Am J Hosp Palliat Care}
       \field{title}{Differential {{Utilization}} of {{Palliative Care Consultation Between Medical}} and {{Surgical Services}}}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
       \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{104990911986790}
       \range{pages}{1}
       \verb{doi}
       \verb 10.1177/1049909119867904
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/1049909119867904
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/1049909119867904
       \endverb
     \endentry
     \entry{drake_laparoscopic_2018}{article}{}
@@ -1077,9 +1315,6 @@
            giveni={Q\bibinithyphendelim Y\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{e0159ddcc5654d1220ed204743b67879}
       \strng{fullhash}{cb9734f754215962d278348029c6963a}
       \strng{bibnamehash}{cb9734f754215962d278348029c6963a}
@@ -1093,16 +1328,28 @@
       \field{annotation}{4 citations (Crossref) [2021-08-03] ZSCC: NoCitationData[s1]}
       \field{issn}{00396060}
       \field{journaltitle}{Surgery}
+      \field{langid}{english}
       \field{month}{12}
       \field{shorttitle}{Laparoscopic Adrenalectomy for Metastatic Disease}
       \field{title}{Laparoscopic Adrenalectomy for Metastatic Disease: {{Retrospective}} Cohort with Long-Term, Comprehensive Follow-Up}
+      \field{urlday}{27}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
       \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1016/j.surg.2018.11.008
       \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039606018307852
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039606018307852
+      \endverb
     \endentry
-    \entry{ghuman_prophylactic_2018-1}{article}{}
+    \entry{ghuman_prophylactic_2018-1}{article}{useprefix=true}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=43dd83a4e72d5413489827a7399bcbcf}{%
            family={Ghuman},
@@ -1110,12 +1357,14 @@
            given={Amandeep},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=414a6262dfb4ac596e05d07c9d6ffed8}{%
-           family={{de Jonge}},
-           familyi={d\bibinitperiod},
+        {{un=0,uniquepart=base,hash=30f10a2da9ab25102372e3da92ceb0ab}{%
+           family={Jonge},
+           familyi={J\bibinitperiod},
            given={S.W.},
            giveni={S\bibinitperiod},
-           givenun=0}}%
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=8e9dcd2dbfa27668f6f20cedf72d3b95}{%
            family={Dryden},
            familyi={D\bibinitperiod},
@@ -1138,34 +1387,43 @@
            giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{1de29f68510e2207b77139b511afba0d}
-      \strng{fullhash}{eeba739116b6b30ef23cfe0aa890a147}
-      \strng{bibnamehash}{eeba739116b6b30ef23cfe0aa890a147}
-      \strng{authorbibnamehash}{eeba739116b6b30ef23cfe0aa890a147}
+      \strng{fullhash}{caf42885fa55e7ef06fde6879da3a2b3}
+      \strng{bibnamehash}{caf42885fa55e7ef06fde6879da3a2b3}
+      \strng{authorbibnamehash}{caf42885fa55e7ef06fde6879da3a2b3}
       \strng{authornamehash}{1de29f68510e2207b77139b511afba0d}
-      \strng{authorfullhash}{eeba739116b6b30ef23cfe0aa890a147}
+      \strng{authorfullhash}{caf42885fa55e7ef06fde6879da3a2b3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Background: Alpha-1 adrenergic blockers used to treat postoperative urinary retention (POUR) may also have a preventative role. Here we assess the evidence behind their prophylactic use on POUR prevention. Study design: PRISMA guidelines were followed. All studies reviewed for eligibility, data extraction, and risk of bias assessment. Pooled risk ratios with 95\% confidence intervals calculated using a random effects model. Heterogeneity assessed using Forest plots, I2 statistic and Chi-squared Cochran's Q-statistic. Results: Fifteen RCTs (1732 patients) included. Prophylactic alpha-1 adrenergic blockers significantly reduced risk of POUR, 13.16\% vs 30.24\%, RR {$\frac{1}{4}$} 0.48 (95\%CI: 0.33; 0.70, p-value {$\frac{1}{4}$} .001), without a statistically significant increase in adverse events. Substantial heterogeneity found between included studies (I2 {$\frac{1}{4}$} 65.49\% [95\%CI:48.49; 95.01] \& Q-statistic 43.46 (p-value{$<$}.001)). Subgroup analysis revealed strong risk reduction and little heterogeneity in males (RR:0.33, 95\%CI:0.23; 0.47, p-value{$<$}.001, I2:10.58) and patients receiving spinal anesthesia (RR:0.26, 95\%CI:0.14; 0.46, p-value{$<$}.0001, I2 {$\frac{1}{4}$} 0\%). Conclusion: Prophylactic alpha-1 adrenergic blockers reduce risk of POUR in males and after spinal anesthesia.}
+      \field{abstract}{Background: Alpha-1 adrenergic blockers used to treat postoperative urinary retention (POUR) may also have a preventative role. Here we assess the evidence behind their prophylactic use on POUR prevention. Study design: PRISMA guidelines were followed. All studies reviewed for eligibility, data extraction, and risk of bias assessment. Pooled risk ratios with 95\% confidence intervals calculated using a random effects model. Heterogeneity assessed using Forest plots, I2 statistic and Chi-squared Cochran's Q-statistic. Results: Fifteen RCTs (1732 patients) included. Prophylactic alpha-1 adrenergic blockers significantly reduced risk of POUR, 13.16\% vs 30.24\%, RR ¼ 0.48 (95\%CI: 0.33; 0.70, p-value ¼ .001), without a statistically significant increase in adverse events. Substantial heterogeneity found between included studies (I2 ¼ 65.49\% [95\%CI:48.49; 95.01] \& Q-statistic 43.46 (p-value{$<$}.001)). Subgroup analysis revealed strong risk reduction and little heterogeneity in males (RR:0.33, 95\%CI:0.23; 0.47, p-value{$<$}.001, I2:10.58) and patients receiving spinal anesthesia (RR:0.26, 95\%CI:0.14; 0.46, p-value{$<$}.0001, I2 ¼ 0\%). Conclusion: Prophylactic alpha-1 adrenergic blockers reduce risk of POUR in males and after spinal anesthesia.}
       \field{annotation}{9 citations (Crossref) [2021-08-03] ZSCC: 0000003}
       \field{issn}{00029610}
       \field{journaltitle}{The American Journal of Surgery}
+      \field{langid}{english}
       \field{month}{5}
       \field{number}{5}
       \field{shorttitle}{Prophylactic Use of Alpha-1 Adrenergic Blocking Agents for Prevention of Postoperative Urinary Retention}
       \field{title}{Prophylactic Use of Alpha-1 Adrenergic Blocking Agents for Prevention of Postoperative Urinary Retention: {{A}} Review \& Meta-Analysis of Randomized Clinical Trials}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
       \field{volume}{215}
       \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{973\bibrangedash 979}
       \range{pages}{7}
       \verb{doi}
       \verb 10.1016/j.amjsurg.2018.01.015
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0002961017315490
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0002961017315490
       \endverb
     \endentry
     \entry{jang_disease-causing_2018-1}{article}{}
@@ -1219,9 +1477,6 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{79aad8f2b2e14fba946aae81f1653dd5}
       \strng{fullhash}{c5694991996c4215fc42445af729a8c7}
       \strng{bibnamehash}{c5694991996c4215fc42445af729a8c7}
@@ -1236,16 +1491,28 @@
       \field{annotation}{13 citations (Crossref) [2021-08-03] ZSCC: 0000004}
       \field{issn}{10597794}
       \field{journaltitle}{Human Mutation}
+      \field{langid}{english}
       \field{month}{4}
       \field{number}{4}
       \field{title}{Disease-Causing Mutations in the Promoter and Enhancer of the Ornithine Transcarbamylase Gene}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
       \field{volume}{39}
       \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{527\bibrangedash 536}
       \range{pages}{10}
       \verb{doi}
       \verb 10.1002/humu.23394
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/humu.23394
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/humu.23394
       \endverb
     \endentry
     \entry{laser_long-term_2016-1}{article}{}
@@ -1308,9 +1575,6 @@
            giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{f7b2f1c699856c69d8baa9332346b051}
       \strng{fullhash}{b7be7ad52e8bb53e28cda67412783848}
       \strng{bibnamehash}{b7be7ad52e8bb53e28cda67412783848}
@@ -1321,21 +1585,33 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{BACKGROUND: The short-term natural history of blunt cerebrovascular injuries (BCVIs) has been previously described in the literature, but the purpose of this study was to analyze long-term serial follow-up and lesion progression of BCVI. METHODS: This is a single institution's retrospective review of a prospectively collected database over four years (2009–2013). All patients with a diagnosis of BCVI by computed tomographic (CT) scan were identified, and injuries were graded based on modified Denver scale. Management followed institutional algorithm: initial whole-body contrast-enhanced CT scan, followed by CT angiography at 24 to 72 hours, 5 to 7 days, 4 to 6 weeks, and 3 months after injury. All follow-up imaging, medication management, and clinical outcomes through 6 months following injury were recorded. RESULTS: There were 379 patients with 509 injuries identified. Three hundred eighty-one injuries were diagnosed as BCVI on first CT (Grade 1 injuries, 126; Grade 2 injuries, 116; Grade 3 injuries, 69; and Grade 4 injuries, 70); 100 ``indeterminate'' on whole-body CT; 28 injuries were found in patients reimaged only for lesions detected in other vessels. Sixty percent were male, mean (SD) age was 46.5 (19.9)years, 65\% were white, and 62\% were victims of a motor vehicle crash. Most frequently, Grade 1 injuries were resolved at all subsequent time points. Up to 30\% of Grade 2 injuries worsened, but nearly 50\% improved or resolved. Fortysix percent of injuries originally not detected were subsequently diagnosed as Grade 3 injuries. Greater than 70\% of all imaged Grade 3 and Grade 4 injuries remained unchanged at all subsequent time points. CONCLUSIONS:}
+      \field{abstract}{BACKGROUND: The short-term natural history of blunt cerebrovascular injuries (BCVIs) has been previously described in the literature, but the purpose of this study was to analyze long-term serial follow-up and lesion progression of BCVI. METHODS: This is a single institution's retrospective review of a prospectively collected database over four years (2009–2013). All patients with a diagnosis of BCVI by computed tomographic (CT) scan were identified, and injuries were graded based on modified Denver scale. Management followed institutional algorithm: initial whole-body contrast-enhanced CT scan, followed by CT angiography at 24 to 72 hours, 5 to 7 days, 4 to 6 weeks, and 3 months after injury. All follow-up imaging, medication management, and clinical outcomes through 6 months following injury were recorded. RESULTS: There were 379 patients with 509 injuries identified. Three hundred eighty-one injuries were diagnosed as BCVI on first CT (Grade 1 injuries, 126; Grade 2 injuries, 116; Grade 3 injuries, 69; and Grade 4 injuries, 70); 100 “indeterminate” on whole-body CT; 28 injuries were found in patients reimaged only for lesions detected in other vessels. Sixty percent were male, mean (SD) age was 46.5 (19.9)years, 65\% were white, and 62\% were victims of a motor vehicle crash. Most frequently, Grade 1 injuries were resolved at all subsequent time points. Up to 30\% of Grade 2 injuries worsened, but nearly 50\% improved or resolved. Fortysix percent of injuries originally not detected were subsequently diagnosed as Grade 3 injuries. Greater than 70\% of all imaged Grade 3 and Grade 4 injuries remained unchanged at all subsequent time points. CONCLUSIONS:}
       \field{annotation}{14 citations (Crossref) [2021-08-03] ZSCC: 0000012}
       \field{issn}{2163-0755}
       \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
+      \field{langid}{english}
       \field{month}{12}
       \field{number}{6}
       \field{shorttitle}{Long-Term Follow-up of Blunt Cerebrovascular Injuries}
       \field{title}{Long-Term Follow-up of Blunt Cerebrovascular Injuries: {{Does}} Time Heal All Wounds?}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
       \field{volume}{81}
       \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1063\bibrangedash 1069}
       \range{pages}{7}
       \verb{doi}
       \verb 10.1097/TA.0000000000001223
+      \endverb
+      \verb{urlraw}
+      \verb http://Insights.ovid.com/crossref?an=01586154-201612000-00010
+      \endverb
+      \verb{url}
+      \verb http://Insights.ovid.com/crossref?an=01586154-201612000-00010
       \endverb
     \endentry
     \entry{lauerman_lethal_2015-1}{article}{}
@@ -1398,9 +1674,6 @@
            giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \strng{namehash}{d3acf5bb3d462fcfe14a9ef0a799370e}
       \strng{fullhash}{cd1ed1d0a7515159c915d320af08b816}
       \strng{bibnamehash}{cd1ed1d0a7515159c915d320af08b816}
@@ -1415,17 +1688,29 @@
       \field{annotation}{13 citations (Crossref) [2021-08-03] ZSCC: 0000013}
       \field{issn}{2163-0755}
       \field{journaltitle}{Journal of Trauma and Acute Care Surgery}
+      \field{langid}{english}
       \field{month}{6}
       \field{number}{6}
       \field{shorttitle}{Lethal Now or Lethal Later}
       \field{title}{Lethal Now or Lethal Later: {{The}} Natural History of {{Grade}} 4 Blunt Cerebrovascular Injury}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
       \field{volume}{78}
       \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1071\bibrangedash 1075}
       \range{pages}{5}
       \verb{doi}
       \verb 10.1097/TA.0000000000000654
+      \endverb
+      \verb{urlraw}
+      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=01586154-201506000-00001
+      \endverb
+      \verb{url}
+      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=01586154-201506000-00001
       \endverb
     \endentry
     \entry{pho_data_2015}{inproceedings}{}
@@ -1458,9 +1743,6 @@
            giveni={C\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \list{location}{1}{%
         {Austin, TX}%
       }
@@ -1476,9 +1758,11 @@
       \field{labeltitlesource}{title}
       \field{abstract}{As the difficulty and cost of generating data has decreased, there have been emerging problems of data movement between where it was collected to where it can most effectively be processed. The Science DMZ model is an established solution to help maximize the throughput from any given network infrastructure between sites but there still exists room for exploration and improvement, including the use of Software-Defined Networking (SDN). We aim to explore how the use of SDN-enabled flows in a Science DMZ may impact its main trait: performance. In this paper we have successfully demonstrated improvements in data transfer between certain sites and under certain conditions. Though we have also seen sites where there is no difference or even a performance penalty, all the results are consistent and reproducible over hundreds of test transfers suggesting there are unique properties of each site configuration leading to real and sustained performance increases to a Science DMZ.}
       \field{annotation}{ZSCC: 0000002}
-      \field{booktitle}{Supercomputing '15: {{ESnet SDN Workshop}}}
-      \field{title}{Data {{Transfer}} in a {{Science DMZ}} Using {{SDN}} with {{Applications}} for {{Precision Medicine}} in {{Cloud}} and {{High}}-Performance {{Computing}}}
+      \field{eventtitle}{Supercomputing '15: {{ESnet SDN Workshop}}}
+      \field{langid}{english}
+      \field{title}{Data {{Transfer}} in a {{Science DMZ}} Using {{SDN}} with {{Applications}} for {{Precision Medicine}} in {{Cloud}} and {{High-performance Computing}}}
       \field{year}{2015}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{4}
       \range{pages}{1}
@@ -1525,16 +1809,23 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Conversion of nitrogenous waste to urea via the urea cycle is regulated by factors that respond to nitrogen load to prevent toxic ammonia buildup. Six enzymes, N-acetylglutamate synthase, carbamylphosphate synthetase, ornithine transcarbamylase (OTC), argininosuccinate synthase, argininosuccinate lyase and arginase 1 (ARG1) are essential for ureagenesis. Most urea cycle disorders result from mutations in coding regions or splice sites, but regulatory region changes may also contribute. To analyze urea cycle transcriptional regulation we used Cis-Element Over Representation (CLOVER) software to find transcription factor binding motifs in conserved regions. Candidate binding sites for Estrogen Receptor and BRCA1 were found in the ARG1 promoter. Binding will be verified using an avidin-agarose pull down assay and western blotting. We also screened patients with OTC deficiency that lack typical mutations, for changes in OTC regulatory regions. We identified three single nucleotide substitutions as disease-causing candidates in the OTC promoter; two in a known HNF-4 binding site and one in a conserved region of unknown function. These changes were absent in 800 alleles from persons of Caucasian, Hispanic and African decent. Bioinformatic detection and molecular verification of regulatory factors is critical to understanding the urea cycle and for better diagnosis of disease.}
       \field{annotation}{ZSCC: 0000000}
+      \field{issue}{1\_supplement}
       \field{journaltitle}{The FASEB Journal}
-      \field{number}{1\_supplement}
       \field{title}{Analysis of {{Urea Cycle Gene Transcription Regulation}} Using {{Bioinformatic Software}} and {{Patient Sequences}}}
       \field{volume}{25}
       \field{year}{2011}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{564.8\bibrangedash 564.8}
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1096/fasebj.25.1_supplement.564.8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.fasebj.org/doi/abs/10.1096/fasebj.25.1_supplement.564.8
+      \endverb
+      \verb{url}
+      \verb https://www.fasebj.org/doi/abs/10.1096/fasebj.25.1_supplement.564.8
       \endverb
     \endentry
     \entry{labella_comprehensive_2011}{inproceedings}{}
@@ -1582,6 +1873,7 @@
       \field{title}{Comprehensive Bioinformatic Analysis of Urea Cycle Gene Transcription Regulation Using Cis-Element over Representation ({{CLOVER}}) Software and Patient Sequences to Identify Disease Causing Mutations}
       \field{volume}{102}
       \field{year}{2011}
+      \field{dateera}{ce}
       \true{nocite}
       \field{pages}{297\bibrangedash 297}
       \range{pages}{1}
@@ -1701,7 +1993,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
-      \field{title}{Investigation of {{miRNA}}-Directed {{Control}} of {{LDL Receptor Expression}}}
+      \field{title}{Investigation of {{miRNA-directed Control}} of {{LDL Receptor Expression}}}
       \field{type}{32nd {{Annual UMSOM Medical Student Research Day Oral Presentation}}}
       \field{year}{2009}
       \true{nocite}
@@ -2110,7 +2402,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: There is a gap in the literature with regards to the influence of patient-level factors affecting palliative and hospice care. We hypothesized that, while there is some sparse data specifically pointing to racial disparities in the appropriate receipt of hospice and palliative care, given our status as a safety-net urban hospital, this would not be evident at our institution. Methods: We conducted a retrospective review of 2321 adult patients (age {$\geq$}18) that died within 6 months of admission to our institution between 2012 and 2017. Patients were included for analysis if their demographic information was complete, their length of stay was more than 48 hours and if based on their diagnoses as determined by literature review and expert consensus, they would have benefited from palliative care consultation (PCC) either during their inpatient hospitalization or as outpatients. Bayesian regression with a weakly informative prior was used to find the odds ratio (OR) and 99\% credible interval (CrI) of receiving PCC based on race. Knowing that PCC is differentially used at our institution between medical and surgical services, we analyzed this data stratified by the patient's primary management service. Results: Among the 730 patients who fit our inclusion criteria, 44.9\% (n=328) were White, 40.8\% (n=298) were Black, 10.1\% (n=74) were Hispanic, and 4.1\% (30) identified as belonging to a different races. Overall, 24.7\% (n=81) of Whites, 35.9\% (n=107) of Blacks, 32.4\% (n=24) of Hispanics, and 30.0\% (n=9) of other races received PCC. Knowing that patients primarily managed by surgical services at our institution have significantly lower odds of receiving PCC at our institution than patients managed by medical services, we found no statistically significant racial disparities on PCC utilization when we stratified the data by whether the patient was managed primarily by surgical vs. medical services. However, among Black patients referral to PCC tends to be higher while among Hispanic patients that PCC tends to be lower with larger uncertainty (Table). Conclusion: At our institution, we found no evidence of racial disparities affecting PCC. This is in contrast to previous reports in the literature highlighting the differential use of palliative care and hospice in racial minorities. Further investigation is warranted to examine whether the type (safety-net vs. not) and location (urban vs. rural) of a hospital, along with other systems, patients, and provider-level factors, influences this non-discriminatory utilization of palliative care and hospice services.}
       \field{month}{2}
-      \field{title}{Race as a {{Determinant}} of {{Palliative Care Consultation}} at a {{Safety}}-{{Net Urban Hospital}}}
+      \field{title}{Race as a {{Determinant}} of {{Palliative Care Consultation}} at a {{Safety-Net Urban Hospital}}}
       \field{type}{Podium {{Presentation}}}
       \field{year}{2020}
       \true{nocite}
@@ -2247,7 +2539,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Published studies promoting minimally invasive pancreatectomy have been criticized for high-volume and/or single center bias. We sought to compare surgical and oncologic outcomes of patients with pancreatic cancer who underwent laparoscopic distal pancreatectomy (LDP) versus open distal pancreatectomy (ODP) in lower-volume hospitals. Design: Retrospective cohort study Setting: Low-volume hospitals ({$\leq$} 5 distal pancreatectomies per year). Patients: Patients {$\geq$} 18 years old with any pancreatic cancer who underwent distal pancreatectomy at a low-volume center between 2010 and 2014 were identified from the National Cancer Database (NCDB). Propensity scores were created for the odds of undergoing LDP. Patients were matched 1:1 based on propensity score. Interventions: LDP vs. ODP. Main outcome measures: 30-day mortality, 90-day mortality, median hospital length of stay (LOS), unplanned 30-day readmission, surgical margins, number of lymph nodes harvested, and survival. Results: Of the 2,842 eligible patients, 902 (31.7\%) underwent LDP and 1,940 (68.3\%) underwent ODP. Overall, 203 (22.5\%) laparoscopic cases were converted to open. After matching, LDP was predictive of decreased 90-day mortality (3.6\% vs. 5.9\%; p=0.0196), shorter LOS (6 vs. 7 days; p{$<$}0.0001), and fewer positive resection margins (12.5\% vs. 18.5\%; p=0.0004). There were no differences with respect to 30-day mortality (1.7\% vs. 2.9\%; p=0.0823), readmission (9.6\% vs. 7.4\%; p=0.0920), and number of lymph nodes harvested (7 vs. 8 nodes; p=0.2113). For pancreatic adenocarcinoma patients demonstrated similar median overall survival for patients who underwent LDP versus ODP (23.4 vs. 22.3 months; log-rank p=0.2460) after propensity-score matching. Conclusions: The results of this study suggest that, even in low-volume settings, LDP is associated with reduced 90-day mortality, shorter length of hospital stay, and lower rates of positive resection margins in well-selected patients.}
       \field{month}{9}
-      \field{title}{Surgical and {{Oncologic Outcomes}} of {{Open Versus Laparoscopic Distal Pancreatectomy}} in a {{Low}}-Volume {{Setting}}}
+      \field{title}{Surgical and {{Oncologic Outcomes}} of {{Open Versus Laparoscopic Distal Pancreatectomy}} in a {{Low-volume Setting}}}
       \field{type}{Poster {{Presentation}}}
       \field{year}{2019}
       \true{nocite}
@@ -2270,9 +2562,6 @@
            family={{Lilian Chen}},
            familyi={L\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
       \list{location}{1}{%
         {Houston TX}%
       }
@@ -2287,6 +2576,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction: There have been many changes to surgical education over the last few decades. With increased attention to patient safety, there is a push to better prepare our medical students prior to starting a surgical residency. We present our results from a pilot study of creating a senior medical student surgical boot camp including analysis of the learner's perspectives of boot camps. Methods: Graduating senior medical students entering a surgical residency underwent a voluntary three-day surgical boot camp. Pre-and post-surveys were used to evaluate confidence levels of common patient management issues as well as technical skills. Qualitative analysis of a focus group using a general inductive approach was used to develop themes surrounding students' perceptions of boot camps. Results: Ten medical students completed the boot camp. We found that most students were somewhat confident (3 on a 5-point Likert scale) in their abilities to manage common intern problems with increased variation among students for technical skills prior to the boot camp. Students all had improvements in confidence scores post boot camp for all measured tasks. From our qualitative analysis we found that students prefer a voluntary, surgery specific boot camp at the end of medical school as oppose to the start of their residency. Being given the choice to partake in the intervention provided the participating students with more motivation during the boot camp, supporting adult learning theory. Some of the students' major concerns include being the first point of contact for patient issues as well as being the first responder to patient emergencies. Students worry about their ability to multi-task and manage a large amount of information which differed from their experience as a medical student. In addition, students are realistic about their expectations from a preparatory boot camp and value it as an experience to help ``jump start'' their transition to residency. Conclusion: Our pilot study suggests that surgical boot camps may successfully improve students' confidence in patient management and technical skills prior to the start of their intern year. In addition, we found major themes surrounding students' perceptions of boot camp which may assist with future development of these programs. Students prefer a voluntary boot camp and value the experience at a medical school level. In addition, they are realistic in that a preparatory course will not teach them all they need to know prior to residency but more as a tool to help their transition.}
+      \field{langid}{english}
       \field{month}{2}
       \field{title}{Medical {{Student Perceptions Following Participation}} in a {{Surgical Boot Camp}} –{} {{A Qualitative Analysis}}.}
       \field{year}{2018}
@@ -2313,9 +2603,6 @@
            family={{Joaquim M Havens}},
            familyi={J\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
       \list{location}{1}{%
         {Portland, Maine}%
       }
@@ -2330,6 +2617,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective: Emergency General Surgery (EGS) encompasses high risk patients undergoing high risk procedures. Admission source, particularly interhospital transfers, is rarely accounted for clinical performance benchmarking. Our goal was to assess the impact of transferred patients on outcomes following EGS. Design: Retrospective analysis of the American College of Surgeons National Surgical Quality Improvement Project (ACS-NSQIP) database (2005-2014). Setting: High-quality surgical outcomes data from more than 80 US hospitals participating in ACS NSQIP. Patients: All inpatients that underwent one of 7 EGS procedures shown to represent 80\% of EGS volume, complications, and mortality nationally. Interventions: Admission source was classified as directly admitted versus transferred from an outside emergency room or an acute care facility. Main Outcome Measures: The primary outcomes were overall mortality, overall morbidity and major morbidity. Results: A total of 619,174 EGS admissions were identified, of which 31,173 (5\%) were transfers. Mean age was 55.8 years and 52\% were female. Overall mortality was 2.8\% for the entire cohort and 10.1\% within the transfer group. After risk adjustment for 33 clinical and demographic variables, transferred patients had higher rates of overall mortality (Odds Ratio [OR] 1.12, 95\% Confidence Interval [CI] 1.05 - 1.21), higher overall morbidity (OR 1.28, 95\% CI 1.22 - 1.34) and major morbidity (OR 1.29, 95\% CI 1.21 - 1.37) when compared with directly admitted patients. Conclusions: After rigorous risk adjustment, interhospital transfer status is an independent risk factor for mortality and morbidity in the EGS population. This increased burden on accepting institutions may have an impact on quality metrics and should be considered for benchmarking of clinical performance.}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{Transferred {{Emergency General Surgery Patients Are}} at {{Increased Risk}} of {{Death}}}
       \field{type}{Podium {{Presentation}}}

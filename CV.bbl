@@ -628,7 +628,7 @@
         {{un=0,uniquepart=base,hash=dc55380e69403261f0b8f362edca6304}{%
            family={Pernar},
            familyi={P\bibinitperiod},
-           given={Luise\bibnamedelima I},
+           given={Luise\bibnamedelima I.},
            giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=2bc068bf40a22701cd6a365a66ee69b2}{%
@@ -637,27 +637,46 @@
            given={Brian},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=fe09f681ffac80b255e74d453f78a061}{%
+        {{un=0,uniquepart=base,hash=7e335f0585b6d8401dbc9e0cac519cbf}{%
            family={Drake},
            familyi={D\bibinitperiod},
-           given={Frederick\bibnamedelima Thurston},
+           given={F.\bibnamedelimi Thurston},
            giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
       }
       \strng{namehash}{2ea65f604cba77afff58a483d64ca457}
-      \strng{fullhash}{ddb7225c4d9e105967d510eb9baca9f0}
-      \strng{bibnamehash}{ddb7225c4d9e105967d510eb9baca9f0}
-      \strng{authorbibnamehash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \strng{fullhash}{a0e001e103356d04f1369bc95fdd10fc}
+      \strng{bibnamehash}{a0e001e103356d04f1369bc95fdd10fc}
+      \strng{authorbibnamehash}{a0e001e103356d04f1369bc95fdd10fc}
       \strng{authornamehash}{2ea65f604cba77afff58a483d64ca457}
-      \strng{authorfullhash}{ddb7225c4d9e105967d510eb9baca9f0}
+      \strng{authorfullhash}{a0e001e103356d04f1369bc95fdd10fc}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The {{Impact}} of {{English Proficiency}} on {{Outcomes After Bariatric Surgery-Under Review}}}
+      \field{day}{28}
+      \field{issn}{0930-2794, 1432-2218}
+      \field{journaltitle}{Surgical Endoscopy}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{shortjournal}{Surg Endosc}
+      \field{title}{The Impact of {{English}} Proficiency on Outcomes after Bariatric Surgery}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
       \field{year}{2022}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s00464-022-09148-3
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s00464-022-09148-3
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s00464-022-09148-3
+      \endverb
     \endentry
     \entry{woods_limited_2022}{article}{}
       \name{author}{9}{}{%
@@ -781,12 +800,9 @@
            given={Cleopatra},
            giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c62038adb366c82d5530372679bdc0b1}{%
-           family={Feeney},
-           familyi={F\bibinitperiod},
-           given={Tim},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3af395b868e5fa2102337212d0f001}{%
+           family={\textbf{Feeney,\bibnamedelimb Timothy}},
+           familyi={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=9e0963b9e7ca0e86aee5a8172d55aafa}{%
            family={McAneny},
            familyi={M\bibinitperiod},
@@ -801,11 +817,11 @@
            givenun=0}}%
       }
       \strng{namehash}{7a3e4aba9c53337096a20728083c47a1}
-      \strng{fullhash}{f2f4cc67fe6d350b9a508887ee8daa79}
-      \strng{bibnamehash}{f2f4cc67fe6d350b9a508887ee8daa79}
-      \strng{authorbibnamehash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \strng{fullhash}{c0f29c3c052c83ae911aa982f0211403}
+      \strng{bibnamehash}{c0f29c3c052c83ae911aa982f0211403}
+      \strng{authorbibnamehash}{c0f29c3c052c83ae911aa982f0211403}
       \strng{authornamehash}{7a3e4aba9c53337096a20728083c47a1}
-      \strng{authorfullhash}{f2f4cc67fe6d350b9a508887ee8daa79}
+      \strng{authorfullhash}{c0f29c3c052c83ae911aa982f0211403}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}

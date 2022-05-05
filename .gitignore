@@ -8,3 +8,5 @@
 *.synctex.gz
 *.fls
 *.DS_Store
+*.bbl
+*.blg

@@ -66,7 +66,7 @@
 \addbibresource{Coauthors.bib}
 \addbibresource{oral.bib}
 \addbibresource{poster.bib}
-\addbibresource{OpEd.bib}
+\addbibresource{oped_first.bib}
 
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
@@ -216,7 +216,12 @@ Editorial work involving decisions regarding publication in The BMJ.
 
 \begin{refsection}[First_Authors]
    \nocite{*}   
-   \printbibliography[title={\underline{First Authored}}]
+   \printbibliography[title={\underline{First Authored Research}}]
+\end{refsection}
+
+\begin{refsection}[oped_first]
+   \nocite{*}   
+   \printbibliography[title={\underline{First Authored Non-Research}}]
 \end{refsection}
 
 
@@ -225,11 +230,6 @@ Editorial work involving decisions regarding publication in The BMJ.
    \printbibliography[title={\underline{Co-Authored}}]
 \end{refsection}
 
-  
-\begin{refsection}[OpEd]
-   \nocite{*}   
-   \printbibliography[title={\underline{Non-Research}}]
-\end{refsection}
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
@@ -247,7 +247,6 @@ Editorial work involving decisions regarding publication in The BMJ.
    \nocite{*}   
    \printbibliography[title={\underline{Poster}}]
 \end{refsection}
-
 
 \begin{refsection}[copresent]
    \nocite{*}   
